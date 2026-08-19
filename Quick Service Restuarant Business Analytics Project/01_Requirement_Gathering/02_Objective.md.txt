@@ -1,0 +1,15 @@
+The objective of this project is to build an analytics-oriented database and analysis workflow around a QSR business using publicly available data. The project will investigate how transactional and operational data can be structured, cleaned and analyzed to support business decisions related to sales performance, product performance, customer behavior and operational efficiency.
+
+Identify Food Safety Lapses and investigate and provide corrective measures and improve .
+
+
+Business Objectives
+
+Identify branch-level operational and compliance risks using available quality and inspection information.
+Monitor sales, order and branch-level performance to identify strong and weak operating areas.
+Evaluate product-level performance and identify high- and low-performing menu items.
+Analyze available cost and efficiency-related data to identify potential drivers of margin pressure.
+Investigate relationships between operational issues and commercial performance while avoiding unsupported causal conclusions.
+Design and implement a reliable relational database capable of supporting business analysis on a relatively large dataset.
+Validate key analytical metrics through defined business logic, data-quality checks and independent calculation/reconciliation where appropriate.
+Translate analytical findings into practical recommendations that can help management prioritize operational, commercial and quality-related actions.
