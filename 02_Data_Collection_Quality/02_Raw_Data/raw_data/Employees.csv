@@ -1,0 +1,750 @@
+EmployeeID,BranchID,FirstName,MiddleName,LastName,GovernmentID,Role,HireDate,EmploymentStatus,ManagerID,Salary,Phone,Email
+1,1,Rohan,,Sabharwal,GOV783225043,Branch Manager,2018-06-01,Active,,55727,9527030186,rohan.sabharwal5446@gmail.com
+2,1,Chaitaly,Gayathri,Goda,GOV303958366,Assistant Manager,2018-02-11,Active,1.0,39684,9767912210,chaitaly.goda7799@yahoo.com
+3,1,Gabriel,,Nori,GOV075567158,Assistant Manager,2023-04-18,Active,1.0,48413,9165568433,gabriel.nori546@outlook.com
+4,1,Dayamai,,Mukhopadhyay,GOV625709078,Shift Manager,2019-09-30,On Leave,2.0,25658,9409972431,dayamai.mukhopadhyay5193@yahoo.com
+5,1,Warhi,Tanvi,Soni,GOV531610628,Shift Manager,2017-03-10,Active,3.0,35346,9224208736,warhi.soni4903@outlook.com
+6,1,Ekapad,Tanveer,Kashyap,GOV725230242,Shift Manager,2021-07-04,Active,2.0,30502,9557798234,ekapad.kashyap8249@outlook.com
+7,1,Ijaya,Fiyaz,Varghese,GOV940134073,Shift Manager,2025-12-10,Active,2.0,36464,9357930481,ijaya.varghese1136@rediffmail.com
+8,1,Daksh,Owen,Palla,GOV671804691,Cashier,2020-09-27,Active,3.0,19946,9087897094,daksh.palla7087@yahoo.com
+9,1,Ganga,Veda,Sant,GOV426254927,Cleaner,2018-09-15,Active,5.0,11181,9854188410,ganga.sant8093@rediffmail.com
+10,1,Tanay,,Samra,GOV569846399,Cleaner,2020-10-09,Active,3.0,13283,9918558057,tanay.samra4488@gmail.com
+11,1,Rushil,,Jaggi,GOV321675655,Cashier,2018-02-13,Terminated,6.0,17380,9404563126,rushil.jaggi4855@gmail.com
+12,1,Qushi,,Butala,GOV839170997,Kitchen Staff,2018-08-16,Active,7.0,19444,9289453627,qushi.butala2120@yahoo.com
+13,1,Aadi,Osha,Dhaliwal,GOV192116425,Kitchen Staff,2025-05-06,Active,2.0,18004,9934579356,aadi.dhaliwal6709@rediffmail.com
+14,1,Vamakshi,Urmi,Memon,GOV679728972,Kitchen Staff,2018-08-09,Active,2.0,20082,9879695414,vamakshi.memon25@gmail.com
+15,1,Vasana,Divya,Narayanan,GOV520929497,Cashier,2017-10-01,Active,2.0,19146,9283826552,vasana.narayanan8317@yahoo.com
+16,1,Tristan,Laksh,Ranganathan,GOV278489007,Kitchen Staff,2023-06-25,Active,5.0,17614,9476003959,tristan.ranganathan3165@yahoo.com
+17,1,Champak,Balendra,Sarraf,GOV759584406,Kitchen Staff,2022-01-06,Resigned,3.0,21283,9141960966,champak.sarraf1744@rediffmail.com
+18,1,Leena,Hemang,Prashad,GOV130981344,Kitchen Staff,2026-06-24,Active,3.0,16601,9741387443,leena.prashad6280@yahoo.com
+19,1,Kabir,Zarna,Murthy,GOV766238771,Kitchen Staff,2022-09-25,Resigned,7.0,18706,9165601036,kabir.murthy6353@outlook.com
+20,1,Forum,Farhan,Maharaj,GOV667779887,Cleaner,2020-12-15,Resigned,2.0,15184,9605868392,forum.maharaj8529@outlook.com
+21,1,Osha,Warjas,Mangal,GOV014222788,Cashier,2025-09-23,Active,3.0,18469,9286895658,osha.mangal5550@rediffmail.com
+22,1,Samesh,Gagan,Chaudhary,GOV072583850,Kitchen Staff,2017-06-04,Active,6.0,18483,9561638764,samesh.chaudhary3374@yahoo.com
+23,1,Ekaja,Eesha,Raj,GOV824268541,Cashier,2025-03-21,Active,4.0,13462,9828499316,ekaja.raj1548@yahoo.com
+24,1,Devika,Lila,Balakrishnan,GOV148710985,Kitchen Staff,2018-11-23,Active,7.0,20343,9757815524,devika.balakrishnan8330@rediffmail.com
+25,1,Jeremiah,,Chaudhary,GOV634361174,Cleaner,2024-10-23,Active,2.0,14531,9052109684,jeremiah.chaudhary8193@yahoo.com
+26,1,Benjamin,,Ramaswamy,GOV681458647,Kitchen Staff,2016-03-01,Active,3.0,17753,9408073286,benjamin.ramaswamy5159@rediffmail.com
+27,1,Yatan,,Rege,GOV341685181,Kitchen Staff,2020-04-01,Active,4.0,17942,9044749286,yatan.rege967@gmail.com
+28,1,Omkaar,,Kashyap,GOV494198084,Cleaner,2022-04-13,Terminated,5.0,13990,9436844976,omkaar.kashyap7311@yahoo.com
+29,1,Jason,,Nanda,GOV122571199,Kitchen Staff,2018-12-03,Active,4.0,18249,9330525006,jason.nanda9980@gmail.com
+30,1,Maanav,Irya,Chakraborty,GOV117284519,Cashier,2023-04-10,Active,6.0,17747,9281171108,maanav.chakraborty647@rediffmail.com
+31,1,Mohini,David,Chander,GOV577197410,Cashier,2019-05-23,Active,4.0,19323,9235284249,mohini.chander2338@rediffmail.com
+32,1,Ria,Yutika,Khosla,GOV124028973,Cashier,2026-07-20,Active,2.0,19858,9169897091,ria.khosla7256@gmail.com
+33,1,Raksha,,Brar,GOV363327774,Kitchen Staff,2020-12-13,Active,5.0,15669,9896236988,raksha.brar4032@gmail.com
+34,1,Yasti,Anika,Mann,GOV131462012,Delivery Coordinator,2021-06-19,Terminated,3.0,20378,9775459510,yasti.mann2076@gmail.com
+35,1,Darika,Aayush,Issac,GOV530933548,Cashier,2016-07-03,Resigned,4.0,19943,9251350771,darika.issac7078@rediffmail.com
+36,1,Ucchal,Shravya,Master,GOV698771156,Kitchen Staff,2021-09-24,Active,4.0,15355,9847396436,ucchal.master8978@outlook.com
+37,1,Vrinda,Jairaj,Singh,GOV986357082,Cleaner,2020-12-13,Active,5.0,15231,9824833083,vrinda.singh2135@yahoo.com
+38,1,Chaaya,,Salvi,GOV785949099,Cashier,2021-11-22,Active,2.0,18732,9215883457,chaaya.salvi8174@outlook.com
+39,1,Harish,Gunbir,Thaker,GOV412501769,Cashier,2019-07-28,Active,7.0,16427,9658797363,harish.thaker1366@yahoo.com
+40,1,Neelima,,Konda,GOV191603922,Kitchen Staff,2019-05-31,Resigned,3.0,20832,9252279063,neelima.konda7386@gmail.com
+41,1,Parth,,Peri,GOV554604613,Cleaner,2019-10-09,On Leave,5.0,15846,9914775289,parth.peri9630@gmail.com
+42,1,Xavier,,Sant,GOV823833815,Kitchen Staff,2019-05-08,Active,4.0,16642,9019041406,xavier.sant8278@outlook.com
+43,2,Balveer,Ira,Natarajan,GOV231243080,Branch Manager,2023-10-09,Active,,59818,9631215465,balveer.natarajan4771@outlook.com
+44,2,Ubika,Netra,Tiwari,GOV236586054,Assistant Manager,2022-06-17,Active,43.0,49008,9607087586,ubika.tiwari8174@yahoo.com
+45,2,Daksh,Rachit,Setty,GOV557994328,Shift Manager,2016-12-28,Active,44.0,35722,9047442715,daksh.setty4484@rediffmail.com
+46,2,Gayathri,Lakshmi,Bajaj,GOV824922646,Shift Manager,2023-10-07,Active,44.0,31110,9792219391,gayathri.bajaj1497@gmail.com
+47,2,Prisha,,Sandhu,GOV456366949,Shift Manager,2016-10-04,Active,44.0,29449,9314551621,prisha.sandhu5468@outlook.com
+48,2,Libni,Yutika,Parikh,GOV300763404,Shift Manager,2016-04-29,Active,44.0,32536,9378710439,libni.parikh4876@rediffmail.com
+49,2,Jalsa,,Divan,GOV777179268,Kitchen Staff,2023-04-04,Active,48.0,20533,9139429271,jalsa.divan4363@yahoo.com
+50,2,Finn,,Batta,GOV060246284,Delivery Coordinator,2023-02-28,Active,47.0,16462,9652160622,finn.batta1560@rediffmail.com
+51,2,Yochana,,Rout,GOV425305470,Cashier,2022-05-03,Active,48.0,14480,9518381567,yochana.rout9751@yahoo.com
+52,2,Hiral,,Kadakia,GOV258706561,Kitchen Staff,2018-04-24,Active,48.0,19840,9014316533,hiral.kadakia4222@gmail.com
+53,2,Lekha,,Kumar,GOV840311029,Kitchen Staff,2024-06-11,Active,46.0,17269,9472775468,lekha.kumar5708@outlook.com
+54,2,Anika,Devansh,Chhabra,GOV440417702,Kitchen Staff,2020-06-01,Active,48.0,21818,9911301940,  anika.chhabra1519@outlook.com  
+55,2,Pranit,,Magar,GOV530954311,Kitchen Staff,2016-03-27,On Leave,44.0,17630,9384334253,pranit.magar8326@outlook.com
+56,2,Abha,,Hayre,GOV058415616,Cleaner,2025-09-04,Active,46.0,12357,9317742473,abha.hayre9980@outlook.com
+57,2,Rajata,Yutika,Venkatesh,GOV275029989,Delivery Coordinator,2020-10-27,Terminated,45.0,14684,9165244987,rajata.venkatesh4712@outlook.com
+58,2,Shivansh,Lipika,Nadkarni,GOV978436189,Kitchen Staff,2025-12-02,Active,48.0,19692,9066812059,shivansh.nadkarni5193@yahoo.com
+59,2,Chandresh,Ekalinga,Amble,GOV486941943,Kitchen Staff,2016-02-03,Active,45.0,15364,9965763045,chandresh.amble4882@outlook.com
+60,2,Nachiket,,Amble,GOV573178450,Cleaner,2024-09-26,Active,45.0,12572,9279878984,nachiket.amble9508@yahoo.com
+61,2,Vinaya,Tarak,Cherian,GOV317588682,Cleaner,2022-08-04,Active,47.0,14399,9709797244,vinaya.cherian626@gmail.com
+62,2,Jairaj,,Kale,GOV878852553,Kitchen Staff,2025-11-23,Active,45.0,19747,9322414086,jairaj.kale905@outlook.com
+63,2,Maanav,Girish,Sood,GOV743757406,Cleaner,2017-05-19,Active,44.0,12757,9020897658,maanav.sood1804@gmail.com
+64,2,Yashawini,Hitesh,Kannan,GOV932779394,Delivery Coordinator,2025-07-05,Active,45.0,17257,9101486506,yashawini.kannan83@outlook.com
+65,2,Vanya,,Dave,GOV092331661,Cashier,2017-08-21,Active,46.0,15423,9060109769,vanya.dave5846@yahoo.com
+66,2,Odika,,Natarajan,GOV174806107,Kitchen Staff,2016-01-17,Active,45.0,18666,9778054448,odika.natarajan6988@yahoo.com
+67,2,Gunbir,Udyati,Vohra,GOV545372273,Kitchen Staff,2017-04-04,Active,44.0,21603,9801166206,gunbir.vohra5178@outlook.com
+68,2,Janaki,,Shan,GOV567509423,Cashier,2023-02-28,Terminated,44.0,13921,9874448101,janaki.shan6422@yahoo.com
+69,2,Abhiram,Azad,Chauhan,GOV149024694,Kitchen Staff,2024-09-12,Resigned,45.0,14182,9493412614,abhiram.chauhan9263@outlook.com
+70,2,Zinal,,Sankar,GOV860394428,Delivery Coordinator,2023-06-24,Active,44.0,15119,9690346679,zinal.sankar9867@rediffmail.com
+71,2,Ekaja,Nisha,Dass,GOV227283797,Delivery Coordinator,2018-02-22,Active,46.0,14370,9824719697,ekaja.dass7797@yahoo.com
+72,2,Karan,,Mohan,GOV355653580,Cashier,2026-02-27,Active,48.0,19319,9379914900,karan.mohan1421@rediffmail.com
+73,2,Gabriel,Zarna,Nath,GOV937191560,Delivery Coordinator,2018-03-10,On Leave,46.0,14549,9971147014,gabriel.nath4591@outlook.com
+74,2,Umang,,Ganguly,GOV461287882,Delivery Coordinator,2024-09-06,Active,45.0,17681,9165269233,umang.ganguly4912@gmail.com
+75,2,Hredhaan,Geetika,Raval,GOV716319157,Kitchen Staff,2023-06-05,Resigned,46.0,16596,9844355259,hredhaan.raval2202@rediffmail.com
+76,2,Faris,Sai,Sura,GOV932532248,Kitchen Staff,2024-04-28,Active,47.0,19420,9716756982,faris.sura5496@outlook.com
+77,2,Faras,Triveni,Jhaveri,GOV028932858,Cashier,2017-06-02,On Leave,44.0,18573,9094916086,faras.jhaveri2292@gmail.com
+78,2,Bimala,,Korpal,GOV142086409,Kitchen Staff,2017-12-20,Active,48.0,16437,9308787787,bimala.korpal9817@outlook.com
+79,2,Wriddhish,Vrinda,Nanda,GOV276392213,Cleaner,2018-05-05,Active,47.0,13810,9425081155,wriddhish.nanda7334@outlook.com
+80,2,Pooja,Hema,Gopal,GOV830585478,Kitchen Staff,2021-11-11,Active,45.0,19095,9698238309,pooja.gopal203@gmail.com
+81,2,Yatin,,Swamy,GOV865868965,Kitchen Staff,2023-03-13,On Leave,48.0,16791,9113666600,yatin.swamy3412@gmail.com
+82,3,Kala,,Bhatnagar,GOV718441875,BRANCH MANAGER,2017-07-30,On Leave,,72268,9106740476,kala.bhatnagar6312@rediffmail.com
+83,3,Zilmil,,Datta,GOV778594491,Assistant Manager,2021-06-14,Active,82.0,54225,9615111192,zilmil.datta6087@gmail.com
+84,3,Rajeshri,,Samra,GOV181880102,Assistant Manager,2021-09-28,Active,82.0,43035,9365609274,rajeshri.samra6236@rediffmail.com
+85,3,Imaran,Imaran,Rajagopal,GOV257879941,Shift Manager,2019-08-25,Active,84.0,37688,9096340147,imaran.rajagopal1931@outlook.com
+86,3,Tamanna,,Gara,GOV374368675,Shift Manager,2023-12-23,Active,84.0,33067,9259540439,tamanna.gara1000@outlook.com
+87,3,Girish,,Narayan,GOV964866519,Cashier,2020-04-13,Resigned,85.0,17559,9270697593,girish.narayan627@gmail.com
+88,3,Rishi,,Sachdev,GOV210672898,Cleaner,2018-12-05,Active,83.0,14656,9870447448,rishi.sachdev5791@gmail.com
+89,3,Girik,Jairaj,Hayer,GOV314004487,Kitchen Staff,2020-11-20,Active,83.0,15554,9030799329,girik.hayer5617@rediffmail.com
+90,3,Vivaan,Raghav,Nath,GOV925521314,Cleaner,2016-05-25,Active,85.0,12266,9094927747,vivaan.nath8188@gmail.com
+91,3,Saksham,,Mander,GOV762020902,Kitchen Staff,2022-11-04,Active,84.0,17733,9316747723,saksham.mander4911@gmail.com
+92,3,Advik,,Solanki,GOV573551104,Delivery Coordinator,2021-04-17,Resigned,83.0,18846,9557968161,advik.solanki5403@yahoo.com
+93,3,Ojasvi,,Tiwari,GOV145852413,Cashier,2023-07-03,Active,86.0,13504,9691439179,ojasvi.tiwari4836@rediffmail.com
+94,3,Eshana,Chakrika,Sehgal,GOV785112347,Cleaner,2021-02-16,Active,84.0,11739,9288962867,eshana.sehgal4688@yahoo.com
+95,3,Priya,,Murty,GOV890218068,Cleaner,2021-03-07,Active,84.0,11031,9267846697,priya.murty5250@outlook.com
+96,3,Zehaan,,Yohannan,GOV301519870,Delivery Coordinator,2018-06-03,Active,86.0,17255,9696161464,zehaan.yohannan6798@yahoo.com
+97,3,Ishwar,Teerth,Varma,GOV727884886,Cashier,2024-04-22,Active,85.0,13565,9412941790,ishwar.varma9120@rediffmail.com
+98,3,Peter,,Cherian,GOV841357976,Cashier,2018-02-28,Terminated,85.0,18034,9696635420,peter.cherian3306@rediffmail.com
+99,3,Forum,,Nanda,GOV744609471,Delivery Coordinator,2024-09-04,Active,85.0,20495,9172498496,forum.nanda9506@yahoo.com
+100,3,Vrishti,,Sinha,GOV064836405,Kitchen Staff,2020-10-02,Resigned,85.0,19635,9163348902,vrishti.sinha1080@outlook.com
+101,3,Balveer,,Panchal,GOV348930014,Kitchen Staff,2016-12-26,Active,85.0,20840,9499641895,balveer.panchal3553@yahoo.com
+102,3,Tejas,,Bhattacharyya,GOV213335758,Kitchen Staff,2021-10-16,Terminated,85.0,17888,9313697657,tejas.bhattacharyya3087@gmail.com
+103,3,Dominic,Ladli,Johal,GOV761006153,Cashier,2021-04-12,Active,85.0,19107,9998764171,dominic.johal9333@outlook.com
+104,3,Kashvi,,Bhagat,GOV994840552,Kitchen Staff,2025-04-12,Active,86.0,21533,9362703385,kashvi.bhagat8797@yahoo.com
+105,3,Ojasvi,,Naidu,GOV281055073,Delivery Coordinator,2023-02-11,Active,85.0,15946,9548916719,ojasvi.naidu2093@yahoo.com
+106,3,Pushti,Vritti,Kanda,GOV841908883,Cashier,2025-04-12,On Leave,85.0,18109,9980973704,pushti.kanda5423@yahoo.com
+107,3,Amaira,Vyanjana,Memon,GOV380131342,Kitchen Staff,2024-02-26,Active,86.0,16361,9353859663,amaira.memon6122@rediffmail.com
+108,3,Farhan,Gabriel,Kari,GOV323442888,Kitchen Staff,2021-03-28,Active,83.0,14145,9277569163,farhan.kari5323@outlook.com
+109,3,Noah,,Nori,GOV184798407,Delivery Coordinator,2020-01-21,Terminated,83.0,20972,9941449690,noah.nori2727@gmail.com
+110,3,Zilmil,,Kothari,GOV169811865,Kitchen Staff,2020-06-26,Active,83.0,21412,9108144626,zilmil.kothari8264@gmail.com
+111,3,Gagan,Jyoti,Bal,GOV918882729,Delivery Coordinator,2023-03-19,Active,84.0,14703,9836826668,gagan.bal231@yahoo.com
+112,3,Tara,,Deshmukh,GOV447456776,Kitchen Staff,2026-05-23,Active,85.0,19326,9202999403,tara.deshmukh2502@gmail.com
+113,3,Sanaya,Jeevika,Sama,GOV103509003,Cashier,2022-07-04,Active,84.0,19759,9455360646,sanaya.sama83@yahoo.com
+114,3,Oviya,Oviya,Dugar,GOV359430157,Cashier,2016-09-21,Active,84.0,18346,9244567087,oviya.dugar7815@gmail.com
+115,3,Wishi,,Bawa,GOV601691669,Kitchen Staff,2020-01-08,Active,84.0,17651,9380099175,wishi.bawa4426@outlook.com
+116,3,Viraj,,Kala,GOV666901736,Kitchen Staff,2022-05-24,Active,85.0,16428,9263625326,viraj.kala6968@outlook.com
+117,4,Ridhi,,Sur,GOV360246984,Branch Manager,2023-09-22,Active,,69897,9690505773,ridhi.sur4578@gmail.com
+118,4,Aahana,,Mukhopadhyay,GOV768220762,Assistant Manager,2017-08-13,Active,117.0,49852,9920045962,aahana.mukhopadhyay9981@rediffmail.com
+119,4,Bahadurjit,,Krishnamurthy,GOV042181248,Assistant Manager,2019-06-15,Active,117.0,50018,9932340172,bahadurjit.krishnamurthy72@rediffmail.com
+120,4,Upasna,Zinal,Dara,GOV088624985,Shift Manager,2017-11-26,Active,118.0,29260,9792234052,upasna.dara3574@outlook.com
+121,4,Quincy,,Bhakta,GOV774796921,Shift Manager,2016-03-17,Active,118.0,34998,9021345454,quincy.bhakta9263@rediffmail.com
+122,4,Tejas,,Maharaj,GOV881197658,Shift Manager,2016-08-06,Resigned,119.0,37383,9370268160,tejas.maharaj4972@gmail.com
+123,4,Yatan,Qadim,Nayak,GOV594281703,Shift Manager,2024-09-11,Terminated,119.0,28158,9597967560,yatan.nayak546@yahoo.com
+124,4,Vansha,Rudra,Comar,GOV458224046,Delivery Coordinator,2024-04-05,Resigned,120.0,20928,9340997104,vansha.comar1956@outlook.com
+125,4,Krishna,Fariq,Bera,GOV783601619,Cashier,2019-08-05,Active,122.0,18204,9935861082,krishna.bera9024@gmail.com
+126,4,Advay,,Sarkar,GOV253867790,Cashier,2022-10-05,Resigned,122.0,19923,9894758302,advay.sarkar6166@yahoo.com
+127,4,Megha,Jagvi,Manda,GOV429991231,Kitchen Staff,2023-05-30,Terminated,121.0,21230,9570549332,megha.manda5466@rediffmail.com
+128,4,Gopal,,Thaker,GOV894869021,Delivery Coordinator,2020-07-15,Active,123.0,18180,9984106861,gopal.thaker5673@rediffmail.com
+129,4,Vaishnavi,,Trivedi,GOV629184868,Kitchen Staff,2024-08-23,Active,118.0,18315,9908137495,vaishnavi.trivedi6061@yahoo.com
+130,4,Wishi,,Sibal,GOV560259025,Kitchen Staff,2024-12-12,Active,123.0,20782,9121599674,wishi.sibal2056@rediffmail.com
+131,4,Yauvani,,Modi,GOV504471741,Cashier,2021-12-12,Active,120.0,13715,9814540624,yauvani.modi9669@yahoo.com
+132,4,Xiti,Ishani,Swamy,GOV088010997,Delivery Coordinator,2026-07-14,Terminated,121.0,18542,9328890763,xiti.swamy9686@gmail.com
+133,4,Udyati,Hardik,Sood,GOV453020505,Kitchen Staff,2017-06-14,Active,118.0,17680,9458073283,udyati.sood9209@gmail.com
+134,4,Brinda,Chaaya,Chadha,GOV298280306,Delivery Coordinator,2023-10-17,Active,121.0,15331,9866863874,brinda.chadha4908@yahoo.com
+135,4,Omaja,Chatura,Bhavsar,GOV145148063,Delivery Coordinator,2026-05-31,Active,120.0,15193,9777054813,omaja.bhavsar3209@outlook.com
+136,4,Keya,,Goel,GOV650739263,Kitchen Staff,2019-10-31,Active,122.0,14571,9541482411,keya.goel1490@outlook.com
+137,4,Irya,Samarth,Char,GOV199721490,Cleaner,2016-05-08,Active,118.0,14287,9624293040,irya.char8142@rediffmail.com
+138,4,Kiaan,,Tak,GOV844504628,Kitchen Staff,2024-10-15,On Leave,121.0,17289,9993696591,kiaan.tak306@gmail.com
+139,4,Mitali,Pavani,Ramanathan,GOV289221926,Kitchen Staff,2024-11-06,Active,119.0,21326,9418710516,mitali.ramanathan3276@rediffmail.com
+140,4,Charvi,Ansh,Dhingra,GOV055147008,Delivery Coordinator,2016-04-20,Resigned,123.0,16425,9395025797,charvi.dhingra4664@gmail.com
+141,4,Veer,Ganga,Grover,GOV647999425,Kitchen Staff,2022-07-21,Active,122.0,21750,9159545515,veer.grover4636@yahoo.com
+142,4,Darpan,Edhitha,Kari,GOV449899164,Delivery Coordinator,2016-11-04,Active,120.0,17804,9000727053,darpan.kari1160@rediffmail.com
+143,4,Logan,,Lal,GOV444611129,Cashier,2017-08-05,Active,121.0,18724,9858711226,logan.lal2352@yahoo.com
+144,4,Gopal,Balveer,Mahajan,GOV772155553,Kitchen Staff,2018-11-12,Resigned,119.0,15578,9756030924,gopal.mahajan4317@outlook.com
+145,4,Saanvi,,Ray,GOV444382258,Cashier,2022-05-12,Active,121.0,13238,9203216183,saanvi.ray1995@rediffmail.com
+146,4,Girish,,Kapoor,GOV942839624,Kitchen Staff,2019-09-04,Active,119.0,19029,9818578835,girish.kapoor207@rediffmail.com
+147,4,Geetika,,Gokhale,GOV848059701,Kitchen Staff,2025-07-29,Active,122.0,14037,9247890056,geetika.gokhale170@outlook.com
+148,4,Barkha,Rajeshri,Prakash,GOV376033807,Kitchen Staff,2024-02-08,Terminated,121.0,17654,9934360701,barkha.prakash2045@gmail.com
+149,5,Chatresh,Omisha,Kothari,GOV524349030,Branch Manager,2025-09-10,Active,,88386,9732986684,chatresh.kothari5642@yahoo.com
+150,5,Ekavir,,Balasubramanian,GOV010150131,Assistant Manager,2025-03-09,Active,149.0,40655,9454067710,chandresh.ghose3450@gmail.com
+151,5,Anamika,,Gala,GOV519485280,Shift Manager,2026-01-17,Active,150.0,35938,9806333900,anamika.gala5168@gmail.com
+152,5,Vanya,,Bhagat,GOV856094003,Shift Manager,2021-02-13,Active,150.0,32075,9073644493,vanya.bhagat2221@gmail.com
+153,5,Edhitha,,Jha,GOV822279428,Kitchen Staff,2024-11-14,Resigned,150.0,14160,9283509564,edhitha.jha4127@outlook.com
+154,5,Panini,,Sawhney,GOV270007438,Kitchen Staff,2022-10-11,Terminated,150.0,19290,9240807111,panini.sawhney2357@gmail.com
+155,5,Ekaraj,,Dhar,GOV244628522,Kitchen Staff,2025-08-29,Active,152.0,21835,9876625920,ekaraj.dhar2914@yahoo.com
+156,5,Saumya,,Sabharwal,GOV714218186,Delivery Coordinator,2024-05-08,Terminated,151.0,17991,9748720342,saumya.sabharwal417@rediffmail.com
+157,5,Krisha,,Doshi,GOV136950268,Delivery Coordinator,2017-12-06,Active,150.0,16984,9654424237,krisha.doshi5110@rediffmail.com
+158,5,Rohan,,Nayak,GOV073186212,Cashier,2021-02-07,Active,150.0,19954,9165314315,rohan.nayak3601@yahoo.com
+159,5,Ekani,Avni,Raval,GOV413329331,Cashier,2017-02-28,Terminated,150.0,18397,9571189324,  ekani.raval4011@outlook.com  
+160,5,Utkarsh,Rudra,Dara,GOV466572204,Kitchen Staff,2021-11-10,Active,150.0,20602,9002113326,utkarsh.dara1418@rediffmail.com
+161,5,Yauvani,Janani,Halder,GOV711898409,Kitchen Staff,2021-03-05,Active,152.0,15949,9215906531,yauvani.halder8247@outlook.com
+162,5,Yash,,Bhatti,GOV765284664,Kitchen Staff,2019-01-12,Active,150.0,14854,9614418163,yash.bhatti8559@outlook.com
+163,5,Chandresh,,Balay,GOV311853313,Cleaner,2024-11-03,Active,151.0,12279,9532586059,chandresh.balay1176@gmail.com
+164,5,Garima,Champak,Basak,GOV651634794,Kitchen Staff,2021-04-21,Active,151.0,21631,9096367444,garima.basak3267@rediffmail.com
+165,5,Ayushman,Hemang,Gill,GOV737896208,Delivery Coordinator,2020-10-03,Active,152.0,14142,9949504876,ayushman.gill4831@rediffmail.com
+166,5,Shravya,Nidhi,Balay,GOV443367734,Kitchen Staff,2019-08-28,Resigned,152.0,15127,9369853236,shravya.balay7947@yahoo.com
+167,5,Zayan,,Goswami,GOV984184303,Kitchen Staff,2020-02-22,Active,151.0,17132,9233098837,zayan.goswami6482@outlook.com
+168,5,Vritti,Faras,Kothari,GOV359233082,Kitchen Staff,2019-09-14,Active,150.0,20558,9912222685,vritti.kothari6066@outlook.com
+169,5,Samarth,Deepa,Mistry,GOV662093013,Cleaner,2018-07-15,On Leave,151.0,15013,9991256134,samarth.mistry822@outlook.com
+170,5,Dev,,Master,GOV472549743,Kitchen Staff,2023-06-25,Active,151.0,21317,9928741865,dev.master9636@rediffmail.com
+171,5,Jatin,,Vala,GOV436550132,Kitchen Staff,2025-09-26,Active,150.0,18693,9832154701,jatin.vala8198@outlook.com
+172,5,Vasatika,,Ramaswamy,GOV456089640,Kitchen Staff,2018-10-06,Active,152.0,20018,9444583516,vasatika.ramaswamy5396@rediffmail.com
+173,5,Falan,Chaitaly,Srinivasan,GOV496024046,Cleaner,2023-12-24,Active,150.0,14984,9158940283,falan.srinivasan3228@yahoo.com
+174,5,Lohit,,Goel,GOV482243211,Cashier,2017-09-04,Active,152.0,17808,9122367869,lohit.goel5014@gmail.com
+175,5,Bakhshi,Laban,Chawla,GOV676532298,Cleaner,2024-06-02,Active,152.0,12534,9748568117,bakhshi.chawla9764@outlook.com
+176,5,Warhi,,Loke,GOV376403305,Delivery Coordinator,2025-03-21,Resigned,152.0,17739,9165842849,warhi.loke6900@gmail.com
+177,5,Kiaan,,Buch,GOV867284251,Cashier,2021-10-17,On Leave,151.0,19385,9119714156,kiaan.buch7565@outlook.com
+178,5,Gabriel,,Srinivasan,GOV435738385,Cashier,2021-09-25,Resigned,151.0,14830,9616799352,gabriel.srinivasan9603@gmail.com
+179,5,Anmol,,Swaminathan,GOV428304960,Cleaner,2025-08-26,Active,150.0,14753,9812244546,anmol.swaminathan6587@outlook.com
+180,5,Oviya,,Keer,GOV573205706,Cashier,2017-05-13,Active,152.0,13325,9825381298,oviya.keer9017@rediffmail.com
+181,5,Umang,,Dhawan,GOV770529840,Delivery Coordinator,2020-08-28,Resigned,152.0,15612,9312902289,umang.dhawan6313@gmail.com
+182,5,Darpan,,Maharaj,GOV028580054,Kitchen Staff,2025-12-25,Active,152.0,19400,9284578538,darpan.maharaj3636@yahoo.com
+183,5,Lopa,,Buch,GOV544619063,Kitchen Staff,2026-08-02,Resigned,150.0,19888,9406683530,lopa.buch194@outlook.com
+184,5,Oni,Meghana,Nagar,GOV897513552,Kitchen Staff,2017-07-26,Active,152.0,20214,9002109982,oni.nagar6980@gmail.com
+185,5,Manya,,Garg,GOV230561741,Cleaner,2024-03-10,Active,152.0,15047,9960264441,manya.garg9787@yahoo.com
+186,5,George,Veda,Majumdar,GOV368341946,Kitchen Staff,2021-12-20,Active,152.0,19212,9954898047,george.majumdar7439@rediffmail.com
+187,5,Charan,Rachita,Samra,GOV000768526,Cleaner,2021-05-20,Active,150.0,13728,9220935202,charan.samra6217@gmail.com
+188,6,Yashica,,Sarin,GOV555304536,Branch Manager,2018-10-09,Active,,86896,9558864987,yashica.sarin6758@yahoo.com
+189,6,Tanish,Kamya,Sathe,GOV977073194,Assistant Manager,2024-09-13,Active,188.0,44738,9269910537,tanish.sathe4334@rediffmail.com
+190,6,Saumya,Ubika,Shere,GOV487784603,Shift Manager,2017-08-22,Active,189.0,26211,9842037838,saumya.shere6021@gmail.com
+191,6,Jason,Robert,Gokhale,GOV787492719,Shift Manager,2017-02-13,Terminated,189.0,30579,9969098327,jason.gokhale729@gmail.com
+192,6,Gabriel,Vanya,Tailor,GOV579260938,Shift Manager,2022-06-17,On Leave,189.0,36787,9093732370,gabriel.tailor9721@rediffmail.com
+193,6,Aarav,,Suri,GOV637242365,Shift Manager,2016-03-11,Active,189.0,31274,9598120283,aarav.suri9025@rediffmail.com
+194,6,Aarav,Reva,Datta,GOV304871960,Kitchen Staff,2018-11-30,Active,189.0,18141,9838447880,aarav.datta513@yahoo.com
+195,6,Panini,,Dyal,GOV732388277,Delivery Coordinator,2020-09-15,Active,190.0,14314,9561712840,panini.dyal4009@yahoo.com
+196,6,Damini,,Nayar,GOV498280344,Delivery Coordinator,2019-02-11,Active,189.0,19814,9395487856,damini.nayar9531@rediffmail.com
+197,6,Saanvi,Rohan,Tiwari,GOV525254992,Kitchen Staff,2020-12-08,Active,193.0,21270,9890862985,saanvi.tiwari4907@rediffmail.com
+198,6,Aadi,Watika,Anne,GOV093246694,Kitchen Staff,2019-09-25,Active,189.0,15943,9309001291,aadi.anne1358@rediffmail.com
+199,6,Xiti,,Baral,GOV631590307,Cashier,2023-02-23,Resigned,191.0,19383,9432070446,xiti.baral9222@yahoo.com
+200,6,Bhavini,Damyanti,Sampath,GOV347426910,Kitchen Staff,2021-10-16,Resigned,191.0,21630,9409654332,bhavini.sampath8266@gmail.com
+201,6,Gagan,Daksha,Zachariah,GOV235036149,Delivery Coordinator,2023-01-20,Active,191.0,15509,9169810293,gagan.zachariah9242@gmail.com
+202,6,Yasti,Rishi,Sur,GOV861091507,Delivery Coordinator,2020-08-15,Active,189.0,18597,9257567251,yasti.sur683@rediffmail.com
+203,6,Pranav,Lohit,Amble,GOV297100182,Cashier,2019-07-25,Active,189.0,16704,9761390377,pranav.amble3171@outlook.com
+204,6,Ojas,Neha,Radhakrishnan,GOV291849135,Cashier,2025-05-28,Active,190.0,14204,9924350867,ojas.radhakrishnan561@gmail.com
+205,6,Yachana,,Sinha,GOV683508261,Cashier,2016-06-08,Active,192.0,14453,9510041615,yachana.sinha9255@gmail.com
+206,6,Samuel,Kashish,Singhal,GOV096725870,Cashier,2022-03-30,Active,191.0,19477,9235010802,samuel.singhal1451@yahoo.com
+207,6,Vritti,,Wali,GOV675270589,Cleaner,2022-04-05,Active,190.0,13738,9227340172,vritti.wali4678@outlook.com
+208,6,Bhavini,Libni,Narang,GOV234656961,Delivery Coordinator,2024-03-27,Active,193.0,17587,9852572193,  bhavini.narang8984@gmail.com
+209,6,Ekta,Luke,Kala,GOV271741040,Cashier,2016-01-27,Active,189.0,15544,9310363238,ekta.kala1108@rediffmail.com
+210,6,Abha,,Sahota,GOV729817608,Cleaner,2020-11-23,Active,193.0,11717,9411246649,abha.sahota7620@yahoo.com
+211,6,Samesh,Isaac,Badami,GOV124547630,Kitchen Staff,2024-08-05,Active,193.0,21644,9654145801,samesh.badami5387@outlook.com
+212,6,Tristan,Oscar,Dayal,GOV642602305,Cashier,2018-07-21,Active,192.0,15236,9151362145,tristan.dayal9468@gmail.com
+213,6,Hiral,Anirudh,Sharma,GOV394017931,Delivery Coordinator,2022-04-22,Active,193.0,17309,9775246005,hiral.sharma5954@gmail.com
+214,6,Aarna,Nihal,Borra,GOV640236346,Kitchen Staff,2018-05-08,Active,190.0,15034,9195555742,aarna.borra7353@gmail.com
+215,6,Oviya,,Ramaswamy,GOV966642152,Kitchen Staff,2021-03-15,Active,191.0,15423,9902556830,oviya.ramaswamy4078@yahoo.com
+216,6,William,Avni,Prakash,GOV761313203,Kitchen Staff,2016-01-19,Active,190.0,19495,9971766210,william.prakash4187@rediffmail.com
+217,6,Divya,Vincent,Pingle,GOV432995133,Cashier,2023-07-18,Active,192.0,17878,9682434707,divya.pingle2868@yahoo.com
+218,6,Guneet,,Mangat,GOV655837680,Cashier,2025-09-12,Active,193.0,15075,9548861601,guneet.mangat5738@rediffmail.com
+219,6,Matthew,,Samra,GOV950796368,Kitchen Staff,2023-03-06,Active,193.0,18695,9698103623,matthew.samra2756@gmail.com
+220,6,Peter,,Dhillon,GOV319561707,Delivery Coordinator,2020-04-22,Active,192.0,19662,9735318709,peter.dhillon8361@gmail.com
+221,6,Vyanjana,Aarnav,Sarma,GOV852220882,Kitchen Staff,2023-04-16,Terminated,190.0,14311,9662286944,vyanjana.sarma9562@rediffmail.com
+222,6,Saksham,,Doshi,GOV114161694,Cashier,2024-07-18,Terminated,189.0,19909,9733034718,saksham.doshi4740@yahoo.com
+223,6,Daniel,Darsh,Srivastava,GOV662825188,Kitchen Staff,2017-03-12,Active,191.0,20661,9756843844,daniel.srivastava1505@rediffmail.com
+224,6,Chandran,Diya,Dhawan,GOV291028072,Cleaner,2020-05-03,Resigned,190.0,11579,9205599918,chandran.dhawan5742@rediffmail.com
+225,6,Priya,,Mahajan,GOV193473510,Kitchen Staff,2017-12-04,Active,191.0,21840,9728516350,priya.mahajan9503@outlook.com
+226,6,Tripti,Lopa,Khatri,GOV599433949,Cashier,2026-03-03,On Leave,190.0,14195,9806332643,tripti.khatri78@yahoo.com
+227,6,Vanya,Samaksh,Konda,GOV373793770,Kitchen Staff,2019-10-22,Active,190.0,20871,9685620869,vanya.konda3350@rediffmail.com
+228,6,Yatan,,Tiwari,GOV076798169,Cleaner,2019-04-30,Active,190.0,15829,9549610206,  yatan.tiwari6686@outlook.com
+229,6,Rohan,Pushti,Vyas,GOV195604310,Kitchen Staff,2023-08-04,Active,192.0,20105,9672157921,rohan.vyas4682@rediffmail.com
+230,6,Yauvani,Mohini,Kade,GOV073970033,Kitchen Staff,2025-05-21,Active,191.0,19211,9488922452,yauvani.kade6037@outlook.com
+231,7,Mason,Jason,Pai,GOV224683671,Branch Manager,2024-09-20,Resigned,,68209,9547739744,saksham.doshi4740@yahoo.com
+232,7,Sara,,Kade,GOV645639214,Assistant Manager,2025-06-24,Active,231.0,52703,9308655320,sara.kade8147@yahoo.com
+233,7,Radha,Kritika,Yohannan,GOV574393595,Assistant Manager,2017-09-28,Active,231.0,48431,9486905703,radha.yohannan6606@outlook.com
+234,7,Ijaya,Zaid,Gole,GOV510921316,Shift Manager,2018-06-01,Active,233.0,-25039,9728974969,ijaya.gole942@gmail.com
+235,7,Gaurangi,Warinder,Barad,GOV483500156,Shift Manager,2024-05-09,Terminated,232.0,27804,9528316222,gaurangi.barad2257@rediffmail.com
+236,7,Varsha,,Swaminathan,GOV154375390,Shift Manager,2019-12-17,Active,232.0,34878,9980551092,varsha.swaminathan2107@gmail.com
+237,7,Jagvi,,Deol,GOV232600142,Cashier,2017-12-09,Active,236.0,16011,9170961258,jagvi.deol7733@gmail.com
+238,7,Aryan,,Puri,GOV833397396,Delivery Coordinator,2024-10-13,Active,232.0,19131,9310989710,aryan.puri4971@rediffmail.com
+239,7,Aadhya,Ronith,Raval,GOV898317279,Delivery Coordinator,2016-07-08,Active,232.0,14184,9132219076,aadhya.raval1329@yahoo.com
+240,7,Sathvik,Indali,Mann,GOV744285784,Kitchen Staff,2019-01-01,Active,232.0,20434,9596695476,sathvik.mann2157@yahoo.com
+241,7,Dakshesh,,Rana,GOV495897005,Cashier,2023-11-21,Active,235.0,19571,9337276619,dakshesh.rana7782@yahoo.com
+242,7,Mitesh,,Dube,GOV925253500,Kitchen Staff,2022-12-12,On Leave,233.0,19076,9390893146,mitesh.dube8361@gmail.com
+243,7,Radha,Gaurang,Goyal,GOV139482816,Cleaner,2025-02-03,Active,232.0,11785,9135040383,radha.goyal5442@outlook.com
+244,7,Daksh,,Sengupta,GOV093168723,Cashier,2022-11-16,Active,232.0,14564,9932801799,daksh.sengupta29@rediffmail.com
+245,7,Ria,,Shan,GOV791746236,Cashier,2023-07-23,Active,235.0,13036,9176499770,ria.shan966@outlook.com
+246,7,Odika,Vasatika,Savant,GOV373729959,Kitchen Staff,2019-11-23,Active,232.0,19987,9896982569,odika.savant4872@gmail.com
+247,7,Faqid,Chakradev,Walia,GOV714550132,Cleaner,2017-02-24,Active,232.0,13785,9652744774,faqid.walia6820@outlook.com
+248,7,Jagrati,Qushi,Sarma,GOV816584395,Cleaner,2020-07-03,Active,233.0,12441,9241721633,jagrati.sarma871@yahoo.com
+249,7,Yachana,,Kari,GOV820705584,Cashier,2019-09-11,Active,233.0,16736,9387111960,yachana.kari6217@yahoo.com
+250,7,Bachittar,Vedika,Pathak,GOV397213032,Cashier,2019-09-01,Active,235.0,17748,9915122947,bachittar.pathak1177@yahoo.com
+251,7,Avni,,Basak,GOV773660924,Delivery Coordinator,2023-03-22,Active,233.0,17695,9029545384,avni.basak1710@outlook.com
+252,7,Nakul,,Kunda,GOV409194856,Cleaner,2018-05-21,On Leave,234.0,13465,9545091916,nakul.kunda6981@gmail.com
+253,7,Lipika,Warinder,Dalal,GOV189912710,Cleaner,2016-12-09,Active,233.0,12052,9155598174,lipika.dalal4567@rediffmail.com
+254,7,Wyatt,,Doshi,GOV159958067,Kitchen Staff,2020-10-03,Active,234.0,16891,9016404368,wyatt.doshi6955@gmail.com
+255,7,Urmi,,Tara,GOV557771195,Cashier,2019-03-12,Active,234.0,14795,9059624862,urmi.tara9433@gmail.com
+256,7,Lopa,,Palla,GOV259707153,Kitchen Staff,2017-11-06,Terminated,236.0,18597,9397424334,lopa.palla1369@gmail.com
+257,7,Anusha,,Choudhry,GOV955687482,Kitchen Staff,2026-06-12,Active,233.0,19006,9709614595,anusha.choudhry5782@gmail.com
+258,7,Nilima,,Ramaswamy,GOV315668140,Cleaner,2017-05-18,Resigned,232.0,14875,9971991192,nilima.ramaswamy957@yahoo.com
+259,7,Siddharth,,Dhaliwal,GOV153242210,Cashier,2025-11-14,Active,232.0,18131,9118587231,siddharth.dhaliwal7860@outlook.com
+260,8,Charvi,,Bail,GOV169669213,Branch Manager,2022-10-22,Active,,82792,9420394262,charvi.bail9662@outlook.com
+261,8,Wazir,,Patla,GOV149652246,Assistant Manager,2024-01-15,Active,260.0,38121,9208400124,wazir.patla5715@outlook.com
+262,8,Qabil,Neha,Lalla,GOV456463231,Shift Manager,2023-12-12,Active,261.0,28568,9861409000,qabil.lalla9801@gmail.com
+263,8,Samar,Manan,Pall,GOV153399590,Shift Manager,2024-02-04,Active,261.0,29057,9516720517,samar.pall3917@outlook.com
+264,8,Mekhala,Bakhshi,Virk,GOV982769550,Shift Manager,2021-06-28,Active,261.0,32112,9738020116,mekhala.virk9228@outlook.com
+265,8,Advay,,Shroff,GOV963335544,Shift Manager,2018-05-19,Active,261.0,28528,9334530130,advay.shroff9897@gmail.com
+266,8,Chandani,Isha,Karan,GOV409449474,Delivery Coordinator,2024-08-23,Active,263.0,15825,9918814780,chandani.karan9731@yahoo.com
+267,8,Abhiram,,Bala,GOV155328429,Kitchen Staff,2025-11-06,Active,265.0,16140,9785596125,abhiram.bala3253@outlook.com
+268,8,Yasti,Naveen,Sanghvi,GOV782692207,Cashier,2023-05-18,Active,264.0,-18823,9255683655,yasti.sanghvi4620@gmail.com
+269,8,Amrita,Eta,Munshi,GOV710690346,Kitchen Staff,2016-04-12,Active,265.0,15931,9994956873,amrita.munshi5032@rediffmail.com
+270,8,Dhruv,Ayush,Loke,GOV261145961,Kitchen Staff,2026-06-26,Active,263.0,18212,9869399304,dhruv.loke5618@yahoo.com
+271,8,Dayita,,Thakur,GOV591596802,Kitchen Staff,2023-12-12,Active,261.0,19338,9445954623,dayita.thakur8234@yahoo.com
+272,8,Udant,Vinaya,Pai,GOV041473994,Kitchen Staff,2026-05-02,Active,262.0,15372,9452117852,udant.pai2615@rediffmail.com
+273,8,Kavya,Bhavini,Mahajan,GOV376291622,Cashier,2019-11-03,Active,263.0,15394,9857472055,kavya.mahajan7478@outlook.com
+274,8,Ekanta,Chaaya,Keer,GOV465338542,Cashier,2022-06-29,Active,262.0,19939,9557166397,ekanta.keer7421@yahoo.com
+275,8,Manya,,Chaudhry,GOV749074179,Kitchen Staff,2017-01-17,Active,262.0,19309,9545786583,manya.chaudhry7984@yahoo.com
+276,8,Vinaya,Sai,Tata,GOV928936052,Delivery Coordinator,2025-10-05,On Leave,263.0,17561,9098990256,vinaya.tata484@outlook.com
+277,8,Tanmayi,Naveen,Dhar,GOV898203512,Delivery Coordinator,2018-07-17,Active,263.0,15327,9682271640,tanmayi.dhar3213@outlook.com
+278,8,Lohit,,Sanghvi,GOV652994134,Cashier,2021-03-25,Active,265.0,13330,9228476962,lohit.sanghvi3387@yahoo.com
+279,8,Kritika,,Chad,GOV787707691,Delivery Coordinator,2021-07-04,Active,264.0,14827,9200143089,kritika.chad6272@rediffmail.com
+280,8,Wyatt,,Khalsa,GOV362696713,Cleaner,2016-07-31,Active,263.0,15854,9802008198,wyatt.khalsa5357@outlook.com
+281,8,Advaith,Advay,Divan,GOV329695927,Cashier,2024-06-13,Active,265.0,17147,9135094630,advaith.divan2550@rediffmail.com
+282,8,Laban,,Sharma,GOV549236317,Kitchen Staff,2022-03-07,Active,265.0,21957,9747816712,laban.sharma3350@rediffmail.com
+283,8,Darpan,Upma,Soni,GOV924127646,Delivery Coordinator,2023-02-19,Active,263.0,15240,9824461887,darpan.soni1290@rediffmail.com
+284,8,Rajeshri,,Kohli,GOV118023081,Kitchen Staff,2025-02-22,Active,261.0,17820,9722621855,rajeshri.kohli421@rediffmail.com
+285,8,Balvan,Zayyan,Nagar,GOV423892053,Delivery Coordinator,2017-11-03,Active,262.0,14292,9504315763,balvan.nagar8468@rediffmail.com
+286,8,Ishita,Krishna,Khosla,GOV139765084,Kitchen Staff,2025-06-04,Active,263.0,16105,9752794028,ishita.khosla1175@outlook.com
+287,8,Advaith,Zaitra,Dada,GOV675993904,Kitchen Staff,2023-05-25,Active,262.0,16062,9677261413,advaith.dada8461@yahoo.com
+288,8,Ekavir,,Dubey,GOV984885458,Cashier,2016-08-20,Active,265.0,18941,9653542514,ekavir.dubey2959@gmail.com
+289,9,Widisha,Chatura,Oommen,GOV143101064,Branch Manager,2016-02-09,Active,,86486,9661179532,widisha.oommen813@gmail.com
+290,9,Aryan,,Rau,GOV804846231,Assistant Manager,2026-05-29,Active,289.0,45097,9310411279,aryan.rau3414@rediffmail.com
+291,9,Faris,Hiral,Pall,GOV680019103,Shift Manager,2022-03-23,Active,290.0,30410,9678970725,faris.pall7841@rediffmail.com   
+292,9,Theodore,Aarna,Dugar,GOV043932522,Shift Manager,2018-06-11,Active,290.0,25489,9690368574,theodore.dugar581@yahoo.com
+293,9,Aahana,,Nagar,GOV823232049,Cashier,2022-01-20,Active,291.0,13274,9807960410,aahana.nagar1905@gmail.com
+294,9,Rajata,,Nigam,GOV038658733,Cashier,2019-02-09,Active,292.0,15807,9619665050,rajata.nigam1639@gmail.com
+295,9,Simon,,Golla,GOV092977028,Cashier,2018-03-01,Active,290.0,18092,9158521717,simon.golla6023@gmail.com
+296,9,Gopal,Dayamai,Mitter,GOV494276501,Kitchen Staff,2025-02-13,Active,290.0,19662,9424679885,gopal.mitter543@outlook.com
+297,9,Ati,,Chacko,GOV137926740,Cleaner,2019-03-23,Resigned,290.0,15934,9329543624,ati.chacko7928@rediffmail.com
+298,9,Kashvi,Neelima,Chada,GOV184017347,CASHIER,2023-08-10,Active,292.0,15986,9261370665,kashvi.chada1776@gmail.com
+299,9,Rushil,,Joshi,GOV688839049,Cleaner,2016-11-17,Active,292.0,12509,9424545458,rushil.joshi2583@outlook.com
+300,9,William,Radha,Buch,GOV469294834,Kitchen Staff,2021-05-22,Active,291.0,21667,9492691815,william.buch9758@outlook.com
+301,9,Eta,,Barman,GOV845474966,Kitchen Staff,2024-03-11,Active,292.0,16739,9180000598,eta.barman360@outlook.com
+302,9,Agastya,,Palla,GOV107873277,Cashier,2023-05-29,Active,292.0,14866,9495318620,agastya.palla7018@gmail.com
+303,9,Kala,,Bhattacharyya,GOV304592436,Cashier,2016-03-21,Resigned,290.0,17521,9350934136,kala.bhattacharyya9252@yahoo.com
+304,9,Raagini,Isaac,Joshi,GOV702232945,Delivery Coordinator,2022-12-30,Active,291.0,18580,9024610625,raagini.joshi17@outlook.com
+305,9,Devansh,Vedhika,Dey,GOV579717217,Kitchen Staff,2024-10-29,Active,291.0,20686,9618096726,devansh.dey7424@yahoo.com
+306,9,Bishakha,,Barman,GOV126798038,Kitchen Staff,2024-07-19,Active,291.0,14162,9149493308,bishakha.barman8956@gmail.com
+307,9,Isaiah,Rayaan,Bhatt,GOV587303933,Kitchen Staff,2023-09-18,Active,290.0,18190,9527260375,isaiah.bhatt3253@rediffmail.com
+308,9,Aryan,Veer,Prashad,GOV924740232,Kitchen Staff,2025-10-30,Resigned,290.0,18156,9604084287,aryan.prashad4030@gmail.com
+309,9,Maanav,,Biswas,GOV500671747,Cleaner,2020-09-07,Active,292.0,13703,9114547365,maanav.biswas1555@outlook.com
+310,9,Dipta,,Deo,GOV041295632,Delivery Coordinator,2025-04-10,Active,290.0,20713,9455803932,charvi.nair8832@outlook.com
+311,9,Ridhi,Mekhala,Venkataraman,GOV753090736,Kitchen Staff,2025-12-01,Resigned,290.0,21522,9065443540,ridhi.venkataraman8119@outlook.com
+312,9,Krishna,Wahab,Tiwari,GOV294514421,Cashier,2025-10-20,Active,291.0,16835,9366398094,krishna.tiwari1943@rediffmail.com
+313,9,Abhimanyu,Bhavini,Grover,GOV491647676,Cashier,2025-05-26,Active,292.0,17702,9140292663,abhimanyu.grover8202@rediffmail.com
+314,9,Daksh,,Patel,GOV076844099,Delivery Coordinator,2018-06-16,Terminated,291.0,16092,9581939290,daksh.patel8945@outlook.com
+315,9,Falan,,Thakkar,GOV219492006,Delivery Coordinator,2022-02-09,Active,292.0,18792,9839644619,falan.thakkar7245@gmail.com
+316,9,Champak,Charles,Nagi,GOV482967153,Cleaner,2022-07-09,Active,290.0,15336,9974519584,champak.nagi3888@rediffmail.com
+317,9,Ranveer,,Chhabra,GOV549213411,Cashier,2025-09-17,Active,290.0,17345,9832555523,ranveer.chhabra792@rediffmail.com
+318,9,Gopal,,Doctor,GOV441848343,Delivery Coordinator,2022-12-12,Active,291.0,17821,9818195521,gopal.doctor2070@rediffmail.com
+319,9,Chatresh,Irya,Lala,GOV756366092,Delivery Coordinator,2025-04-17,Active,290.0,17615,9201208386,chatresh.lala9952@gmail.com
+320,9,Oviya,,Nanda,GOV169724335,Kitchen Staff,2020-06-24,Active,290.0,21525,9349041933,oviya.nanda5981@rediffmail.com
+321,9,Ekansh,,Magar,GOV886002414,Kitchen Staff,2020-08-19,Active,290.0,15342,9375140457,ekansh.magar9021@yahoo.com
+322,10,Alexander,Priya,Khurana,GOV556110901,Branch Manager,2025-03-31,Active,,71994,9167302342,alexander.khurana5649@gmail.com
+323,10,Ira,,Morar,GOV636196838,Assistant Manager,2023-10-23,Active,322.0,38049,9962642442,ira.morar8725@gmail.com
+324,10,Ekaraj,,Grover,GOV344295836,Assistant Manager,2024-07-01,Active,322.0,48165,9373079004,ekaraj.grover9506@rediffmail.com
+325,10,Charan,,Pradhan,GOV705481091,Shift Manager,2020-04-24,Active,323.0,29317,9890602105,charan.pradhan5862@yahoo.com
+326,10,Yashvi,,Shankar,GOV431846644,Shift Manager,2021-03-16,Active,323.0,30091,9753008527,yashvi.shankar7074@yahoo.com
+327,10,Urmi,,Bansal,GOV653892050,Shift Manager,2021-09-20,Active,323.0,35266,9069972296,urmi.bansal3913@rediffmail.com
+328,10,Mohini,,Rai,GOV078696096,Kitchen Staff,2018-08-09,Active,324.0,17242,9375653588,mohini.rai9515@yahoo.com
+329,10,Umang,Kamya,Bala,GOV032664492,Delivery Coordinator,2016-10-20,Active,323.0,20511,9848774027,umang.bala1287@yahoo.com
+330,10,Manya,Dayamai,Ahuja,GOV363713362,Delivery Coordinator,2025-12-10,Active,327.0,15436,9991775024,manya.ahuja8331@outlook.com
+331,10,Anita,,Raman,GOV184942959,Kitchen Staff,2017-11-02,Active,324.0,19226,9108216724,anita.raman7894@gmail.com
+332,10,Jalsa,Lakshit,Anne,GOV411499984,Cashier,2017-08-28,Active,324.0,17915,9770227121,jalsa.anne1262@gmail.com
+333,10,Timothy,,Natt,GOV964823414,Kitchen Staff,2016-11-23,Active,323.0,21086,9116745278,timothy.natt3969@outlook.com
+334,10,Omisha,Krisha,Rana,GOV661263206,Kitchen Staff,2022-05-19,Terminated,327.0,14371,9850085909,omisha.rana1629@outlook.com
+335,10,Rachita,Ayush,Bhakta,GOV282300889,Cashier,2022-02-15,Active,326.0,15124,9587390637,rachita.bhakta4717@outlook.com
+336,10,Ikshita,Jalsa,Bail,GOV084297505,Kitchen Staff,2024-09-12,Active,326.0,17878,9757947072,ojas.radhakrishnan561@gmail.com
+337,10,Kashish,,Shankar,GOV887209665,Kitchen Staff,2023-04-14,Resigned,326.0,21558,9666421280,kashish.shankar3638@yahoo.com
+338,10,Forum,Simon,Sundaram,GOV103205585,Cleaner,2025-02-23,Active,323.0,15289,9366746890,forum.sundaram2203@gmail.com
+339,10,Vamakshi,,Kothari,GOV087297748,Cashier,2025-12-05,Active,326.0,15851,9660758634,vamakshi.kothari52@gmail.com
+340,10,Gopal,Amaira,Morar,GOV732125190,Kitchen Staff,2024-04-17,Terminated,326.0,21551,9353948107,manya.garg9787@yahoo.com
+341,10,Upkaar,Benjamin,Shenoy,GOV329810613,Delivery Coordinator,2018-08-02,Active,325.0,15890,9381513880,upkaar.shenoy8998@rediffmail.com
+342,10,Rayaan,,Nanda,GOV378074151,Kitchen Staff,2018-08-05,Resigned,324.0,17951,9169890585,rayaan.nanda1904@outlook.com
+343,10,Fitan,Jeet,Ram,GOV821837542,Kitchen Staff,2016-04-23,Active,326.0,14131,9411531183,fitan.ram2017@rediffmail.com
+344,10,Avi,,Devi,GOV894089761,Delivery Coordinator,2023-10-01,Resigned,327.0,19917,9484657706,avi.devi8951@outlook.com
+345,10,Pahal,Ekavir,Magar,GOV655526305,Kitchen Staff,2024-06-15,Active,326.0,18136,9331640892,pahal.magar1060@yahoo.com
+346,10,Darika,,Grover,GOV426517966,Delivery Coordinator,2020-04-09,Active,323.0,18538,9996070294,darika.grover4570@gmail.com
+347,10,Vedant,Harrison,Ganguly,GOV447811279,Cleaner,2017-05-16,Active,323.0,12674,9188902173,vedant.ganguly8681@yahoo.com
+348,10,Falan,,Bawa,GOV303756434,Kitchen Staff,2018-03-23,Active,323.0,18358,9471190493,falan.bawa618@rediffmail.com
+349,10,Rajeshri,Wahab,Saha,GOV364383859,Cashier,2018-04-10,Active,325.0,16820,9850259942,darika.grover4570@gmail.com
+350,10,Vedhika,,Sengupta,GOV819231881,Kitchen Staff,2019-04-08,Active,324.0,15932,9515665684,vedhika.sengupta9007@outlook.com
+351,10,Ikbal,Abhimanyu,Kanda,GOV463776106,Cashier,2020-03-29,Active,325.0,13040,9149538030,ikbal.kanda865@outlook.com
+352,10,Yagnesh,Kala,Chaudhari,GOV407547378,Kitchen Staff,2020-06-23,Resigned,324.0,17396,9448678553,yagnesh.chaudhari2392@outlook.com
+353,10,Nicholas,Agastya,Krish,GOV544853215,Cashier,2024-05-07,Active,327.0,17929,9773314485,nicholas.krish6233@gmail.com
+354,10,Sarthak,Teerth,More,GOV192652641,Kitchen Staff,2022-07-25,Resigned,323.0,19008,9324975253,sarthak.more9489@yahoo.com
+355,10,Rohan,,Golla,GOV116581635,Kitchen Staff,2024-10-04,Active,324.0,20743,9906981799,rohan.golla1513@yahoo.com
+356,10,Saanvi,,Lalla,GOV625012151,Delivery Coordinator,2018-08-11,Active,323.0,14112,9600444716,saanvi.lalla6998@rediffmail.com
+357,10,Janya,Netra,Saha,GOV910702544,Cleaner,2021-06-10,Active,324.0,15512,9166354644,janya.saha1945@gmail.com
+358,10,Maya,Bahadurjit,Sachdev,GOV878383014,Cashier,2025-01-15,Active,323.0,17469,9005892747,maya.sachdev4245@rediffmail.com
+359,10,Gauri,Chandran,Baria,GOV245640570,Kitchen Staff,2016-07-13,Active,323.0,19623,9093986329,gauri.baria144@yahoo.com
+360,10,Jagvi,,Palla,GOV271510454,Kitchen Staff,2019-08-30,Active,327.0,14065,9272231357,jagvi.palla1363@gmail.com
+361,10,Jack,,Narang,GOV768580007,Kitchen Staff,2023-12-25,Active,323.0,17667,9342928239,jack.narang2723@rediffmail.com
+362,10,Kashish,,Bera,GOV475987575,Cleaner,2017-07-28,Active,327.0,15393,9718093896,kashish.bera8922@outlook.com
+363,10,Dipta,,Madan,GOV868233719,Cashier,2019-10-04,Active,325.0,13913,9831648410,dipta.madan6480@rediffmail.com
+364,11,Gauri,Hredhaan,Setty,GOV271890216,Branch Manager,2025-03-12,Resigned,,57959,9678555621,gauri.setty4282@rediffmail.com
+365,11,Chandran,Anusha,Srivastava,GOV232016195,Assistant Manager,2023-09-22,Active,364.0,44987,9996193039,chandran.srivastava350@rediffmail.com
+366,11,Hredhaan,Zinal,Manda,GOV330494210,Assistant Manager,2025-01-09,Active,364.0,43831,9563963564,hredhaan.manda7654@gmail.com
+367,11,Ishwar,Chakrika,Palan,GOV195561568,Shift Manager,2017-12-10,On Leave,365.0,37316,9528233616,ishwar.palan8706@yahoo.com
+368,11,Anika,George,Sane,GOV932280984,Shift Manager,2022-11-29,Active,365.0,27617,9187968822,anika.sane9528@gmail.com
+369,11,Harita,Suhani,Krishnan,GOV226382353,Shift Manager,2017-11-17,Active,365.0,34923,9320863793,harita.krishnan7242@rediffmail.com
+370,11,Girik,,Banik,GOV045799370,Shift Manager,2016-01-24,Resigned,366.0,-37085,9978172233,girik.banik55@outlook.com
+371,11,Niharika,,Patla,GOV652768370,Cashier,2023-01-22,Active,370.0,18687,9738087684,niharika.patla8711@rediffmail.com
+372,11,Lohit,Priya,Randhawa,GOV268954061,Kitchen Staff,2022-08-25,Resigned,367.0,19002,9391879792,lohit.randhawa3251@gmail.com
+373,11,Janaki,,Mannan,GOV729560906,Delivery Coordinator,2021-05-03,Active,368.0,15951,9898532672,janaki.mannan1881@gmail.com
+374,11,Gaurangi,Thomas,Keer,GOV358861542,Kitchen Staff,2022-10-15,Active,365.0,19197,9948008317,gaurangi.keer60@gmail.com
+375,11,Widisha,Rachita,Taneja,GOV728134285,Kitchen Staff,2023-03-29,Active,369.0,21741,9554266268,widisha.taneja9561@rediffmail.com
+376,11,Jalsa,,Pandey,GOV726738398,Kitchen Staff,2026-07-08,On Leave,370.0,18011,9806024574,jalsa.pandey1554@gmail.com
+377,11,Chakradev,,Ganguly,GOV715941488,Delivery Coordinator,2019-11-21,Resigned,368.0,18311,9218528466,chakradev.ganguly5374@gmail.com
+378,11,Anya,,Manda,GOV075051484,Kitchen Staff,2018-04-05,Resigned,366.0,18378,9585763636,anya.manda3221@rediffmail.com
+379,11,Viraj,,Chaudry,GOV921457003,KITCHEN STAFF,2023-04-12,Active,370.0,16238,9574107293,viraj.chaudry4883@gmail.com
+380,11,Pratyush,,Gour,GOV107183356,Kitchen Staff,2022-06-26,Active,367.0,14675,9769657928,pratyush.gour6630@yahoo.com
+381,11,Pushti,,Luthra,GOV956412356,Kitchen Staff,2024-09-06,Active,365.0,19869,9810631301,pushti.luthra8604@yahoo.com
+382,11,Dayita,Manya,Chokshi,GOV589552889,Cashier,2024-12-15,Resigned,365.0,14913,9343342417,dayita.chokshi6214@outlook.com
+383,11,Gunbir,,Muni,GOV679338623,Cleaner,2022-07-19,Active,369.0,11001,9185288670,gunbir.muni6905@yahoo.com
+384,11,Naveen,Netra,Varughese,GOV688240747,Kitchen Staff,2019-12-23,Active,365.0,15590,9010427505,  naveen.varughese9583@gmail.com
+385,11,Tejas,,Nayak,GOV634592845,Delivery Coordinator,2025-02-21,Active,368.0,17499,9888099502,tejas.nayak304@gmail.com
+386,11,Darpan,,Prasad,GOV208860156,Kitchen Staff,2019-07-07,Active,366.0,21032,9665406541,darpan.prasad5517@rediffmail.com
+387,11,Sai,,Chadha,GOV679569084,Delivery Coordinator,2022-02-19,Active,369.0,20939,9690961818,sai.chadha4440@outlook.com
+388,11,Fitan,Ronith,Iyengar,GOV077828059,Delivery Coordinator,2017-04-24,Active,368.0,17788,9003988071,fitan.iyengar6582@rediffmail.com
+389,11,Hemani,,Sankar,GOV679885155,Cleaner,2017-12-07,Active,367.0,12919,9448753947,hemani.sankar587@outlook.com
+390,11,Ikbal,Nihal,Sawhney,GOV838879705,Kitchen Staff,2016-01-30,Resigned,367.0,14775,9672651979,ikbal.sawhney509@yahoo.com
+391,11,Vedhika,Vaishnavi,Toor,GOV897296013,Cashier,2020-12-04,Active,365.0,15701,9619121635,vedhika.toor8529@rediffmail.com
+392,11,Raghav,Tanmayi,Mishra,GOV150187660,Cashier,2021-03-20,Active,367.0,14564,9865864358,raghav.mishra9423@yahoo.com
+393,11,Rehaan,,Sehgal,GOV776675280,Cleaner,2018-11-27,Active,370.0,15370,9538286091,rehaan.sehgal8487@yahoo.com
+394,11,Parth,Imaran,Karan,GOV503632804,Kitchen Staff,2026-07-23,On Leave,366.0,19859,9090641779,parth.karan4186@rediffmail.com
+395,11,Vasudha,Nikita,Rai,GOV295507517,Kitchen Staff,2017-04-18,Active,365.0,16693,9198811654,vasudha.rai2626@rediffmail.com
+396,11,Naveen,Harita,Garde,GOV284975597,Cashier,2021-11-21,Active,366.0,16487,9055127173,naveen.garde6159@rediffmail.com
+397,11,Anjali,Tanveer,Hegde,GOV179802139,Cashier,2018-01-16,Active,368.0,13748,9944849079,anjali.hegde9848@yahoo.com
+398,11,Dipta,Alexander,Tandon,GOV721499827,Delivery Coordinator,2021-03-06,Active,367.0,17517,9334802719,dipta.tandon6817@gmail.com
+399,11,Sara,,Mohanty,GOV694489494,Cashier,2023-08-09,On Leave,369.0,15677,9742726368,sara.mohanty8622@rediffmail.com
+400,11,Anusha,,Bala,GOV586923531,Kitchen Staff,2023-09-07,Resigned,366.0,18796,9032409929,anusha.bala4616@yahoo.com
+401,11,Robert,Oni,Sood,GOV196057242,Kitchen Staff,2018-07-30,Active,365.0,20232,9334060676,robert.sood4427@rediffmail.com
+402,11,Hemang,,Sur,GOV027488302,Cashier,2021-11-27,Active,367.0,13784,9391077439,hemang.sur5744@outlook.com
+403,11,Nikita,Vedhika,Om,GOV324693986,Kitchen Staff,2023-06-22,Active,367.0,17708,9006128224,nikita.om6023@gmail.com
+404,11,Christopher,Yashawini,Rajan,GOV654246663,Kitchen Staff,2018-02-13,Active,369.0,20599,9993832537,christopher.rajan5223@outlook.com
+405,11,Xavier,,Mann,GOV101937131,Cashier,2020-06-19,Active,365.0,15689,9798504626,xavier.mann4582@outlook.com
+406,12,Manthan,Gabriel,Narasimhan,GOV868568735,Branch Manager,2018-02-11,Active,,57203,9266695059,manthan.narasimhan7298@outlook.com
+407,12,Yashawini,Diya,Barad,GOV692742553,Assistant Manager,2026-02-28,Active,406.0,46838,9757579421,yashawini.barad6587@outlook.com
+408,12,Abha,Faras,Nath,GOV295579791,Shift Manager,2021-04-30,Terminated,407.0,35745,9493399033,abha.nath1999@gmail.com
+409,12,Jonathan,Jyoti,Mann,GOV815575825,Shift Manager,2017-10-11,Active,407.0,30585,9779764546,jonathan.mann8596@yahoo.com
+410,12,Kai,,Varkey,GOV261010654,Shift Manager,2023-05-08,Active,407.0,37390,9801797029,kai.varkey6602@rediffmail.com
+411,12,Warjas,Zayan,Mukhopadhyay,GOV128637331,Shift Manager,2025-04-22,Active,407.0,37845,9138809903,warjas.mukhopadhyay7923@yahoo.com
+412,12,Abeer,Gagan,Bhavsar,GOV904812433,Delivery Coordinator,2023-03-31,Active,409.0,18889,9616643477,abeer.bhavsar5338@outlook.com
+413,12,Siya,,Bava,GOV105509983,Cleaner,2022-06-23,Resigned,411.0,12194,9879177791,siya.bava7748@yahoo.com
+414,12,Zayan,Damini,Dalal,GOV620825577,Cashier,2021-03-05,Active,408.0,17302,9419130075,zayan.dalal8626@gmail.com
+415,12,Eshana,,Kala,GOV809092049,Delivery Coordinator,2020-03-05,Active,410.0,18143,9512481544,eshana.kala3221@outlook.com
+416,12,Waida,,Palla,GOV586347576,Kitchen Staff,2019-01-18,Active,410.0,17698,9415871676,waida.palla447@rediffmail.com
+417,12,Anmol,Lakshmi,Char,GOV073159128,Kitchen Staff,2022-02-11,Active,408.0,15264,9486962017,anmol.char4397@yahoo.com
+418,12,Girish,Ikbal,Majumdar,GOV226550662,Cashier,2023-05-29,Terminated,408.0,19819,9778429732,girish.majumdar3247@yahoo.com
+419,12,Ladli,,Misra,GOV021804023,Kitchen Staff,2017-04-20,Active,407.0,20945,9571996382,ladli.misra4172@gmail.com
+420,12,Indali,,Som,GOV252680899,Cleaner,2019-11-17,Terminated,410.0,12192,9095658724,indali.som4032@gmail.com
+421,12,Raghav,Zarna,Soman,GOV242736178,Cashier,2023-03-28,Terminated,411.0,13236,9328930614,raghav.soman4525@rediffmail.com
+422,12,Anamika,,Amble,GOV919969240,Cleaner,2026-07-13,Terminated,409.0,14599,9221434226,anamika.amble6103@outlook.com
+423,12,Gaurang,,Jaggi,GOV727719964,Cleaner,2020-07-17,Resigned,409.0,13064,9957847572,gaurang.jaggi5181@outlook.com
+424,12,Ekbal,Ekapad,Swamy,GOV919410136,Cleaner,2024-08-15,Active,408.0,15012,9696694498,ekbal.swamy7983@rediffmail.com
+425,12,Alexander,,Ahluwalia,GOV486692692,Cashier,2024-04-13,Terminated,411.0,13258,9593526984,alexander.ahluwalia2562@yahoo.com
+426,12,Indrajit,Harsh,Prasad,GOV644685662,Delivery Coordinator,2024-03-13,Active,409.0,20918,9773434384,indrajit.prasad4154@gmail.com
+427,12,Chandani,Devika,Pai,GOV571480888,Kitchen Staff,2017-09-23,Active,407.0,15334,9520655887,chandani.pai4719@yahoo.com
+428,12,Jagrati,,Chaudhary,GOV532307463,Delivery Coordinator,2020-10-04,Active,411.0,17319,9986451021,jagrati.chaudhary2046@yahoo.com
+429,12,Jagrati,,Narain,GOV561669640,Cleaner,2025-01-20,Active,411.0,12726,9422862486,jagrati.narain7649@yahoo.com
+430,12,Ranbir,,Sur,GOV601829094,Delivery Coordinator,2019-08-14,Active,410.0,14281,9244970113,ranbir.sur2202@outlook.com
+431,12,Leela,Parth,Bansal,GOV227431679,Kitchen Staff,2023-12-11,Active,411.0,19007,9168535563,leela.bansal4687@outlook.com
+432,12,Meera,Zansi,Sandhu,GOV526977807,Cashier,2017-04-28,Active,407.0,14718,9533383657,meera.sandhu6247@rediffmail.com
+433,12,Chandran,,Warrior,GOV969875472,Delivery Coordinator,2020-05-17,Active,408.0,19139,9994697584,chandran.warrior2593@yahoo.com
+434,12,Wyatt,Ekapad,Venkatesh,GOV817293860,Kitchen Staff,2024-10-27,Active,411.0,21785,9713209395,wyatt.venkatesh603@gmail.com
+435,12,Lavanya,Logan,Zachariah,GOV958180945,Cleaner,2021-04-16,Active,411.0,11400,9159805455,lavanya.zachariah6639@yahoo.com
+436,12,Upadhriti,,Gara,GOV372695874,Kitchen Staff,2019-04-29,Active,411.0,21603,9891041114,upadhriti.gara6224@gmail.com
+437,12,Arin,Anay,Balay,GOV084542030,Cleaner,2023-10-02,Active,407.0,14431,9388820919,  arin.balay3601@outlook.com  
+438,12,Devika,,Rajan,GOV997167286,Kitchen Staff,2020-09-07,Active,409.0,15964,9870409485,devika.rajan6285@rediffmail.com
+439,12,Zashil,,Oak,GOV501600977,Kitchen Staff,2016-01-20,Active,409.0,19774,9468167675,zashil.oak1764@gmail.com
+440,12,Warinder,Krishna,Bains,GOV423898976,Kitchen Staff,2016-02-12,Active,411.0,17279,9717114706,warinder.bains4754@outlook.com
+441,12,Aarnav,,Lal,GOV814888583,delivery coordinator,2022-01-31,Active,410.0,19025,9179145060,aarnav.lal9063@outlook.com
+442,12,Jeet,Fiyaz,Batta,GOV041967625,Kitchen Staff,2024-09-14,Active,407.0,16442,9547004019,jeet.batta1964@gmail.com
+443,12,Yochana,Siddharth,Srinivas,GOV552005725,Cashier,2019-12-04,Active,408.0,15600,9106073517,yochana.srinivas423@yahoo.com
+444,12,Chatresh,Waida,Balakrishnan,GOV100227744,kitchen staff,2019-01-07,Active,411.0,19239,9102591686,chatresh.balakrishnan3861@outlook.com
+445,12,Krishna,Tanmayi,Khare,GOV818838369,Delivery Coordinator,2018-05-11,On Leave,410.0,17875,9024538405,krishna.khare649@rediffmail.com
+446,13,Qadim,,Ganesan,GOV791819068,Branch Manager,2019-07-08,Active,,79948,9032162200,qadim.ganesan6318@yahoo.com
+447,13,Watika,,Kapadia,GOV701778171,Assistant Manager,2023-04-05,Resigned,446.0,41403,9877394777,watika.kapadia3155@yahoo.com
+448,13,Ekiya,Sarthak,Bhargava,GOV077483644,Shift Manager,2020-06-14,Active,447.0,31289,9144959560,ekiya.bhargava1457@gmail.com
+449,13,Madhav,,Raju,GOV210693949,Shift Manager,2016-10-05,Active,447.0,31704,9292552213,madhav.raju3069@yahoo.com
+450,13,Garima,Ucchal,Bava,GOV924943224,Shift Manager,2020-06-05,On Leave,447.0,29219,9636748303,garima.bava9689@yahoo.com
+451,13,Vivaan,,Parikh,GOV849571665,Cashier,2019-08-03,Active,447.0,18460,9789769154,vivaan.parikh3526@gmail.com
+452,13,Falak,,Dhaliwal,GOV427262033,Kitchen Staff,2018-10-17,Active,449.0,20384,9171640119,falak.dhaliwal8315@rediffmail.com
+453,13,Omya,Samesh,Pau,GOV376338586,Kitchen Staff,2020-06-04,Active,450.0,17433,9746011962,omya.pau4965@yahoo.com
+454,13,Charles,Upadhriti,Padmanabhan,GOV320043089,Delivery Coordinator,2019-07-24,Active,448.0,16005,9390908233,charles.padmanabhan8630@yahoo.com
+455,13,Ranveer,Gopal,Mody,GOV021000155,Cashier,2022-04-12,Active,447.0,19891,9603792586,ranveer.mody2448@outlook.com
+456,13,Robert,Radha,Palan,GOV405155508,Delivery Coordinator,2026-06-15,Active,449.0,18198,9748135655,robert.palan8848@rediffmail.com
+457,13,Chaman,,Dhillon,GOV043064263,Cashier,2023-02-27,Resigned,448.0,17333,9098967853,chaman.dhillon9719@rediffmail.com
+458,13,Daniel,Atharv,Raghavan,GOV704507805,Delivery Coordinator,2017-01-19,Resigned,447.0,19648,9814690963,daniel.raghavan6508@rediffmail.com
+459,13,Tara,Aadhya,Dugar,GOV334080181,Kitchen Staff,2023-12-12,Active,449.0,-17842,9228532127,tara.dugar7865@yahoo.com
+460,13,Advay,Aarna,Murthy,GOV959850145,Cashier,2017-07-11,Resigned,447.0,17104,9271751992,advay.murthy6655@yahoo.com
+461,13,Xavier,,Contractor,GOV318120032,Delivery Coordinator,2022-07-31,Active,448.0,17680,9896740772,xavier.contractor85@yahoo.com
+462,13,Bina,Gaurav,Chand,GOV107982536,delivery coordinator,2017-03-03,Active,448.0,15326,9831867743,bina.chand4994@gmail.com
+463,13,Ryan,,Saraf,GOV949930561,Cleaner,2022-03-31,Active,449.0,12140,9566554153,ryan.saraf1809@rediffmail.com
+464,13,Oni,,Mukherjee,GOV032515436,Cleaner,2016-11-02,Active,449.0,11597,9172676218,oni.mukherjee2937@yahoo.com
+465,13,Naksh,,Patel,GOV369731331,Delivery Coordinator,2020-11-27,Active,447.0,19195,9341185817,naksh.patel8265@rediffmail.com
+466,13,Oscar,Brijesh,Sangha,GOV878843974,Kitchen Staff,2016-09-10,Resigned,449.0,20904,9935495769,oscar.sangha6943@outlook.com
+467,13,Nitara,Qadim,Datta,GOV388169195,Cashier,2025-03-09,Active,450.0,16199,9061264464,nitara.datta187@rediffmail.com
+468,13,Oliver,Aashi,Gulati,GOV878126388,Cleaner,2024-11-09,Active,449.0,11524,9670880348,oliver.gulati4298@rediffmail.com
+469,13,Samar,Raghav,Parsa,GOV387558055,Cleaner,2023-11-13,Active,449.0,15281,9141743005,samar.parsa9603@outlook.com
+470,13,Eiravati,,Mital,GOV287988275,Kitchen Staff,2022-04-01,Resigned,450.0,16643,9964057519,eiravati.mital3444@yahoo.com
+471,13,Oliver,,Dugal,GOV052114274,Cashier,2021-07-18,Active,449.0,18908,9498149205,oliver.dugal137@outlook.com
+472,13,Devansh,Vedika,Subramanian,GOV581137801,Kitchen Staff,2020-09-27,Active,450.0,19667,9012555236,devansh.subramanian8663@rediffmail.com
+473,13,Ekanta,Anika,Goda,GOV642118388,Cashier,2026-02-23,Resigned,448.0,14969,9608849241,ekanta.goda5072@yahoo.com
+474,13,Sai,,Shanker,GOV462582342,Kitchen Staff,2022-01-17,Active,450.0,21963,9582225691,sai.shanker5871@yahoo.com
+475,13,Mitali,Harsh,Peri,GOV397068143,Cashier,2021-05-09,Active,450.0,15890,9356951060,mitali.peri2592@gmail.com
+476,13,Nicholas,,Varma,GOV164834567,Delivery Coordinator,2024-09-23,Resigned,447.0,17057,9650487155,nicholas.varma686@outlook.com
+477,13,Gauri,,Sarin,GOV335799564,Cashier,2019-06-08,Active,448.0,15831,9224126687,gauri.sarin4598@outlook.com
+478,13,Raghav,,Sangha,GOV296665851,Kitchen Staff,2024-05-05,Resigned,450.0,14431,9128533527,raghav.sangha500@rediffmail.com
+479,13,Nikita,,Sampath,GOV821964436,Cashier,2021-11-26,Active,449.0,16383,9189810120,nikita.sampath3376@yahoo.com
+480,13,Sudiksha,,Bhardwaj,GOV871089297,Delivery Coordinator,2019-07-29,Active,448.0,20054,9008536369,sudiksha.bhardwaj8938@outlook.com
+481,13,Faris,,Aggarwal,GOV380852497,Kitchen Staff,2017-05-01,Active,447.0,19261,9537783456,faris.aggarwal6833@gmail.com
+482,13,Oliver,,Datta,GOV589103320,Cashier,2017-03-19,Active,450.0,16298,9310960621,oliver.datta9335@gmail.com
+483,13,Yatan,Waida,Kapur,GOV580289086,Cleaner,2024-10-10,Active,448.0,14872,9371849922,  yatan.kapur6631@outlook.com
+484,13,Ishani,Pranav,Kade,GOV235810401,Kitchen Staff,2020-06-14,Active,449.0,19887,9798376061,ishani.kade917@outlook.com
+485,14,Ethan,,Mitra,GOV060781304,Branch Manager,2020-11-19,Active,,74462,9542019936,ethan.mitra8666@outlook.com
+486,14,Yasti,Bhavya,Kala,GOV494731094,Assistant Manager,2021-09-17,Terminated,485.0,41933,9322398318,yasti.kala6892@gmail.com
+487,14,Garima,Yashawini,Setty,GOV893090764,Shift Manager,2020-11-27,Active,486.0,36533,9259205350,garima.setty3000@yahoo.com
+488,14,Vihaan,,Sandal,GOV365043874,Shift Manager,2024-11-07,Active,486.0,36154,9072032516,vihaan.sandal6063@outlook.com
+489,14,Sai,,Datta,GOV218481102,Delivery Coordinator,2022-02-27,Active,486.0,20408,9325367747,sai.datta5752@yahoo.com
+490,14,Matthew,Tanveer,Prabhu,GOV796302936,Cleaner,2020-11-14,Active,487.0,11902,9231299198,matthew.prabhu8074@outlook.com
+491,14,Balendra,,Handa,GOV090485628,Cleaner,2021-10-23,Active,487.0,14633,9372125514,balendra.handa2278@rediffmail.com
+492,14,Yuvraj,,Nori,GOV238491546,Cashier,2018-12-10,Active,488.0,17503,9774783895,yuvraj.nori6084@outlook.com
+493,14,Devansh,,Pandey,GOV621423403,Cashier,2017-01-27,Resigned,488.0,18435,9393392199,devansh.pandey6608@yahoo.com
+494,14,Vrishti,,Hayre,GOV658031794,Cashier,2020-11-15,Active,488.0,18139,9465496773,vrishti.hayre2908@gmail.com
+495,14,Ladli,Rachana,Salvi,GOV356382621,Kitchen Staff,2016-05-12,Active,487.0,19554,9194936984,ladli.salvi2509@yahoo.com
+496,14,Max,Harsh,Kumer,GOV478521327,Cashier,2023-12-31,Active,488.0,18328,9964847143,max.kumer6810@gmail.com
+497,14,Ishita,Ojasvi,Soni,GOV868533318,Cashier,2021-06-16,Active,486.0,18408,9629987625,ishita.soni7836@gmail.com
+498,14,Henry,Chakradhar,Badal,GOV504124851,Kitchen Staff,2025-04-12,Active,487.0,16808,9854977532,henry.badal5112@gmail.com
+499,14,Faraj,,Barad,GOV864252576,Cleaner,2019-08-18,Resigned,488.0,11526,9361808248,faraj.barad3791@rediffmail.com
+500,14,Anmol,Harshil,Gaba,GOV270067720,Delivery Coordinator,2019-01-20,Active,488.0,20409,9182903765,anmol.gaba4709@rediffmail.com
+501,14,Logan,Hamsini,Kadakia,GOV037743129,Cashier,2025-11-26,Active,487.0,16433,9890229555,logan.kadakia9683@gmail.com
+502,14,Januja,,Chhabra,GOV504658127,Kitchen Staff,2019-01-16,Active,486.0,19548,9287378324,januja.chhabra3729@yahoo.com
+503,14,Gopal,Yauvani,Sahni,GOV976888728,Cashier,2026-02-22,On Leave,486.0,13708,9707604448,gopal.sahni4186@rediffmail.com
+504,14,Udarsh,,Deshpande,GOV173964175,Delivery Coordinator,2019-04-02,Active,486.0,15029,9855185351,udarsh.deshpande4234@outlook.com
+505,14,Michael,Hardik,Pant,GOV293579707,Kitchen Staff,2020-05-30,Active,486.0,15785,9348134510,michael.pant9659@gmail.com
+506,14,Adweta,Nimrat,Date,GOV047650646,Cashier,2018-10-17,Active,488.0,16185,9095637214,adweta.date2079@rediffmail.com
+507,14,Vihaan,,Deol,GOV982407369,Cashier,2023-01-06,Active,486.0,13305,9766151507,vihaan.deol2978@rediffmail.com
+508,14,Joshua,,Comar,GOV911514069,Cleaner,2021-01-06,Active,487.0,15795,9966200307,joshua.comar1127@rediffmail.com
+509,14,Aishani,,Nagarajan,GOV607962177,Delivery Coordinator,2019-06-14,Active,487.0,17329,9675770614,aishani.nagarajan5477@gmail.com
+510,14,Vaishnavi,,Cherian,GOV324779665,Cashier,2021-09-19,Resigned,487.0,17479,9394560125,vaishnavi.cherian1583@gmail.com
+511,14,Balhaar,Jeet,Loke,GOV435985505,Cashier,2021-06-22,Active,488.0,15576,9000186194,balhaar.loke6342@gmail.com
+512,14,Maya,Ridhi,Suresh,GOV104330701,Delivery Coordinator,2025-03-31,Active,487.0,17436,9254663051,maya.suresh6172@rediffmail.com
+513,14,Wakeeta,Farhan,Tella,GOV287475232,Kitchen Staff,2016-07-19,Active,486.0,14388,9461428418,wakeeta.tella6850@gmail.com
+514,14,Jeet,,Pandit,GOV755051126,Cashier,2026-04-20,Active,486.0,14393,9718350355,jeet.pandit3492@outlook.com
+515,14,Harish,Pahal,Joshi,GOV520023694,Kitchen Staff,2019-01-14,Active,486.0,18774,9847446597,harish.joshi6665@rediffmail.com
+516,14,Chanchal,,Grewal,GOV476157482,Kitchen Staff,2019-04-30,Active,487.0,20070,9978101030,chanchal.grewal5481@gmail.com
+517,14,Parth,,Ramaswamy,GOV553484508,Kitchen Staff,2019-03-27,On Leave,486.0,19318,9947913412,parth.ramaswamy6651@gmail.com
+518,15,Geetika,Oeshi,Pant,GOV223025414,Branch Manager,2020-07-27,Active,,70697,9564229488,geetika.pant6933@gmail.com
+519,15,Banjeet,,Johal,GOV867015836,Assistant Manager,2019-04-09,Active,518.0,54279,9000942975,banjeet.johal2372@yahoo.com
+520,15,Lila,,Guha,GOV079731577,Shift Manager,2017-06-21,Resigned,519.0,28442,9184639348,lila.guha5889@outlook.com
+521,15,Bakhshi,Fitan,Om,GOV253784824,Shift Manager,2023-07-24,Active,519.0,35579,9252776570,bakhshi.om5961@gmail.com
+522,15,Suhani,Sai,Kota,GOV879733353,Shift Manager,2018-12-29,Active,519.0,34752,9455058621,suhani.kota7899@yahoo.com
+523,15,Harish,,Pandya,GOV371748504,Shift Manager,2020-12-27,Active,519.0,35221,9999930653,harish.pandya4560@rediffmail.com
+524,15,Harini,,Nigam,GOV391832988,Cashier,2018-05-05,Active,521.0,16537,9174229667,harini.nigam4647@yahoo.com
+525,15,Sudiksha,,Singh,GOV332361350,Kitchen Staff,2023-06-08,Resigned,522.0,19737,9650529924,sudiksha.singh8453@outlook.com
+526,15,Neel,Qabil,Raj,GOV928526807,Kitchen Staff,2016-02-10,Active,520.0,14163,9121687340,neel.raj1362@gmail.com
+527,15,Tanveer,,Narayan,GOV099121171,Cashier,2023-04-22,Active,522.0,17459,9514367794,tanveer.narayan3824@yahoo.com
+528,15,Bhavani,,Bains,GOV233341179,Kitchen Staff,2025-12-03,Resigned,523.0,17682,9946186640,bhavani.bains6747@outlook.com
+529,15,Viraj,Rachita,Atwal,GOV897361179,Kitchen Staff,2026-08-04,Active,523.0,14736,9311396143,viraj.atwal1458@outlook.com
+530,15,Yashodhara,Kashvi,Brar,GOV789403624,Kitchen Staff,2026-03-15,Active,521.0,21153,9413744148,yashodhara.brar8353@gmail.com
+531,15,Advik,Rajeshri,Subramaniam,GOV975179750,Kitchen Staff,2025-07-15,Active,522.0,14062,9737204796,advik.subramaniam5620@outlook.com
+532,15,Warhi,Teerth,Ramanathan,GOV713952609,Delivery Coordinator,2025-09-08,Active,520.0,15704,9032367756,warhi.ramanathan5617@outlook.com
+533,15,Hritik,Bina,Dasgupta,GOV496602058,Kitchen Staff,2025-08-31,Active,520.0,17303,9612564547,hritik.dasgupta5085@rediffmail.com
+534,15,Triveni,Jacob,Mahajan,GOV750939476,Delivery Coordinator,2022-08-12,Active,523.0,19814,9805168890,triveni.mahajan4186@outlook.com
+535,15,Oscar,,Keer,GOV119339038,Delivery Coordinator,2017-06-02,Active,523.0,15822,9273025576,oscar.keer6678@yahoo.com
+536,15,Abhiram,,Banik,GOV274259463,Kitchen Staff,2018-06-01,Active,521.0,21540,9047027684,abhiram.banik1033@outlook.com
+537,15,Bimala,,Chand,GOV074316515,Cashier,2022-03-01,Active,522.0,19398,9265020163,bimala.chand6547@yahoo.com
+538,15,Gayathri,Eta,Chowdhury,GOV527135677,Cashier,2024-05-30,Active,522.0,18271,9267077973,gayathri.chowdhury4708@gmail.com
+539,15,Zinal,Sneha,Randhawa,GOV907001168,Delivery Coordinator,2019-09-15,Active,520.0,19194,9273981377,zinal.randhawa71@outlook.com
+540,15,Shivansh,Samaksh,Nath,GOV451067854,Kitchen Staff,2019-06-23,Active,521.0,16163,9042173102,shivansh.nath4490@rediffmail.com
+541,15,Noah,Kalpit,Solanki,GOV403906556,Kitchen Staff,2016-07-31,Active,522.0,17901,9801205366,noah.solanki1073@gmail.com
+542,15,Yamini,,Ratti,GOV477457687,Cleaner,2022-12-12,Active,519.0,13800,9866346989,yamini.ratti2252@outlook.com
+543,15,Radha,,Thaker,GOV718627332,Delivery Coordinator,2023-05-13,Active,520.0,16559,9808171766,radha.thaker8605@outlook.com
+544,15,Jyoti,Simon,Zacharia,GOV207369504,Kitchen Staff,2020-07-26,Active,519.0,21339,9521820595,jyoti.zacharia9304@rediffmail.com
+545,15,Ekaraj,,Chakraborty,GOV298380849,Cashier,2022-07-21,Active,521.0,-16026,9969920814,ekaraj.chakraborty5555@gmail.com
+546,15,Neel,Nidhi,Bhavsar,GOV063710080,Delivery Coordinator,2017-01-03,Active,522.0,17465,9731592236,neel.bhavsar9091@outlook.com
+547,15,Isha,Zehaan,Chad,GOV577208668,Kitchen Staff,2021-03-08,Active,520.0,14957,9845214216,isha.chad9066@outlook.com
+548,15,Triya,Neha,Jhaveri,GOV941531756,Kitchen Staff,2026-06-10,Terminated,522.0,18915,9483886668,triya.jhaveri2130@rediffmail.com
+549,15,Januja,,Mannan,GOV626493174,Kitchen Staff,2019-06-02,Active,523.0,14165,9286009308,januja.mannan1368@rediffmail.com
+550,15,Farhan,Irya,Badami,GOV375131234,Delivery Coordinator,2021-10-13,Active,521.0,14064,9634353443,farhan.badami1372@outlook.com
+551,15,Reva,,Tandon,GOV503634402,Kitchen Staff,2017-02-16,Active,520.0,16644,9454514061,reva.tandon6644@outlook.com
+552,15,Chakradev,,Jayaraman,GOV087209590,Delivery Coordinator,2016-12-07,Active,523.0,19643,9068189613,chakradev.jayaraman9457@yahoo.com
+553,15,Maanas,Oeshi,Shenoy,GOV598438036,Cashier,2021-08-15,Resigned,519.0,19163,9995387644,maanas.shenoy8367@gmail.com
+554,15,Benjamin,Leela,Narayanan,GOV016393827,Kitchen Staff,2025-04-28,Resigned,522.0,18170,9517333746,benjamin.narayanan6273@yahoo.com
+555,15,Siya,Chandani,Gulati,GOV482274592,Kitchen Staff,2021-08-23,Active,520.0,21516,9162848782,siya.gulati6923@rediffmail.com
+556,16,Samar,,Kumer,GOV918905348,Branch Manager,2018-09-28,Resigned,,82614,9517883552,samar.kumer669@gmail.com
+557,16,Raghav,Aradhana,Chaudhry,GOV246779984,Assistant Manager,2020-06-14,Active,556.0,38989,9602351046,raghav.chaudhry6787@yahoo.com
+558,16,Gauri,Om,Ganesh,GOV619706028,Assistant Manager,2017-09-22,Active,556.0,53960,9395396131,gauri.ganesh402@outlook.com
+559,16,Hemani,Panini,Sant,GOV754469534,Shift Manager,2016-10-08,Active,558.0,30991,9511510648,hemani.sant8326@rediffmail.com
+560,16,Liam,,Ahluwalia,GOV329750723,Shift Manager,2024-09-17,Active,558.0,32296,9353305621,liam.ahluwalia1107@gmail.com
+561,16,Hritik,,Basu,GOV394580802,Shift Manager,2020-08-20,Resigned,557.0,28633,9125657048,hritik.basu9620@outlook.com
+562,16,Champak,Jeet,D’Alia,GOV149605007,Delivery Coordinator,2021-05-23,Active,558.0,16502,9589135438,champak.d’alia5559@outlook.com
+563,16,Chasmum,,Chawla,GOV956114354,Kitchen Staff,2020-12-18,Active,557.0,18635,9872892571,chasmum.chawla4238@gmail.com
+564,16,Aarnav,,Parmar,GOV644490997,Kitchen Staff,2017-01-05,Active,558.0,14268,9246974050,aarnav.parmar4838@gmail.com
+565,16,Ikshita,Wyatt,Atwal,GOV698643007,Cashier,2017-05-07,Active,559.0,13740,9227726257,ikshita.atwal7063@rediffmail.com
+566,16,Amaira,Neel,Srinivas,GOV092484223,Delivery Coordinator,2020-08-21,Active,558.0,15132,9337854767,amaira.srinivas5129@outlook.com
+567,16,Neelima,,Kanda,GOV751156074,Kitchen Staff,2023-01-20,Active,561.0,15931,9957203189,neelima.kanda3461@yahoo.com
+568,16,Aachal,,Bora,GOV926350694,Kitchen Staff,2019-02-08,Active,558.0,14007,9383239997,aachal.bora484@gmail.com
+569,16,Onveer,Sneha,Sabharwal,GOV167807290,Delivery Coordinator,2021-02-27,Active,558.0,19716,9043517685,onveer.sabharwal1533@yahoo.com
+570,16,Krishna,,Nagarajan,GOV494407301,Cashier,2020-07-16,Active,561.0,14949,9686171979,krishna.nagarajan1856@outlook.com
+571,16,Theodore,,Gokhale,GOV955511104,Delivery Coordinator,2020-11-08,Active,557.0,20321,9369282558,theodore.gokhale1024@rediffmail.com
+572,16,Harini,Mitali,Kakar,GOV639567886,Cashier,2026-03-15,Active,559.0,14922,9128279763,harini.kakar901@yahoo.com
+573,16,Agastya,,Mann,GOV566703499,Cashier,2018-02-25,Active,557.0,19136,9942640426,agastya.mann3894@gmail.com
+574,16,Zehaan,,Bal,GOV067950105,Cleaner,2025-02-17,Active,559.0,15785,9377757748,zehaan.bal6598@rediffmail.com
+575,16,Fiyaz,,Setty,GOV295556665,Kitchen Staff,2020-10-25,Active,559.0,17435,9522730764,fiyaz.setty7655@outlook.com
+576,16,Aradhana,,Devi,GOV583134428,Delivery Coordinator,2022-04-02,Active,558.0,14961,9676676259,aradhana.devi9294@yahoo.com
+577,16,Warjas,,Ratta,GOV228303993,Kitchen Staff,2024-12-24,Active,559.0,19388,9938679287,warjas.ratta6756@gmail.com
+578,16,Geetika,,Grewal,GOV061446186,Kitchen Staff,2023-09-10,Active,557.0,14402,9374773440,geetika.grewal1531@yahoo.com
+579,16,Rachana,Anirudh,Thakur,GOV544452293,Kitchen Staff,2019-01-04,Active,557.0,15038,9173514716,rachana.thakur7572@yahoo.com
+580,16,Guneet,,Chaudry,GOV246404577,Kitchen Staff,2018-10-25,On Leave,558.0,14478,9711086432,guneet.chaudry8331@gmail.com
+581,16,Michael,,Mohanty,GOV019123779,Delivery Coordinator,2022-07-15,Active,557.0,14404,9294818210,michael.mohanty6425@outlook.com
+582,16,Madhavi,Nathaniel,Das,GOV748210800,Kitchen Staff,2020-06-01,Resigned,560.0,21538,9736756593,madhavi.das590@outlook.com
+583,16,Balveer,,Sura,GOV857193090,Kitchen Staff,2016-01-10,Active,557.0,21691,9129440969,balveer.sura1630@outlook.com
+584,16,Neel,,Anand,GOV062173522,Kitchen Staff,2026-05-05,Active,561.0,14034,9555833737,neel.anand8183@outlook.com
+585,16,Upadhriti,Radhika,Aurora,GOV966345508,Cashier,2026-05-02,Active,561.0,13430,9543527256,upadhriti.aurora7274@yahoo.com
+586,16,Yatin,,Parmar,GOV425927275,Delivery Coordinator,2017-09-22,Terminated,559.0,20126,9111934221,yatin.parmar3168@rediffmail.com
+587,16,Eesha,Upasna,Brahmbhatt,GOV872768299,Kitchen Staff,2017-04-09,Active,559.0,18207,9857508903,eesha.brahmbhatt6656@yahoo.com
+588,17,Harita,Jacob,Kala,GOV485129347,Branch Manager,2020-01-04,Active,,71634,9155669876,harita.kala8298@yahoo.com
+589,17,Ria,Inaya,Bhakta,GOV930358863,Assistant Manager,2018-04-20,Active,588.0,46407,9035391082,ria.bhakta3101@yahoo.com
+590,17,Samar,,Khare,GOV641540963,Shift Manager,2024-06-26,Active,589.0,34628,9938109762,samar.khare8823@gmail.com
+591,17,Urvi,,Agarwal,GOV156096571,Shift Manager,2025-01-14,Terminated,589.0,31820,9245079114,urvi.agarwal8917@outlook.com
+592,17,Lopa,Warinder,Behl,GOV507212306,Shift Manager,2021-03-31,Resigned,589.0,25192,9906303413,lopa.behl4106@yahoo.com
+593,17,Unni,,Srinivas,GOV840368576,Shift Manager,2021-11-17,Active,589.0,32822,9707516117,unni.srinivas2869@outlook.com
+594,17,Triveni,Rushil,Gole,GOV410089202,Kitchen Staff,2022-04-04,Active,592.0,19523,9235257737,triveni.gole6454@rediffmail.com
+595,17,Unni,,Chadha,GOV587733236,Delivery Coordinator,2024-05-17,Resigned,589.0,20925,9412000856,unni.chadha7710@rediffmail.com
+596,17,Lakshit,,Banik,GOV760834482,Cleaner,2017-12-14,Active,592.0,11427,9717654175,lakshit.banik3172@gmail.com
+597,17,Ekiya,Utkarsh,Karpe,GOV046453192,Cashier,2020-02-01,Active,590.0,13672,9789294558,ekiya.karpe4738@outlook.com
+598,17,Aryan,Quincy,Amble,GOV802021407,Kitchen Staff,2019-05-25,Resigned,590.0,20158,9166022268,aryan.amble7187@rediffmail.com
+599,17,Gayathri,Ojasvi,Raja,GOV828615356,Kitchen Staff,2025-10-15,Active,593.0,15572,9881069376,gayathri.raja3348@outlook.com
+600,17,Anita,Ekalinga,Saxena,GOV926388509,Cleaner,2020-04-11,Active,590.0,14407,9831877538,anita.saxena7004@outlook.com
+601,17,Rayaan,Harish,Keer,GOV172601868,Cashier,2017-03-10,Active,593.0,19332,9190017395,rayaan.keer8279@outlook.com
+602,17,Ishanvi,Oeshi,Chand,GOV649609076,Delivery Coordinator,2026-02-13,Active,592.0,15105,9033666109,ishanvi.chand8242@outlook.com
+603,17,Yahvi,,Karan,GOV436194550,Cleaner,2026-05-19,Active,589.0,11998,9056956473,yahvi.karan138@yahoo.com
+604,17,Bina,Nakul,Zacharia,GOV278321431,Kitchen Staff,2021-02-14,Active,591.0,20869,9854764064,bina.zacharia4545@rediffmail.com
+605,17,Lohit,,Sachar,GOV342716474,Kitchen Staff,2023-05-10,Active,590.0,14729,9559940869,lohit.sachar728@gmail.com
+606,17,Rudra,Chasmum,Chadha,GOV790262796,Kitchen Staff,2022-04-05,Active,591.0,21916,9079432209,rudra.chadha5682@outlook.com
+607,17,Simon,,Badami,GOV942204524,Cashier,2026-02-01,Terminated,590.0,14923,9592603068,simon.badami2310@outlook.com
+608,17,Ayushman,,Jhaveri,GOV424836719,Delivery Coordinator,2021-04-17,Active,590.0,19847,9795818315,ayushman.jhaveri8472@yahoo.com
+609,17,Jacob,Ishani,Koshy,GOV058230578,Kitchen Staff,2017-04-17,Active,593.0,17997,9727317996,jacob.koshy8716@rediffmail.com
+610,17,Lakshmi,,Oommen,GOV399845180,Kitchen Staff,2019-05-02,Active,592.0,15795,9953965995,lakshmi.oommen5512@rediffmail.com
+611,17,Ladli,Gaurang,Sankaran,GOV665997817,Delivery Coordinator,2024-06-09,Active,589.0,17996,9870763679,ladli.sankaran142@gmail.com
+612,17,Sarthak,,Rattan,GOV440072473,Kitchen Staff,2021-03-17,Active,593.0,16687,9288391377,sarthak.rattan7509@outlook.com
+613,17,Omya,Fiyaz,Hayre,GOV049384741,Cleaner,2021-08-04,Active,592.0,13567,9231969990,omya.hayre1936@gmail.com
+614,17,Charvi,Qarin,Nair,GOV358655679,Cleaner,2018-11-14,Active,593.0,13866,9264914942,charvi.nair8832@outlook.com
+615,17,Yutika,Liam,Deshmukh,GOV338595479,Cleaner,2019-08-13,Active,589.0,13253,9354917391,yutika.deshmukh1690@rediffmail.com
+616,17,Ekta,Yasti,Kalita,GOV266554305,Cleaner,2021-04-02,Active,592.0,15430,9183369776,ekta.kalita481@outlook.com
+617,17,Ekani,Sanya,Grover,GOV452313608,Cashier,2026-02-17,Active,593.0,15125,9088300176,ekani.grover4754@yahoo.com
+618,17,Siddharth,Niharika,Kumer,GOV145621551,Kitchen Staff,2026-02-20,Active,590.0,15222,9629642500,siddharth.kumer3250@outlook.com
+619,17,Isha,,Sarma,GOV109323214,Cashier,2023-10-04,Active,589.0,14282,9129269322,isha.sarma9218@rediffmail.com
+620,17,Divya,,Khatri,GOV156257458,Kitchen Staff,2019-10-06,Active,590.0,16532,9624479593,divya.khatri2028@outlook.com
+621,17,Hiral,,Goda,GOV807434214,Cleaner,2018-01-11,Resigned,591.0,12584,9590051515,hiral.goda6336@yahoo.com
+622,17,Watika,,Acharya,GOV016155368,Delivery Coordinator,2022-08-05,Active,589.0,14848,9618718201,watika.acharya3785@outlook.com
+623,17,Chaitaly,Bhavya,Ahuja,GOV104782958,Kitchen Staff,2023-05-15,Active,589.0,15734,9232436101,chaitaly.ahuja4580@rediffmail.com
+624,17,Gaurang,,Dhawan,GOV378641016,Kitchen Staff,2019-05-04,Active,589.0,17145,9903252981,gaurang.dhawan3662@gmail.com
+625,18,Faraj,,Naik,GOV505448492,Branch Manager,2020-10-11,Active,,80442,9770935325,faraj.naik6499@gmail.com
+626,18,Banjeet,Advika,Dugal,GOV422728682,Assistant Manager,2021-03-29,Active,625.0,46344,9319761248,banjeet.dugal5614@rediffmail.com
+627,18,Triveni,,Thakur,GOV986830009,Assistant Manager,2019-06-23,Resigned,625.0,40599,9472758262,triveni.thakur7171@gmail.com
+628,18,Abhiram,,Sethi,GOV395996616,Shift Manager,2021-09-06,Active,626.0,32782,9411168521,abhiram.sethi9412@yahoo.com
+629,18,Akshay,Ronith,Chhabra,GOV270261177,SHIFT MANAGER,2022-10-20,Resigned,626.0,34636,9179815467,akshay.chhabra696@outlook.com
+630,18,Lucky,Ranveer,Tank,GOV818136324,Cashier,2016-05-10,Active,626.0,19644,9553205658,lucky.tank486@outlook.com
+631,18,Amruta,,Contractor,GOV074377208,Cashier,2020-04-19,Active,626.0,17788,9871996665,amruta.contractor440@yahoo.com
+632,18,Harsh,,Babu,GOV195919582,Cashier,2021-11-21,Active,627.0,17468,9437312206,harsh.babu9624@yahoo.com
+633,18,Jeremiah,Mekhala,Rai,GOV395841553,Kitchen Staff,2026-04-18,Active,626.0,20766,9927933074,jeremiah.rai3830@rediffmail.com
+634,18,Sai,Oliver,Sachdev,GOV921223147,Kitchen Staff,2021-01-23,Active,629.0,18980,9019385412,sai.sachdev9579@gmail.com
+635,18,Ucchal,Rachit,Dua,GOV948509999,Cashier,2017-04-05,Active,628.0,18118,9439806339,ucchal.dua6164@rediffmail.com
+636,18,Nidra,Bhavani,Lal,GOV255788112,Kitchen Staff,2021-04-30,On Leave,627.0,18154,9469293747,nidra.lal4337@yahoo.com
+637,18,Samaksh,,Ram,GOV999994714,Kitchen Staff,2024-04-10,Resigned,628.0,18052,9053470135,samaksh.ram7302@gmail.com
+638,18,Omya,Rachita,Upadhyay,GOV472021384,Delivery Coordinator,2024-03-08,Terminated,628.0,15754,9419115725,omya.upadhyay9883@yahoo.com
+639,18,Varenya,Varenya,Mohan,GOV933593231,Kitchen Staff,2022-08-19,Active,627.0,14228,9747517473,varenya.mohan2739@rediffmail.com
+640,18,Quincy,Yoshita,Raju,GOV926824992,Kitchen Staff,2026-02-19,Active,628.0,21360,9372028528,quincy.raju8782@outlook.com
+641,18,Nilima,,Hayer,GOV100216863,Kitchen Staff,2016-01-30,Active,629.0,18175,9323573862,nilima.hayer454@gmail.com
+642,18,Gaurav,Thomas,Kaul,GOV587744960,Kitchen Staff,2019-07-04,Active,628.0,14113,9542648022,gaurav.kaul811@yahoo.com
+643,18,Kevin,,Sura,GOV634261786,Delivery Coordinator,2026-06-18,Active,627.0,14741,9309006515,kevin.sura1039@rediffmail.com
+644,18,Krishna,,Chandra,GOV395911278,Kitchen Staff,2023-09-10,Active,627.0,16590,9661807519,krishna.chandra8721@rediffmail.com
+645,18,Aarav,Veda,Garg,GOV586748986,Cleaner,2023-02-04,Active,629.0,14331,9458150143,aarav.garg4127@rediffmail.com
+646,18,Jai,Chaman,Rajan,GOV284983968,Kitchen Staff,2017-03-14,Terminated,626.0,15750,9943606911,jai.rajan377@gmail.com
+647,18,Barkha,,Chandra,GOV216144360,Kitchen Staff,2025-03-09,Terminated,626.0,19953,9626916209,barkha.chandra7846@gmail.com
+648,18,Indira,Tripti,Dar,GOV109553846,Delivery Coordinator,2021-03-30,Active,628.0,14378,9965749212,indira.dar3165@yahoo.com
+649,18,Isha,,Sami,GOV476253839,Cleaner,2018-02-04,Resigned,626.0,12289,9110780895,isha.sami7095@rediffmail.com
+650,18,Ojasvi,Barkha,Barman,GOV546559896,Delivery Coordinator,2019-07-21,Active,626.0,20533,9788821891,ojasvi.barman892@yahoo.com
+651,18,Eta,Ayush,Doctor,GOV945270821,Delivery Coordinator,2022-10-11,Active,626.0,19827,9707622018,eta.doctor8718@gmail.com
+652,18,Omya,,Varma,GOV929635497,Kitchen Staff,2019-02-16,Resigned,626.0,-21937,9991346709,omya.varma6921@gmail.com
+653,18,Nakul,Dhriti,Thaker,GOV877311425,Delivery Coordinator,2023-10-19,Active,628.0,17670,9560199968,nakul.thaker5222@yahoo.com
+654,18,Netra,Frado,Bora,GOV511447962,Delivery Coordinator,2021-03-21,Resigned,626.0,20766,9881286906,netra.bora2099@yahoo.com
+655,18,Advay,Ekaraj,Rai,GOV123187659,Kitchen Staff,2022-07-04,Active,629.0,14415,9508325262,advay.rai2140@gmail.com
+656,18,Jyoti,,Gara,GOV265845049,Kitchen Staff,2026-07-23,Resigned,627.0,14206,9057547083,jyoti.gara8932@outlook.com
+657,18,Ranveer,,Dugar,GOV111990012,Cleaner,2021-09-27,On Leave,628.0,15605,9423783113,ranveer.dugar9587@rediffmail.com
+658,18,Siya,Chakradhar,Wable,GOV295854303,Cashier,2026-03-11,Active,627.0,19800,9877230833,siya.wable980@outlook.com
+659,18,Yamini,,Nayak,GOV338419691,Kitchen Staff,2016-09-25,Active,627.0,18282,9082626001,yamini.nayak7157@rediffmail.com
+660,18,Pallavi,Christopher,Aurora,GOV011908915,Cashier,2019-04-03,Active,626.0,17001,9408459968,pallavi.aurora6199@gmail.com
+661,18,Tristan,Ekavir,Mangal,GOV063926106,Kitchen Staff,2024-03-18,Active,629.0,17798,9351287813,tristan.mangal9423@rediffmail.com
+662,18,Farhan,Laksh,Gour,GOV867633302,Kitchen Staff,2016-11-02,Active,626.0,21111,9344687260,farhan.gour7541@rediffmail.com
+663,18,Upasna,Liam,Kala,GOV340911300,Cashier,2016-06-01,Resigned,628.0,13925,9549488887,upasna.kala2748@rediffmail.com
+664,18,Vivaan,,Wable,GOV548778559,Delivery Coordinator,2022-03-03,Active,628.0,18879,9704045969,vivaan.wable7543@rediffmail.com
+665,18,Ganga,,Chatterjee,GOV774866541,Cleaner,2018-05-15,On Leave,629.0,13032,9478658477,ganga.chatterjee4756@gmail.com
+666,18,Mitesh,Michael,Banik,GOV945031161,Kitchen Staff,2023-11-27,Active,626.0,15897,9834524183,mitesh.banik1670@outlook.com
+667,18,Manan,Samarth,Hegde,GOV033702583,Cleaner,2016-10-11,Active,627.0,15773,9856099639,manan.hegde9397@rediffmail.com
+668,18,Xavier,,Prabhu,GOV997313430,Delivery Coordinator,2025-06-01,Active,629.0,14106,9675708159,xavier.prabhu6150@gmail.com
+669,18,Mason,,Kapadia,GOV133112348,Cashier,2019-10-25,Active,627.0,17999,9748808664,mason.kapadia3872@outlook.com
+670,19,Jagrati,Jagdish,Bir,GOV206355518,Branch Manager,2017-10-17,Active,,77924,9019778411,jagrati.bir335@outlook.com
+671,19,Wridesh,,Tank,GOV595398063,Assistant Manager,2023-12-27,Active,670.0,38113,9402758814,wridesh.tank9892@rediffmail.com
+672,19,Yagnesh,Nakul,Shankar,GOV053340559,Shift Manager,2026-03-27,Active,671.0,32066,9541606354,yagnesh.shankar6613@gmail.com
+673,19,Reva,Raksha,Sidhu,GOV240007737,Shift Manager,2022-08-20,Active,671.0,35601,9776259616,reva.sidhu8083@gmail.com
+674,19,Naksh,,Korpal,GOV013267873,Cashier,2022-08-29,Active,673.0,13597,9399827213,naksh.korpal5149@outlook.com
+675,19,Abhimanyu,,Memon,GOV704581689,Cashier,2019-02-07,Resigned,673.0,17562,9797931915,abhimanyu.memon3523@outlook.com
+676,19,Kalpit,Falguni,Rajagopal,GOV867136190,Cleaner,2022-12-10,Resigned,672.0,11414,9344750365,kalpit.rajagopal1195@yahoo.com
+677,19,Hemang,,Modi,GOV258900381,Kitchen Staff,2020-05-08,Active,671.0,21639,9629389921,hemang.modi8924@outlook.com
+678,19,Abha,,Upadhyay,GOV432755393,Kitchen Staff,2022-05-30,Active,672.0,21304,9406081919,abha.upadhyay1384@rediffmail.com
+679,19,Hamsini,,Sharaf,GOV780415851,Kitchen Staff,2020-08-09,Active,671.0,20466,9579455802,hamsini.sharaf7412@yahoo.com
+680,19,Rudra,Mohammed,Bajwa,GOV151529436,Kitchen Staff,2022-11-08,On Leave,671.0,21923,9767508175,rudra.bajwa5512@rediffmail.com
+681,19,Arin,Dhruv,Raja,GOV591616524,Cleaner,2024-12-23,Active,671.0,14932,9164854904,arin.raja9776@rediffmail.com
+682,19,Dayamai,Jatin,Misra,GOV339795158,Delivery Coordinator,2025-08-18,Active,673.0,14913,9626931115,dayamai.misra3619@yahoo.com
+683,19,Yashasvi,,Sarna,GOV546952292,Kitchen Staff,2018-05-27,Active,673.0,16592,9744973867,yashasvi.sarna2577@yahoo.com
+684,19,Chandresh,Yoshita,Ghose,GOV241563307,Cleaner,2026-01-15,Active,673.0,13460,9948633911,chandresh.ghose3450@gmail.com
+685,19,Fariq,,Bhatnagar,GOV248393672,Kitchen Staff,2019-07-19,Active,671.0,20114,9325285771,fariq.bhatnagar60@yahoo.com
+686,19,Advaith,,Agrawal,GOV061279858,Cashier,2024-10-21,Active,673.0,15648,9624558997,advaith.agrawal4959@rediffmail.com
+687,19,Anita,Jagdish,Khanna,GOV129621582,Kitchen Staff,2019-09-19,Active,672.0,19898,9250959332,anita.khanna4782@outlook.com
+688,19,Bimala,,Chad,GOV632207096,DELIVERY COORDINATOR,2025-11-08,Active,673.0,20414,9209502990,bimala.chad5319@gmail.com
+689,19,Jack,,Borra,GOV499844714,Cleaner,2023-06-14,Active,672.0,11449,9414485939,jack.borra1898@outlook.com
+690,19,Nirja,Ansh,Krish,GOV209382345,Cashier,2019-04-26,Active,671.0,16993,9813120830,nirja.krish7463@yahoo.com
+691,19,Geetika,Ati,Agarwal,GOV290377348,Cashier,2023-09-25,Resigned,673.0,18608,9448167259,geetika.agarwal3426@gmail.com
+692,19,Harinakshi,Barkha,Bera,GOV178758250,Cashier,2020-10-20,Active,671.0,15628,9536337751,harinakshi.bera6287@gmail.com
+693,19,William,Gunbir,Garde,GOV803017037,Delivery Coordinator,2023-07-03,On Leave,673.0,16538,9367124095,william.garde1121@yahoo.com
+694,19,Ojas,,Ahuja,GOV692976668,Kitchen Staff,2018-06-01,Active,673.0,-21895,9159323315,ojas.ahuja8954@gmail.com
+695,19,Zinal,Isaac,Mand,GOV208245325,Delivery Coordinator,2020-06-26,Active,673.0,17498,9034281729,zinal.mand6562@yahoo.com
+696,19,Nimrat,,Chadha,GOV015096126,Cashier,2022-06-05,Active,672.0,13752,9487557223,nimrat.chadha8631@rediffmail.com
+697,19,Tanay,Anjali,Rege,GOV597572522,Cashier,2019-01-16,Active,673.0,13431,9627222615,tanay.rege5286@outlook.com
+698,19,Dalbir,Ganga,Venkatesh,GOV839629698,Cashier,2024-12-13,Active,671.0,14622,9428663837,dalbir.venkatesh8268@rediffmail.com
+699,19,Ishwar,,Sangha,GOV203789710,Cleaner,2019-12-16,Active,673.0,14942,9279682202,ishwar.sangha4156@rediffmail.com
+700,19,Kevin,Hemang,Khosla,GOV278097225,Kitchen Staff,2024-08-09,Active,672.0,19265,9405422692,kevin.khosla1885@outlook.com
+701,19,Rohan,,Suri,GOV560228747,Cashier,2016-03-27,Active,671.0,13058,9636492047,rohan.suri5797@yahoo.com
+702,19,Ekaja,,Subramanian,GOV318055503,Kitchen Staff,2021-01-02,Active,671.0,16087,9095483736,ekaja.subramanian1217@gmail.com
+703,19,Faraj,,Barad,GOV510325301,Cleaner,2020-02-18,Resigned,671.0,13186,9783987579,faraj.barad147@rediffmail.com
+704,19,Vamakshi,,Roy,GOV767745075,Kitchen Staff,2018-09-13,Active,672.0,17173,9210053595,vamakshi.roy7769@yahoo.com
+705,19,Parth,,Sachdeva,GOV675078752,Cashier,2021-09-10,Active,673.0,17626,9070428395,parth.sachdeva4193@gmail.com
+706,19,Amrita,,Das,GOV933971195,Cashier,2021-07-20,Active,671.0,19004,9616141009,amrita.das8312@rediffmail.com
+707,19,Kabir,,Parsa,GOV073528659,Kitchen Staff,2025-01-31,Active,672.0,21698,9440002471,kabir.parsa4478@gmail.com
+708,19,Shivansh,,Vyas,GOV603652138,Cleaner,2021-12-14,Active,673.0,14247,9583069461,shivansh.vyas7284@yahoo.com
+709,19,Fiyaz,Divya,Sankar,GOV344308695,Kitchen Staff,2019-12-26,Active,672.0,17889,9683077565,fiyaz.sankar9092@yahoo.com
+710,19,Waida,,Varughese,GOV003986015,Delivery Coordinator,2017-03-31,Active,671.0,19251,9381595209,waida.varughese3108@outlook.com
+711,19,Jagat,Arunima,Sabharwal,GOV764196786,Cashier,2020-10-23,Active,671.0,18698,9348537387,michael.pant9659@gmail.com
+712,19,Radha,Anvi,Roy,GOV662528278,Kitchen Staff,2024-07-06,Active,671.0,21635,9019748873,radha.roy7090@outlook.com
+713,20,Varenya,,Cherian,GOV311156836,Branch Manager,2019-03-27,Active,,72428,9428125914,varenya.cherian9168@rediffmail.com
+714,20,Onkar,,Bhargava,GOV659392487,Assistant Manager,2017-09-16,Active,713.0,51328,9914112826,onkar.bhargava281@gmail.com
+715,20,Daniel,,Gokhale,GOV904828744,Shift Manager,2026-04-10,Active,714.0,26868,9499156908,daniel.gokhale2200@yahoo.com
+716,20,Harrison,Harita,Nigam,GOV171780775,Shift Manager,2024-11-13,Resigned,714.0,34265,9172865744,harrison.nigam9594@yahoo.com
+717,20,Jai,,Chaudhari,GOV948799763,Shift Manager,2025-05-16,Active,714.0,26430,9886677453,jai.chaudhari8336@rediffmail.com
+718,20,Jhalak,,Vora,GOV296765985,Shift Manager,2017-05-19,Active,714.0,36185,9471676145,  jhalak.vora7492@gmail.com
+719,20,Jai,Bhavika,Bera,GOV032485790,Cleaner,2017-08-05,Active,717.0,15229,9278199904,jai.bera1189@rediffmail.com
+720,20,Leena,,Bath,GOV594004787,Kitchen Staff,2018-03-29,Resigned,717.0,21898,9250146751,leena.bath5037@gmail.com
+721,20,Rayaan,,Prabhakar,GOV817232606,Cashier,2020-04-02,Active,717.0,16804,9352000062,rayaan.prabhakar622@rediffmail.com
+722,20,Geetika,,Ranganathan,GOV582255107,Kitchen Staff,2024-08-31,Active,716.0,20389,9995999728,geetika.ranganathan9165@outlook.com
+723,20,Nicholas,,Uppal,GOV847985951,Kitchen Staff,2026-01-27,Active,714.0,18900,9239437768,nicholas.uppal2009@outlook.com
+724,20,Alexander,Chanakya,Chatterjee,GOV107989389,Kitchen Staff,2020-08-08,On Leave,714.0,15185,9211309196,alexander.chatterjee2614@outlook.com
+725,20,Ishaan,,Dey,GOV669946072,Delivery Coordinator,2020-02-14,Active,717.0,17315,9140421403,ishaan.dey5412@outlook.com
+726,20,Gayathri,Finn,Sanghvi,GOV850584671,Delivery Coordinator,2019-11-16,Active,714.0,14287,9383167902,gayathri.sanghvi3023@gmail.com
+727,20,Mohini,Megha,Tandon,GOV194760881,Cashier,2022-07-05,Active,714.0,19651,9016462014,mohini.tandon5215@outlook.com
+728,20,Chandran,,Dhar,GOV868418053,Delivery Coordinator,2023-09-15,Active,714.0,18577,9920134026,chandran.dhar1771@yahoo.com
+729,20,Girish,Pranit,Ranganathan,GOV334352752,Cashier,2025-07-17,Active,714.0,19380,9272797330,girish.ranganathan7989@gmail.com
+730,20,Ubika,,Wadhwa,GOV922060570,Kitchen Staff,2025-06-09,Resigned,718.0,15330,9146050854,ubika.wadhwa1266@outlook.com
+731,20,Anvi,Tripti,Sidhu,GOV241811048,Kitchen Staff,2024-09-20,Active,715.0,14720,9053826649,anvi.sidhu3496@gmail.com
+732,20,Gaurav,Rushil,Bose,GOV433314293,Cashier,2026-06-22,Active,715.0,19604,9902947374,gaurav.bose3419@outlook.com
+733,20,Victor,,Mohanty,GOV694733105,Delivery Coordinator,2024-06-25,Active,717.0,17054,9122920687,victor.mohanty4222@yahoo.com
+734,20,Sachi,Gaurang,Bath,GOV283845567,Cleaner,2021-12-02,Active,716.0,14338,9257884012,sachi.bath4308@outlook.com
+735,20,Advik,,Kumer,GOV929556217,Cleaner,2024-01-26,Active,718.0,12814,9849530766,advik.kumer6995@rediffmail.com
+736,20,Viraj,,Agarwal,GOV795814360,Kitchen Staff,2025-06-09,Active,714.0,18285,9255396280,viraj.agarwal4314@yahoo.com
+737,20,Azaan,Nitesh,Goyal,GOV858631312,Cashier,2024-10-18,Active,718.0,16841,9269078949,azaan.goyal484@gmail.com
+738,20,Girindra,,Kale,GOV744513074,KITCHEN STAFF,2017-12-07,Active,714.0,20522,9298720364,girindra.kale3905@outlook.com
+739,20,Farhan,,Misra,GOV667261978,Delivery Coordinator,2024-09-11,Active,715.0,19842,9532845735,farhan.misra2062@outlook.com
+740,20,Orinder,,Mukhopadhyay,GOV745817263,Kitchen Staff,2017-07-27,Resigned,714.0,17931,9683195959,orinder.mukhopadhyay4431@yahoo.com
+741,20,Charvi,,Kaur,GOV074401843,CASHIER,2016-05-09,Active,717.0,17950,9393627495,charvi.kaur9738@rediffmail.com
+742,20,Anusha,,Merchant,GOV618558963,Cashier,2021-04-04,Resigned,718.0,17831,9626949376,anusha.merchant7775@rediffmail.com
+743,20,Lakshmi,Chaman,Shetty,GOV283134884,Cleaner,2025-01-21,Active,718.0,12011,9365292254,lakshmi.shetty3212@rediffmail.com
+744,20,Manan,,Narang,GOV754285031,Kitchen Staff,2025-07-28,Active,717.0,18939,9029264860,manan.narang2994@gmail.com
+745,20,Nitara,,Kant,GOV251836966,Kitchen Staff,2021-02-09,Active,716.0,15557,9505449855,nitara.kant5412@rediffmail.com
+746,20,Amol,Siya,Bail,GOV027911240,Kitchen Staff,2017-07-22,Active,718.0,14575,9994425501,amol.bail5439@yahoo.com
+747,20,Oni,,Vora,GOV891262005,Cashier,2026-05-12,Active,718.0,16849,9737297650,oni.vora6590@rediffmail.com
+748,20,Upkaar,Jagvi,Koshy,GOV067286948,Cashier,2020-09-15,Resigned,718.0,15683,9367152438,upkaar.koshy9947@rediffmail.com
+749,20,Abhimanyu,,Bhat,GOV489835905,Cashier,2020-05-24,On Leave,715.0,17301,9596009020,abhimanyu.bhat9259@rediffmail.com

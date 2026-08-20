@@ -1,0 +1,2934 @@
+RefundID,OrderID,RefundDate,RefundAmount,RefundReason,RefundStatus
+1,9,2025-03-25,166.34,Poor Food Quality,Rejected
+2,11,2025-10-27,131.82,Delivery Delay,Processed
+3,47,2026-05-08,490.91,Payment Issue,Approved
+4,48,2026-07-11,494.68,Payment Issue,Requested
+5,67,2026-03-10,183.72,Incorrect Order,Processed
+6,75,2025-03-13,156.91,Payment Issue,Requested
+7,82,2024-06-26,791.34,Poor Food Quality,Rejected
+8,111,2025-03-10,755.7,Delivery Delay,Approved
+9,113,2024-06-22,770.03,Delivery Delay,Processed
+10,155,2026-03-10,177.27,Payment Issue,Approved
+11,163,2025-08-20,238.54,Missing Item,Processed
+12,169,2024-12-25,63.69,Incorrect Order,Processed
+13,180,2024-02-28,554.0,Missing Item,Rejected
+14,227,2025-11-05,326.92,Payment Issue,Rejected
+15,235,2025-12-27,216.1,Poor Food Quality,Approved
+16,239,2025-09-10,1267.63,Missing Item,Processed
+17,257,2025-12-11,179.38,Missing Item,Processed
+18,266,2025-02-18,96.73,Delivery Delay,Processed
+19,269,2026-02-28,335.17,Delivery Delay,Approved
+20,271,2025-08-01,400.88,Incorrect Order,Requested
+21,287,2026-02-26,175.87,Delivery Delay,Requested
+22,291,2026-06-27,528.6,Poor Food Quality,Processed
+23,293,2025-08-20,311.3,Payment Issue,Rejected
+24,294,2026-07-28,837.79,Poor Food Quality,processed
+25,299,2025-12-19,648.08,Missing Item,Rejected
+26,306,2024-09-10,565.28,Incorrect Order,Rejected
+27,316,2026-06-08,322.2,Payment Issue,Rejected
+28,332,2026-07-18,451.93,Missing Item,Processed
+29,347,2026-06-11,81.67,Poor Food Quality,Requested
+30,368,2025-01-18,533.74,Incorrect Order,Rejected
+31,379,2026-02-28,632.85,Missing Item,Approved
+32,420,2025-11-11,590.92,Poor Food Quality,Approved
+33,446,2025-12-02,827.58,Missing Item,Approved
+34,460,2024-08-10,237.45,Poor Food Quality,Processed
+35,472,2024-03-24,97.66,Delivery Delay,Processed
+36,479,2025-11-09,333.02,Poor Food Quality,Requested
+37,495,2025-02-02,117.91,Incorrect Order,Processed
+38,502,2024-11-12,1031.92,Missing Item,Processed
+39,506,2024-02-06,404.37,Payment Issue,Requested
+40,526,2024-02-27,501.66,Delivery Delay,Requested
+41,594,2024-01-13,840.78,Incorrect Order,Rejected
+42,611,2025-12-17,479.75,Delivery Delay,Approved
+43,631,2025-06-28,502.54,Delivery Delay,Approved
+44,654,2024-12-24,46.74,Incorrect Order,Rejected
+45,658,2024-09-26,244.64,Incorrect Order,Processed
+46,661,2025-11-12,405.66,Missing Item,Requested
+47,680,2025-03-10,614.55,Incorrect Order,Requested
+48,706,2025-06-18,164.17,Missing Item,Rejected
+49,738,2024-01-17,325.71,Incorrect Order,Processed
+50,740,2026-03-17,87.03,Payment Issue,Approved
+51,769,2025-04-06,155.98,Poor Food Quality,Requested
+52,773,2024-04-16,110.65,Payment Issue,Approved
+53,776,2025-06-24,342.69,Incorrect Order,Requested
+54,777,2026-02-01,308.97,Poor Food Quality,Approved
+55,779,2025-10-09,17.77,Missing Item,Requested
+56,785,2024-01-07,198.71,Missing Item,Requested
+57,802,2026-01-29,411.45,Incorrect Order,Processed
+58,812,2025-09-09,1184.73,Incorrect Order,Requested
+59,813,2025-04-07,1106.28,Poor Food Quality,Rejected
+60,833,2025-08-02,142.66,Payment Issue,Processed
+61,840,2026-07-22,150.16,Poor Food Quality,Requested
+62,845,2025-11-10,163.41,Payment Issue,Rejected
+63,854,2024-05-30,171.24,Incorrect Order,Processed
+64,860,2024-02-01,1159.85,Missing Item,Processed
+65,894,2025-04-03,915.91,Missing Item,Processed
+66,902,2025-03-09,412.47,Delivery Delay,Approved
+67,908,2026-01-06,184.08,Missing Item,Processed
+68,916,2025-11-23,1216.15,Incorrect Order,Requested
+69,917,2025-04-06,839.4,Delivery Delay,Approved
+70,926,2026-02-27,589.09,Payment Issue,Approved
+71,942,2025-11-01,113.84,Missing Item,Approved
+72,967,2024-10-09,1202.66,Payment Issue,Rejected
+73,976,2026-08-22,764.66,Incorrect Order,Processed
+74,982,2024-03-17,233.27,Delivery Delay,Rejected
+75,991,2025-08-26,652.18,Missing Item,Requested
+76,1011,2025-10-04,98.14,Poor Food Quality,Requested
+77,1033,2025-11-05,107.13,Poor Food Quality,Approved
+78,1035,2025-05-27,711.41,Poor Food Quality,Approved
+79,1040,2026-03-08,1527.21,Poor Food Quality,Rejected
+80,1049,2025-06-29,1868.61,Delivery Delay,Processed
+81,1052,2024-04-25,307.95,Payment Issue,Processed
+82,1086,2024-07-30,224.68,Missing Item,Processed
+83,1097,2025-11-29,57.99,Incorrect Order,Requested
+84,1101,2024-07-06,580.83,Poor Food Quality,Approved
+85,1120,2026-02-23,465.59,Incorrect Order,Approved
+86,1121,2024-02-23,331.6,Poor Food Quality,Rejected
+87,1132,2025-10-01,338.7,Poor Food Quality,Approved
+88,1150,2025-06-27,620.15,Missing Item,Approved
+89,1158,2025-06-12,667.24,Poor Food Quality,Approved
+90,1164,2025-01-26,338.92,Poor Food Quality,Processed
+91,1194,2025-01-13,1095.76,Payment Issue,Requested
+92,1210,2026-08-03,1068.76,Payment Issue,Approved
+93,1219,2025-09-13,221.91,Poor Food Quality,Requested
+94,1228,2024-04-16,300.15,Missing Item,Requested
+95,1238,2024-12-06,99.26,Payment Issue,Requested
+96,1240,2024-04-25,945.57,Incorrect Order,Approved
+97,1251,2026-01-15,266.3,Delivery Delay,Rejected
+98,1271,2024-10-01,771.73,Incorrect Order,Requested
+99,1288,2024-04-27,704.89,Delivery Delay,Requested
+100,1289,2026-07-28,566.83,Delivery Delay,Approved
+101,1293,2026-08-12,320.68,Missing Item,Requested
+102,1302,2025-01-05,361.8,Delivery Delay,Approved
+103,1303,2024-11-28,1032.17,Missing Item,Requested
+104,1339,2025-03-09,1128.09,Missing Item,Approved
+105,1359,2026-03-17,513.7,Poor Food Quality,Requested
+106,1369,2024-08-18,54.89,Incorrect Order,Processed
+107,1370,2024-03-14,321.53,Delivery Delay,Processed
+108,1394,2024-01-29,115.54,Delivery Delay,Processed
+109,1406,2024-09-11,301.14,Poor Food Quality,Processed
+110,1440,2026-07-05,138.5,Incorrect Order,Requested
+111,1442,2024-02-02,122.33,Incorrect Order,Requested
+112,1456,2026-03-06,549.32,Delivery Delay,Processed
+113,1458,2026-01-26,592.05,Payment Issue,Processed
+114,1460,2026-04-02,770.93,Poor Food Quality,Requested
+115,1490,2025-03-26,573.99,Delivery Delay,Processed
+116,1516,2024-04-22,88.51,Missing Item,Processed
+117,1517,2024-04-24,537.58,Incorrect Order,PROCESSED
+118,1556,2026-07-03,693.17,Delivery Delay,Requested
+119,1566,2026-02-18,783.26,Poor Food Quality,Processed
+120,1569,2024-06-24,308.3,Payment Issue,Processed
+121,1599,2024-10-03,988.81,Incorrect Order,Processed
+122,1603,2026-05-17,86.2,Delivery Delay,Processed
+123,1604,2024-12-30,442.63,Incorrect Order,Approved
+124,1614,2024-09-17,499.37,Payment Issue,Approved
+125,1626,2024-04-21,805.61,Poor Food Quality,Processed
+126,1635,2024-04-29,366.78,Poor Food Quality,Requested
+127,1637,2025-06-19,1126.28,Delivery Delay,Approved
+128,1639,2025-03-09,507.92,Delivery Delay,Approved
+129,1641,2025-02-16,53.26,Poor Food Quality,Rejected
+130,1645,2026-05-05,2443.45,Payment Issue,Approved
+131,1658,2026-07-23,348.35,Incorrect Order,approved
+132,1681,2026-05-10,360.08,Incorrect Order,Approved
+133,1714,2025-10-05,27.1,Delivery Delay,Approved
+134,1718,2025-07-14,128.55,Poor Food Quality,Processed
+135,1721,2024-10-21,215.62,Payment Issue,Requested
+136,1724,2026-01-07,140.58,Poor Food Quality,Approved
+137,1730,2025-05-13,293.72,Delivery Delay,Approved
+138,1731,2024-10-22,626.46,Incorrect Order,Requested
+139,1743,2024-10-10,387.77,Missing Item,Approved
+140,1775,2025-02-28,136.81,Incorrect Order,Requested
+141,1795,2024-10-12,117.08,Poor Food Quality,Approved
+142,1798,2026-06-13,317.81,Delivery Delay,Processed
+143,1807,2025-12-06,1186.52,Poor Food Quality,Approved
+144,1810,2025-09-24,529.8,Missing Item,Processed
+145,1814,2024-01-01,19.38,Poor Food Quality,Requested
+146,1820,2026-05-22,803.3,Payment Issue,Processed
+147,1841,2025-05-03,558.6,Poor Food Quality,Processed
+148,1854,2024-12-06,332.08,Payment Issue,Rejected
+149,1867,2025-04-29,448.69,Delivery Delay,Approved
+150,1873,2024-02-28,991.22,Missing Item,Approved
+151,1875,2025-11-09,75.64,Payment Issue,Approved
+152,1882,2024-05-09,162.82,Poor Food Quality,Approved
+153,1886,2023-12-28,1517.96,Missing Item,Approved
+154,1911,2024-03-28,953.42,Delivery Delay,processed
+155,1926,2025-04-14,176.51,Payment Issue,Processed
+156,1952,2025-05-27,793.52,Poor Food Quality,Approved
+157,1967,2025-03-31,464.83,Missing Item,Rejected
+158,1983,2025-06-15,1458.76,Delivery Delay,Approved
+159,1993,2024-01-21,350.77,Missing Item,Approved
+160,2028,2025-01-15,513.56,Poor Food Quality,Processed
+161,2105,2025-02-02,1276.08,Missing Item,Approved
+162,2124,2025-11-30,258.51,Payment Issue,Processed
+163,2127,2026-02-12,233.04,Missing Item,Rejected
+164,2144,2024-07-04,823.46,Delivery Delay,Approved
+165,2157,2024-01-21,496.84,Poor Food Quality,Rejected
+166,2172,2026-06-16,1731.38,Delivery Delay,Rejected
+167,2179,2024-01-27,506.6,Missing Item,Processed
+168,2187,2024-07-23,323.39,Payment Issue,Rejected
+169,2204,2026-04-14,644.82,Missing Item,Requested
+170,2238,2026-06-15,664.84,Missing Item,Rejected
+171,2241,2025-10-24,329.44,Poor Food Quality,Approved
+172,2250,2026-07-19,368.16,Missing Item,Approved
+173,2292,2024-05-13,149.96,Delivery Delay,Approved
+174,2301,2025-11-04,286.01,Delivery Delay,Processed
+175,2316,2025-02-01,266.22,Delivery Delay,Approved
+176,2332,2024-09-20,319.0,Payment Issue,Approved
+177,2338,2024-06-14,1433.37,Payment Issue,Rejected
+178,2339,2024-03-27,1904.81,Payment Issue,Approved
+179,2354,2024-11-23,572.83,Poor Food Quality,Approved
+180,2356,2026-07-10,168.8,Incorrect Order,Processed
+181,2380,2024-03-12,322.17,Delivery Delay,Requested
+182,2385,2026-01-31,356.79,Delivery Delay,Approved
+183,2447,2025-07-18,411.17,Incorrect Order,Approved
+184,2456,2025-10-14,871.7,Payment Issue,Processed
+185,2460,2026-08-09,41.85,Delivery Delay,Requested
+186,2480,2024-10-11,587.05,Delivery Delay,Requested
+187,2494,2025-02-27,173.73,Missing Item,Approved
+188,2506,2024-09-24,67.29,Payment Issue,Approved
+189,2510,2024-02-25,56.46,Missing Item,Rejected
+190,2517,2026-04-30,-564.15,Poor Food Quality,Approved
+191,2581,2024-11-18,175.1,Missing Item,Processed
+192,2601,2024-09-17,174.61,Poor Food Quality,Processed
+193,2609,2025-12-07,558.02,Delivery Delay,Processed
+194,2610,2024-05-08,417.43,Incorrect Order,Approved
+195,2643,2024-11-06,98.6,Missing Item,Requested
+196,2655,2025-06-30,692.41,Incorrect Order,Processed
+197,2659,2026-05-19,86.87,Payment Issue,Rejected
+198,2698,2026-05-24,159.04,Delivery Delay,Requested
+199,2702,2024-06-25,1171.35,Delivery Delay,Requested
+200,2707,2024-01-22,641.16,Missing Item,Approved
+201,2713,2024-08-05,541.83,Missing Item,APPROVED
+202,2719,2025-12-16,391.23,Payment Issue,Requested
+203,2721,2024-12-12,540.66,Payment Issue,Processed
+204,2727,2026-07-02,482.19,Poor Food Quality,Requested
+205,2745,2024-06-19,757.33,Incorrect Order,Processed
+206,2764,2026-01-15,285.69,Payment Issue,Processed
+207,2785,2024-08-22,825.2,Incorrect Order,Rejected
+208,2791,2024-04-06,711.13,Payment Issue,Requested
+209,2797,2026-05-31,1090.96,Missing Item,Processed
+210,2804,2025-06-04,1905.2,Poor Food Quality,Approved
+211,2823,2025-03-11,84.68,Payment Issue,Rejected
+212,2827,2025-01-09,902.64,Poor Food Quality,Rejected
+213,2831,2024-04-23,150.96,Missing Item,Processed
+214,2843,2024-06-08,884.73,Payment Issue,Processed
+215,2848,2025-01-12,202.98,Missing Item,Processed
+216,2849,2024-07-29,431.74,Incorrect Order,Approved
+217,2857,2026-06-27,1574.6,Missing Item,Requested
+218,2863,2025-05-20,601.78,Poor Food Quality,Processed
+219,2874,2024-03-01,592.12,Payment Issue,Requested
+220,2889,2026-04-29,69.13,Missing Item,Requested
+221,2891,2024-10-15,343.98,Poor Food Quality,Approved
+222,2900,2025-09-18,589.23,Payment Issue,Requested
+223,2945,2025-10-28,1132.75,Incorrect Order,Approved
+224,2975,2024-12-01,600.84,Missing Item,Approved
+225,2991,2025-12-08,767.48,Missing Item,Requested
+226,2999,2025-12-07,286.79,Missing Item,Rejected
+227,3005,2026-03-18,669.8,Incorrect Order,Approved
+228,3012,2025-03-12,559.41,Delivery Delay,Processed
+229,3014,2024-09-19,936.42,Delivery Delay,Processed
+230,3063,2025-06-11,665.33,Incorrect Order,Processed
+231,3072,2026-08-06,-641.42,Delivery Delay,Approved
+232,3084,2026-05-18,675.97,Payment Issue,Processed
+233,3090,2024-06-10,262.42,Delivery Delay,Approved
+234,3096,2026-04-06,500.95,Missing Item,Approved
+235,3119,2024-07-17,661.34,Payment Issue,Requested
+236,3167,2024-02-29,217.19,Delivery Delay,Approved
+237,3169,2024-01-11,365.88,Payment Issue,Processed
+238,3197,2025-08-17,77.6,Payment Issue,Processed
+239,3203,2025-06-02,499.23,Delivery Delay,Approved
+240,3204,2025-11-08,324.69,Delivery Delay,Rejected
+241,3206,2025-11-26,1050.6,Delivery Delay,Approved
+242,3209,2024-06-05,381.06,Missing Item,Processed
+243,3226,2024-01-18,416.41,Incorrect Order,Approved
+244,3229,2024-02-17,177.39,Incorrect Order,Processed
+245,3258,2025-03-18,73.12,Delivery Delay,Processed
+246,3279,2025-03-13,966.58,Delivery Delay,Processed
+247,3282,2026-06-05,546.15,Delivery Delay,Processed
+248,3299,2024-11-28,545.59,Missing Item,Requested
+249,3321,2025-09-18,269.22,Poor Food Quality,Rejected
+250,3332,2025-09-20,407.83,Payment Issue,Approved
+251,3369,2025-08-19,379.95,Delivery Delay,Processed
+252,3370,2024-06-17,17.66,Payment Issue,Requested
+253,3384,2024-06-15,448.51,Payment Issue,Requested
+254,3416,2024-08-12,598.97,Missing Item,Approved
+255,3417,2024-04-07,1669.9,Payment Issue,Rejected
+256,3425,2024-07-03,527.8,Poor Food Quality,Approved
+257,3426,2025-04-29,537.99,Incorrect Order,Approved
+258,3437,2024-10-22,266.91,Missing Item,Approved
+259,3438,2024-02-25,850.17,Payment Issue,Processed
+260,3445,2025-12-31,90.81,Poor Food Quality,Approved
+261,3447,2024-06-19,1104.97,Delivery Delay,Processed
+262,3461,2026-01-26,277.07,Delivery Delay,Rejected
+263,3482,2024-09-16,488.2,Incorrect Order,Rejected
+264,3484,2025-10-08,179.58,Delivery Delay,Approved
+265,3497,2023-12-17,779.35,Payment Issue,Approved
+266,3508,2025-12-21,234.68,Poor Food Quality,Processed
+267,3531,2024-12-08,495.31,Payment Issue,Processed
+268,3534,2026-01-20,684.82,Missing Item,Approved
+269,3545,2024-10-08,939.8,Missing Item,Approved
+270,3552,2026-08-15,693.42,Delivery Delay,Rejected
+271,3563,2025-06-27,312.49,Payment Issue,Approved
+272,3610,2026-06-15,1165.44,Payment Issue,Approved
+273,3613,2025-04-27,388.23,Payment Issue,Requested
+274,3638,2025-06-09,1724.17,Payment Issue,Processed
+275,3664,2024-07-28,430.94,Poor Food Quality,Rejected
+276,3665,2024-03-06,146.2,Missing Item,Processed
+277,3676,2024-01-07,305.82,Missing Item,Rejected
+278,3686,2024-09-25,401.29,Payment Issue,Rejected
+279,3691,2025-06-02,634.4,Missing Item,Rejected
+280,3703,2025-03-05,624.85,Missing Item,Processed
+281,3705,2025-07-08,895.57,Missing Item,Processed
+282,3711,2025-06-19,454.92,Missing Item,Processed
+283,3717,2025-02-11,823.13,Payment Issue,Approved
+284,3729,2026-04-12,41.59,Missing Item,Rejected
+285,3730,2024-02-21,484.63,Payment Issue,Processed
+286,3744,2024-09-16,350.52,Delivery Delay,Rejected
+287,3749,2026-01-04,530.39,Poor Food Quality,APPROVED
+288,3770,2025-07-09,376.16,Missing Item,Approved
+289,3775,2026-01-10,961.92,Incorrect Order,Processed
+290,3789,2025-09-28,339.07,Incorrect Order,Approved
+291,3796,2025-02-17,721.77,Payment Issue,Approved
+292,3800,2024-08-31,1453.05,Poor Food Quality,Processed
+293,3817,2026-05-06,659.68,Incorrect Order,Processed
+294,3820,2025-07-19,452.42,Missing Item,Approved
+295,3826,2024-12-03,411.87,Poor Food Quality,Approved
+296,3831,2025-09-25,1095.48,Incorrect Order,Approved
+297,3843,2026-04-28,467.78,Incorrect Order,Requested
+298,3856,2024-04-08,162.51,Incorrect Order,Approved
+299,3878,2025-01-23,747.02,Missing Item,Requested
+300,3884,2025-08-20,539.27,Delivery Delay,Requested
+301,3889,2024-06-18,1986.62,Payment Issue,Processed
+302,3900,2024-09-01,289.02,Missing Item,Approved
+303,3903,2025-12-21,274.55,Poor Food Quality,Approved
+304,3932,2025-02-21,583.74,Incorrect Order,Requested
+305,4019,2024-02-18,590.92,Poor Food Quality,Processed
+306,4020,2024-07-04,2001.16,Missing Item,Rejected
+307,4024,2024-01-02,193.95,Payment Issue,Processed
+308,4035,2024-12-24,318.76,Payment Issue,Processed
+309,4060,2025-11-11,68.54,Payment Issue,Processed
+310,4071,2026-05-19,131.83,Delivery Delay,Processed
+311,4072,2024-04-24,555.89,Delivery Delay,Processed
+312,4075,2024-03-24,595.68,Poor Food Quality,Approved
+313,4097,2026-07-30,236.87,Missing Item,Approved
+314,4103,2025-05-14,572.78,Poor Food Quality,Approved
+315,4105,2026-07-22,1730.87,Incorrect Order,Approved
+316,4125,2026-06-06,165.75,Incorrect Order,Approved
+317,4137,2024-10-18,950.94,Poor Food Quality,Processed
+318,4184,2026-04-08,1297.94,Poor Food Quality,Requested
+319,4220,2026-07-11,486.74,Poor Food Quality,Approved
+320,4238,2024-06-07,211.88,Poor Food Quality,Rejected
+321,4239,2026-02-22,157.63,Incorrect Order,Rejected
+322,4246,2025-07-28,212.24,Incorrect Order,Requested
+323,4266,2026-01-14,950.2,Payment Issue,Requested
+324,4271,2025-11-23,-444.03,Incorrect Order,Processed
+325,4273,2026-05-22,378.69,Incorrect Order,Processed
+326,4281,2024-09-08,573.49,Payment Issue,Approved
+327,4296,2025-04-01,526.04,Poor Food Quality,Approved
+328,4327,2025-11-01,56.87,Missing Item,Processed
+329,4348,2024-09-29,957.89,Incorrect Order,Approved
+330,4351,2024-11-01,211.02,Incorrect Order,Processed
+331,4352,2025-02-23,865.78,Payment Issue,Rejected
+332,4353,2025-09-07,155.14,Missing Item,Approved
+333,4374,2025-06-27,432.1,Payment Issue,Requested
+334,4401,2025-05-07,384.75,Delivery Delay,Processed
+335,4415,2024-08-11,504.58,Delivery Delay,Processed
+336,4416,2026-02-09,433.97,Missing Item,Processed
+337,4458,2024-09-04,36.57,Payment Issue,Approved
+338,4469,2025-10-21,1011.72,Payment Issue,Approved
+339,4512,2024-08-24,2329.04,Incorrect Order,Processed
+340,4519,2026-04-10,279.15,Incorrect Order,Approved
+341,4530,2025-11-27,1020.89,Payment Issue,Processed
+342,4534,2026-07-28,148.22,Poor Food Quality,Requested
+343,4579,2025-03-16,265.29,Payment Issue,Processed
+344,4585,2025-05-11,95.87,Payment Issue,Processed
+345,4641,2024-05-31,289.44,Poor Food Quality,Approved
+346,4642,2026-02-21,688.43,Missing Item,Rejected
+347,4648,2025-10-26,831.26,Payment Issue,Processed
+348,4690,2025-08-25,671.19,Delivery Delay,Approved
+349,4704,2024-03-28,694.44,Poor Food Quality,Approved
+350,4729,2025-02-15,608.38,Incorrect Order,approved
+351,4731,2025-04-22,699.6,Poor Food Quality,Approved
+352,4745,2024-02-19,636.87,Poor Food Quality,Processed
+353,4793,2024-05-09,1750.8,Incorrect Order,Requested
+354,4819,2026-07-15,120.77,Incorrect Order,Processed
+355,4832,2024-09-28,98.68,Poor Food Quality,Approved
+356,4833,2025-06-16,255.2,Delivery Delay,Requested
+357,4838,2024-05-28,940.13,Poor Food Quality,Rejected
+358,4845,2023-12-16,73.42,Payment Issue,Approved
+359,4849,2025-09-19,83.24,Delivery Delay,Approved
+360,4852,2025-10-26,306.45,Payment Issue,Processed
+361,4861,2026-07-10,552.06,Delivery Delay,Approved
+362,4894,2025-04-16,770.4,Missing Item,Requested
+363,4934,2025-09-27,611.79,Incorrect Order,Approved
+364,4953,2025-02-05,1302.67,Poor Food Quality,Processed
+365,4957,2025-02-08,601.96,Incorrect Order,Approved
+366,4973,2026-04-29,158.48,Missing Item,Approved
+367,4979,2025-04-22,429.79,Payment Issue,Approved
+368,4990,2024-03-18,261.65,Missing Item,Requested
+369,5027,2025-02-03,822.56,Delivery Delay,Processed
+370,5037,2025-06-05,94.82,Poor Food Quality,Approved
+371,5040,2024-03-11,239.84,Delivery Delay,APPROVED
+372,5047,2024-04-10,249.82,Incorrect Order,Requested
+373,5050,2025-07-25,68.44,Missing Item,PROCESSED
+374,5061,2026-07-28,661.68,Delivery Delay,Rejected
+375,5070,2024-03-12,373.23,Poor Food Quality,Approved
+376,5083,2026-04-10,677.79,Poor Food Quality,Rejected
+377,5089,2024-09-05,527.05,Poor Food Quality,Processed
+378,5114,2026-07-27,29.57,Poor Food Quality,Rejected
+379,5151,2024-11-29,1591.97,Incorrect Order,Processed
+380,5159,2024-01-22,420.51,Poor Food Quality,Requested
+381,5176,2024-02-25,1645.11,Incorrect Order,Processed
+382,5195,2025-10-21,317.8,Missing Item,Requested
+383,5196,2026-08-07,1369.25,Missing Item,Requested
+384,5220,2026-08-11,171.81,Incorrect Order,Processed
+385,5224,2024-12-29,529.05,Delivery Delay,Approved
+386,5236,2024-10-08,207.85,Delivery Delay,Approved
+387,5244,2025-11-16,117.57,Payment Issue,Processed
+388,5247,2025-05-03,272.89,Delivery Delay,Approved
+389,5249,2026-03-28,146.91,Delivery Delay,Processed
+390,5251,2024-11-10,785.9,Incorrect Order,Approved
+391,5255,2024-09-22,184.54,Poor Food Quality,Approved
+392,5258,2026-03-16,152.97,Incorrect Order,Requested
+393,5276,2025-09-28,469.5,Delivery Delay,Processed
+394,5287,2026-03-23,930.18,Incorrect Order,Processed
+395,5292,2025-11-08,868.18,Poor Food Quality,Requested
+396,5296,2025-03-14,1015.79,Poor Food Quality,Requested
+397,5309,2024-02-15,40.1,Incorrect Order,Processed
+398,5313,2026-07-02,285.4,Payment Issue,Approved
+399,5369,2024-12-31,1480.7,Delivery Delay,Processed
+400,5376,2025-09-24,192.23,Delivery Delay,Approved
+401,5384,2026-02-06,-250.82,Incorrect Order,Processed
+402,5406,2024-10-13,634.84,Delivery Delay,Rejected
+403,5410,2024-10-29,119.81,Missing Item,Processed
+404,5411,2025-11-16,312.57,Incorrect Order,Approved
+405,5421,2024-03-23,542.54,Payment Issue,Approved
+406,5430,2024-05-24,500.94,Poor Food Quality,Approved
+407,5434,2025-07-30,959.43,Poor Food Quality,Approved
+408,5447,2025-01-05,239.76,Incorrect Order,Requested
+409,5453,2024-04-02,226.74,Incorrect Order,approved
+410,5465,2023-12-24,603.82,Poor Food Quality,Approved
+411,5467,2025-12-06,566.22,Incorrect Order,Processed
+412,5473,2025-02-06,1246.63,Poor Food Quality,Processed
+413,5491,2025-06-22,193.96,Incorrect Order,Approved
+414,5497,2024-06-08,25.99,Poor Food Quality,Processed
+415,5517,2026-01-12,850.35,Delivery Delay,Processed
+416,5561,2024-01-16,191.9,Delivery Delay,Processed
+417,5562,2025-08-04,165.7,Delivery Delay,Processed
+418,5573,2024-09-14,192.6,Incorrect Order,Approved
+419,5574,2026-01-24,402.01,Incorrect Order,Processed
+420,5575,2024-11-03,423.22,Missing Item,Approved
+421,5580,2025-11-10,603.7,Delivery Delay,Rejected
+422,5586,2025-12-12,37.74,Incorrect Order,Approved
+423,5588,2024-07-27,811.74,Delivery Delay,Processed
+424,5592,2025-01-25,1454.88,Delivery Delay,Rejected
+425,5603,2026-06-28,492.76,Incorrect Order,Requested
+426,5613,2025-08-28,1752.8,Incorrect Order,Requested
+427,5692,2024-01-08,1089.73,Poor Food Quality,Approved
+428,5751,2026-01-03,942.9,Incorrect Order,Rejected
+429,5772,2025-04-27,618.91,Missing Item,Requested
+430,5773,2025-09-09,300.81,Poor Food Quality,Rejected
+431,5778,2025-05-22,217.36,Payment Issue,Processed
+432,5785,2025-12-20,820.58,Incorrect Order,Rejected
+433,5792,2025-05-21,265.0,Poor Food Quality,Requested
+434,5809,2024-08-02,350.47,Incorrect Order,Processed
+435,5833,2024-05-25,267.62,Incorrect Order,Processed
+436,5843,2024-05-28,153.17,Missing Item,Processed
+437,5857,2024-01-27,190.87,Missing Item,Approved
+438,5877,2025-04-19,818.84,Missing Item,Processed
+439,5912,2025-08-21,596.38,Missing Item,Processed
+440,5927,2025-03-18,633.53,Incorrect Order,Approved
+441,5931,2026-07-27,443.35,Payment Issue,Rejected
+442,5960,2025-11-18,1082.89,Delivery Delay,Requested
+443,5983,2024-03-09,528.15,Delivery Delay,Processed
+444,5984,2025-01-01,662.11,Incorrect Order,Rejected
+445,5997,2025-01-15,66.33,Delivery Delay,Processed
+446,6007,2025-05-22,160.26,Missing Item,Approved
+447,6017,2025-05-15,42.49,Poor Food Quality,Approved
+448,6023,2026-03-08,418.32,Missing Item,Rejected
+449,6027,2024-02-15,194.31,Incorrect Order,Requested
+450,6028,2024-08-02,276.73,Missing Item,Processed
+451,6044,2025-09-07,1058.64,Missing Item,Approved
+452,6046,2024-11-20,348.11,Missing Item,Approved
+453,6072,2024-06-05,546.88,Poor Food Quality,Approved
+454,6108,2024-01-09,897.02,Incorrect Order,Approved
+455,6112,2024-09-04,349.67,Missing Item,Approved
+456,6130,2025-05-27,180.95,Delivery Delay,Rejected
+457,6145,2026-08-02,807.68,Incorrect Order,Approved
+458,6163,2024-06-06,123.04,Delivery Delay,Processed
+459,6171,2025-12-30,182.12,Delivery Delay,Rejected
+460,6175,2024-03-22,285.57,Delivery Delay,Approved
+461,6229,2024-01-02,491.21,Missing Item,Processed
+462,6241,2025-04-03,48.45,Delivery Delay,Approved
+463,6245,2024-04-23,173.72,Incorrect Order,Processed
+464,6248,2026-04-04,1215.73,Missing Item,Approved
+465,6262,2025-07-16,372.34,Delivery Delay,Rejected
+466,6317,2024-03-23,625.12,Incorrect Order,Approved
+467,6321,2026-03-17,90.59,Delivery Delay,Requested
+468,6338,2025-05-10,458.99,Payment Issue,Processed
+469,6357,2024-04-27,540.18,Poor Food Quality,Requested
+470,6388,2026-03-14,131.13,Incorrect Order,Approved
+471,6405,2024-08-10,1279.63,Payment Issue,Processed
+472,6408,2024-08-15,808.91,Missing Item,Rejected
+473,6418,2026-04-22,753.46,Payment Issue,Approved
+474,6419,2026-04-20,1013.93,Payment Issue,Processed
+475,6493,2025-10-29,372.86,Incorrect Order,Processed
+476,6500,2026-06-23,1352.9,Payment Issue,Approved
+477,6513,2026-03-06,1668.41,Delivery Delay,Processed
+478,6517,2024-07-03,118.35,Delivery Delay,Processed
+479,6540,2025-08-10,177.78,Payment Issue,Processed
+480,6541,2025-02-18,776.46,Incorrect Order,Approved
+481,6550,2026-02-24,265.87,Missing Item,Processed
+482,6569,2025-09-18,239.07,Missing Item,Requested
+483,6578,2026-03-27,636.7,Delivery Delay,Rejected
+484,6582,2026-04-26,1252.7,Incorrect Order,Approved
+485,6601,2026-02-01,1176.58,Missing Item,Processed
+486,6647,2024-02-06,409.75,Payment Issue,Rejected
+487,6668,2025-11-25,127.73,Incorrect Order,Processed
+488,6672,2025-06-24,-621.28,Payment Issue,Approved
+489,6690,2025-06-20,1979.25,Payment Issue,Processed
+490,6694,2025-03-08,589.25,Delivery Delay,Processed
+491,6715,2025-10-28,981.23,Payment Issue,Approved
+492,6729,2026-04-22,1083.41,Delivery Delay,Processed
+493,6753,2025-02-22,268.47,Incorrect Order,Approved
+494,6755,2024-12-04,113.23,Payment Issue,Rejected
+495,6765,2025-02-19,59.45,Payment Issue,Requested
+496,6777,2026-02-24,409.52,Delivery Delay,Processed
+497,6784,2026-06-17,473.72,Poor Food Quality,Approved
+498,6786,2025-05-25,83.13,Missing Item,Approved
+499,6805,2025-09-07,392.66,Missing Item,Processed
+500,6806,2025-03-04,1572.03,Missing Item,Processed
+501,6825,2024-03-30,776.44,Poor Food Quality,Approved
+502,6852,2025-03-26,793.87,Payment Issue,Processed
+503,6872,2024-06-22,288.9,Delivery Delay,Approved
+504,6886,2025-01-08,1720.33,Poor Food Quality,Rejected
+505,6889,2025-08-26,241.01,Poor Food Quality,Approved
+506,6906,2025-06-01,267.24,Missing Item,Approved
+507,6934,2025-01-15,76.48,Missing Item,Processed
+508,6939,2025-10-30,84.2,Payment Issue,Processed
+509,6940,2025-11-05,1266.45,Incorrect Order,Processed
+510,6949,2023-12-26,551.96,Incorrect Order,Approved
+511,6959,2024-05-16,186.96,Delivery Delay,Approved
+512,6967,2024-11-16,55.5,Incorrect Order,Processed
+513,6973,2024-05-24,1135.1,Payment Issue,Approved
+514,6990,2025-10-31,244.27,Poor Food Quality,Approved
+515,7000,2024-10-09,101.12,Missing Item,Processed
+516,7039,2024-10-08,776.15,Payment Issue,Processed
+517,7047,2026-04-12,1227.43,Incorrect Order,Requested
+518,7053,2025-01-27,620.06,Poor Food Quality,Rejected
+519,7061,2024-09-03,154.11,Missing Item,Approved
+520,7063,2025-10-22,519.8,Incorrect Order,Processed
+521,7077,2024-02-18,571.37,Incorrect Order,Approved
+522,7080,2025-04-26,486.13,Payment Issue,Approved
+523,7094,2025-12-01,179.95,Payment Issue,Approved
+524,7126,2026-03-10,572.02,Payment Issue,Processed
+525,7136,2024-11-09,895.67,Poor Food Quality,Requested
+526,7150,2025-01-04,67.08,Incorrect Order,Processed
+527,7188,2026-08-05,658.51,Delivery Delay,Requested
+528,7207,2026-06-01,792.73,Delivery Delay,Processed
+529,7213,2024-05-12,99.94,Payment Issue,Processed
+530,7304,2025-05-24,598.14,Poor Food Quality,Approved
+531,7306,2024-04-07,294.82,Incorrect Order,Rejected
+532,7318,2025-07-07,166.2,Delivery Delay,Processed
+533,7325,2025-09-05,162.35,Payment Issue,Rejected
+534,7334,2026-06-11,1270.64,Missing Item,Rejected
+535,7353,2024-12-18,263.19,Missing Item,Processed
+536,7374,2026-04-30,385.67,Missing Item,Approved
+537,7381,2026-01-05,955.68,Incorrect Order,Approved
+538,7386,2024-09-07,344.9,Payment Issue,Approved
+539,7394,2026-07-26,285.24,Delivery Delay,Rejected
+540,7398,2024-12-29,209.97,Missing Item,Rejected
+541,7400,2024-11-10,223.77,Incorrect Order,Requested
+542,7410,2024-06-07,289.66,Delivery Delay,Requested
+543,7448,2026-04-22,203.55,Poor Food Quality,Processed
+544,7546,2024-10-27,455.76,Poor Food Quality,Requested
+545,7558,2026-07-14,187.88,Payment Issue,Processed
+546,7571,2026-07-09,744.39,Poor Food Quality,Approved
+547,7593,2025-08-26,707.98,Delivery Delay,Processed
+548,7595,2026-01-05,1033.14,Payment Issue,Processed
+549,7606,2025-09-30,439.92,Delivery Delay,Processed
+550,7631,2026-06-28,206.71,Incorrect Order,Processed
+551,7646,2026-07-28,247.85,Payment Issue,Approved
+552,7656,2026-02-24,341.31,Missing Item,Approved
+553,7664,2025-11-16,22.89,Missing Item,Processed
+554,7678,2026-02-23,157.29,Payment Issue,Approved
+555,7692,2025-01-25,140.88,Delivery Delay,Requested
+556,7701,2026-07-22,120.62,Incorrect Order,Approved
+557,7716,2024-07-04,150.85,Delivery Delay,Approved
+558,7727,2024-08-11,1611.59,Missing Item,Processed
+559,7754,2025-09-23,68.98,Delivery Delay,Approved
+560,7759,2025-04-08,161.82,Delivery Delay,Processed
+561,7782,2026-02-03,503.11,Payment Issue,Rejected
+562,7785,2025-02-20,666.97,Delivery Delay,Processed
+563,7824,2025-12-30,93.15,Delivery Delay,Rejected
+564,7825,2024-02-19,338.72,Incorrect Order,Approved
+565,7827,2026-04-18,164.19,Payment Issue,Approved
+566,7846,2025-02-20,923.16,Missing Item,Processed
+567,7867,2024-01-08,580.74,Delivery Delay,Approved
+568,7870,2025-09-27,1297.46,Payment Issue,Requested
+569,7889,2026-06-22,185.0,Incorrect Order,Processed
+570,7919,2023-12-17,679.84,Missing Item,Processed
+571,7925,2024-01-21,227.94,Delivery Delay,Processed
+572,7926,2024-05-04,726.15,Missing Item,Processed
+573,7947,2025-01-29,126.66,Missing Item,Rejected
+574,7977,2024-05-11,515.07,Payment Issue,Requested
+575,7981,2024-07-24,580.35,Missing Item,Processed
+576,8029,2026-05-01,132.41,Missing Item,Approved
+577,8032,2024-06-25,160.05,Missing Item,Requested
+578,8042,2024-09-28,119.21,Payment Issue,Processed
+579,8055,2026-03-13,388.4,Incorrect Order,Requested
+580,8076,2024-01-01,334.0,Poor Food Quality,Approved
+581,8110,2026-04-30,198.89,Missing Item,Processed
+582,8134,2025-08-26,485.91,Incorrect Order,Approved
+583,8136,2025-10-11,105.32,Incorrect Order,Approved
+584,8139,2026-07-19,399.43,Poor Food Quality,Requested
+585,8146,2025-01-11,564.84,Poor Food Quality,Processed
+586,8178,2024-02-02,431.0,Payment Issue,Processed
+587,8198,2024-11-14,278.87,Poor Food Quality,Processed
+588,8200,2024-05-07,400.99,Delivery Delay,Processed
+589,8276,2024-01-20,233.5,Delivery Delay,Processed
+590,8283,2025-05-06,516.21,Delivery Delay,Processed
+591,8289,2024-12-02,801.27,Payment Issue,Requested
+592,8310,2026-06-07,636.61,Incorrect Order,Requested
+593,8316,2026-05-08,1028.15,Poor Food Quality,Processed
+594,8357,2024-02-07,215.77,Poor Food Quality,Rejected
+595,8359,2026-06-25,826.78,Delivery Delay,Approved
+596,8365,2024-07-30,133.36,Delivery Delay,Approved
+597,8366,2024-06-01,486.45,Payment Issue,Requested
+598,8367,2025-12-27,269.99,Payment Issue,Processed
+599,8370,2024-05-04,540.6,Missing Item,Requested
+600,8382,2024-07-25,702.11,Missing Item,Approved
+601,8388,2025-08-02,1251.99,Poor Food Quality,Processed
+602,8406,2026-08-20,602.84,Missing Item,Processed
+603,8423,2025-01-25,779.01,Incorrect Order,Rejected
+604,8425,2026-03-22,410.53,Missing Item,Approved
+605,8426,2024-08-09,1392.04,Payment Issue,Approved
+606,8467,2024-02-24,1018.05,Missing Item,Approved
+607,8469,2024-06-04,220.77,Payment Issue,Requested
+608,8475,2025-04-26,479.91,Incorrect Order,Rejected
+609,8489,2024-11-16,621.17,Poor Food Quality,Processed
+610,8500,2025-04-21,368.98,Missing Item,Rejected
+611,8505,2024-03-13,-224.82,Poor Food Quality,Processed
+612,8527,2026-05-01,-480.84,Delivery Delay,Approved
+613,8537,2025-03-02,665.14,Poor Food Quality,Approved
+614,8539,2024-11-10,406.44,Payment Issue,Processed
+615,8543,2024-03-12,43.46,Payment Issue,Approved
+616,8560,2025-09-18,189.32,Incorrect Order,Processed
+617,8563,2024-06-14,540.29,Delivery Delay,Rejected
+618,8579,2026-03-20,86.01,Missing Item,Approved
+619,8583,2025-09-01,-310.93,Incorrect Order,Requested
+620,8591,2024-05-30,1220.4,Poor Food Quality,Rejected
+621,8651,2026-07-12,1956.19,Missing Item,Rejected
+622,8675,2025-02-01,1193.21,Poor Food Quality,Approved
+623,8677,2025-05-17,995.09,Delivery Delay,Rejected
+624,8679,2025-08-16,645.95,Incorrect Order,Requested
+625,8680,2025-05-25,360.45,Incorrect Order,Processed
+626,8688,2024-06-10,223.6,Poor Food Quality,Rejected
+627,8705,2024-09-08,64.98,Missing Item,Approved
+628,8714,2024-03-26,520.02,Missing Item,Approved
+629,8728,2026-01-09,477.95,Incorrect Order,Approved
+630,8741,2025-01-04,49.68,Poor Food Quality,Requested
+631,8774,2025-05-04,556.76,Delivery Delay,Processed
+632,8785,2024-05-31,1261.59,Missing Item,Approved
+633,8797,2025-09-07,636.41,Missing Item,Approved
+634,8861,2024-11-16,627.13,Poor Food Quality,Approved
+635,8870,2023-12-20,751.34,Payment Issue,Processed
+636,8875,2025-05-16,697.08,Incorrect Order,Processed
+637,8885,2023-12-19,289.47,Poor Food Quality,Requested
+638,8901,2024-08-21,183.05,Poor Food Quality,Rejected
+639,8908,2024-08-31,990.21,Payment Issue,Approved
+640,8935,2025-08-10,162.2,Poor Food Quality,Approved
+641,8938,2026-02-01,661.05,Poor Food Quality,Processed
+642,8955,2026-02-11,524.61,Missing Item,Processed
+643,8961,2026-08-04,440.83,Delivery Delay,Rejected
+644,9048,2026-01-27,701.13,Payment Issue,Approved
+645,9063,2026-04-28,966.49,Poor Food Quality,Approved
+646,9080,2025-12-22,522.57,Payment Issue,Requested
+647,9121,2025-06-16,891.8,Delivery Delay,Approved
+648,9123,2025-06-11,1221.52,Delivery Delay,Requested
+649,9154,2024-12-25,457.91,Poor Food Quality,Requested
+650,9155,2025-12-09,1869.75,Missing Item,Rejected
+651,9237,2024-12-09,588.85,Missing Item,Approved
+652,9265,2025-07-28,267.24,Payment Issue,Rejected
+653,9269,2025-06-18,661.65,Incorrect Order,Processed
+654,9285,2026-02-13,484.38,Payment Issue,Rejected
+655,9286,2026-03-02,520.12,Incorrect Order,Processed
+656,9291,2024-08-06,821.79,Incorrect Order,Requested
+657,9294,2025-02-01,319.02,Missing Item,Approved
+658,9297,2025-08-02,1328.77,Delivery Delay,Approved
+659,9303,2026-03-19,200.04,Poor Food Quality,Processed
+660,9313,2025-07-08,657.69,Incorrect Order,Approved
+661,9318,2025-11-18,155.76,Payment Issue,Approved
+662,9325,2024-12-28,891.99,Delivery Delay,Approved
+663,9329,2026-03-30,381.46,Missing Item,Processed
+664,9332,2025-02-20,920.64,Payment Issue,Approved
+665,9341,2024-09-28,254.56,Payment Issue,Rejected
+666,9343,2025-10-17,850.05,Missing Item,Processed
+667,9366,2024-10-08,549.48,Delivery Delay,Approved
+668,9375,2026-06-10,1437.48,Incorrect Order,Approved
+669,9379,2026-05-15,230.34,Missing Item,Rejected
+670,9398,2026-08-14,1181.6,Incorrect Order,Rejected
+671,9409,2026-02-09,219.73,Poor Food Quality,Approved
+672,9448,2026-04-26,317.6,Missing Item,Approved
+673,9470,2025-11-12,460.26,Poor Food Quality,Requested
+674,9479,2025-08-11,482.99,Missing Item,Requested
+675,9488,2025-02-15,283.85,Incorrect Order,Requested
+676,9493,2026-04-26,517.49,Missing Item,Rejected
+677,9517,2025-01-24,402.95,Incorrect Order,Approved
+678,9529,2024-06-29,619.63,Delivery Delay,Approved
+679,9532,2024-12-01,646.6,Missing Item,Approved
+680,9536,2024-10-08,358.19,Incorrect Order,Rejected
+681,9555,2025-06-30,437.32,Payment Issue,Approved
+682,9568,2024-01-07,144.0,Poor Food Quality,Processed
+683,9587,2025-03-06,653.42,Incorrect Order,Requested
+684,9589,2024-09-22,286.3,Poor Food Quality,Processed
+685,9620,2025-12-26,237.88,Poor Food Quality,Approved
+686,9642,2025-01-20,396.43,Poor Food Quality,Approved
+687,9645,2025-09-06,108.26,Incorrect Order,Processed
+688,9650,2024-04-06,1161.5,Poor Food Quality,Rejected
+689,9652,2026-02-25,211.76,Payment Issue,Processed
+690,9672,2026-04-26,567.25,Incorrect Order,Requested
+691,9683,2024-04-11,2018.2,Poor Food Quality,Approved
+692,9709,2025-05-24,1129.97,Payment Issue,Processed
+693,9712,2025-05-31,1596.09,Delivery Delay,Processed
+694,9728,2024-10-24,726.71,Missing Item,Approved
+695,9734,2023-12-27,1068.1,Payment Issue,Processed
+696,9757,2026-07-18,1216.53,Delivery Delay,Rejected
+697,9761,2026-06-08,1260.65,Incorrect Order,Requested
+698,9794,2025-07-12,765.86,Delivery Delay,Approved
+699,9797,2024-11-11,501.56,Poor Food Quality,Processed
+700,9828,2024-11-06,188.19,Poor Food Quality,Approved
+701,9839,2025-01-03,402.88,Poor Food Quality,Requested
+702,9847,2025-06-12,581.74,Poor Food Quality,Approved
+703,9863,2024-11-18,2053.85,Incorrect Order,Approved
+704,9873,2026-07-10,419.97,Incorrect Order,Approved
+705,9893,2023-12-15,279.77,Delivery Delay,Processed
+706,9909,2026-02-23,35.0,Missing Item,Processed
+707,9916,2025-08-24,-348.57,Delivery Delay,Processed
+708,9953,2025-03-01,251.92,Payment Issue,Requested
+709,9958,2024-01-28,545.97,Missing Item,Processed
+710,9970,2024-12-12,555.46,Payment Issue,Processed
+711,9979,2024-10-07,604.55,Missing Item,Processed
+712,9987,2024-01-21,1269.71,Poor Food Quality,Approved
+713,9991,2024-05-18,423.66,Missing Item,Processed
+714,9999,2026-08-02,688.03,Payment Issue,Approved
+715,10018,2025-09-18,170.89,Poor Food Quality,Approved
+716,10041,2025-02-13,369.2,Missing Item,Rejected
+717,10055,2024-01-14,386.88,Missing Item,Approved
+718,10068,2025-08-24,904.66,Incorrect Order,Approved
+719,10076,2026-05-15,74.98,Delivery Delay,Approved
+720,10085,2026-08-09,1311.52,Poor Food Quality,Rejected
+721,10086,2025-12-30,479.21,Incorrect Order,Requested
+722,10100,2025-11-24,69.55,Delivery Delay,Rejected
+723,10114,2025-02-20,157.82,Payment Issue,Rejected
+724,10140,2024-08-13,179.95,Incorrect Order,Approved
+725,10154,2024-06-24,504.32,Poor Food Quality,Processed
+726,10159,2024-06-22,83.82,Missing Item,Rejected
+727,10173,2024-09-30,442.73,Missing Item,Approved
+728,10185,2026-08-22,366.39,Poor Food Quality,Approved
+729,10190,2025-01-13,391.78,Missing Item,Processed
+730,10203,2024-11-19,476.39,Payment Issue,Approved
+731,10207,2024-09-17,340.67,Payment Issue,Approved
+732,10225,2026-05-22,237.07,Poor Food Quality,Rejected
+733,10256,2026-03-01,1138.89,Poor Food Quality,Approved
+734,10261,2025-05-23,229.78,Missing Item,Processed
+735,10267,2026-01-21,177.03,Payment Issue,Requested
+736,10272,2024-07-04,696.26,Incorrect Order,Requested
+737,10281,2024-02-25,77.78,Payment Issue,Requested
+738,10294,2025-08-08,756.71,Incorrect Order,Requested
+739,10297,2024-04-01,81.11,Delivery Delay,Approved
+740,10304,2025-08-21,82.84,Delivery Delay,Rejected
+741,10305,2024-08-27,436.43,Delivery Delay,Requested
+742,10316,2025-06-16,1647.57,Incorrect Order,Processed
+743,10333,2024-04-13,1125.51,Poor Food Quality,Processed
+744,10336,2024-01-16,839.72,Payment Issue,Processed
+745,10363,2024-10-15,288.59,Incorrect Order,rejected
+746,10377,2026-07-05,1113.24,Poor Food Quality,Rejected
+747,10392,2025-07-13,836.77,Delivery Delay,Processed
+748,10397,2025-11-09,255.14,Poor Food Quality,Rejected
+749,10428,2024-02-20,158.72,Payment Issue,Processed
+750,10440,2026-06-15,382.07,Missing Item,Processed
+751,10447,2025-10-23,377.88,Poor Food Quality,Approved
+752,10490,2025-04-15,74.87,Missing Item,Approved
+753,10509,2024-10-16,1044.65,Poor Food Quality,Approved
+754,10533,2025-08-03,96.96,Poor Food Quality,approved
+755,10580,2024-05-25,1037.94,Payment Issue,Processed
+756,10591,2023-12-29,56.26,Payment Issue,Approved
+757,10600,2026-03-28,317.55,Incorrect Order,Rejected
+758,10617,2024-07-09,308.52,Missing Item,Approved
+759,10630,2024-11-30,718.09,Payment Issue,Requested
+760,10634,2024-06-09,208.59,Incorrect Order,Approved
+761,10643,2025-10-28,1113.94,Payment Issue,Approved
+762,10652,2025-01-06,33.28,Delivery Delay,Approved
+763,10658,2024-02-24,673.28,Delivery Delay,Processed
+764,10670,2025-07-04,1285.37,Delivery Delay,Approved
+765,10681,2025-07-12,520.09,Missing Item,Processed
+766,10683,2025-12-20,482.24,Payment Issue,Requested
+767,10701,2024-05-02,725.75,Poor Food Quality,Processed
+768,10719,2024-10-24,820.03,Missing Item,Approved
+769,10750,2025-11-12,578.71,Poor Food Quality,Processed
+770,10754,2024-07-12,484.27,Payment Issue,Rejected
+771,10767,2024-06-28,184.72,Delivery Delay,Processed
+772,10782,2024-01-03,607.13,Incorrect Order,Approved
+773,10813,2025-03-05,85.13,Delivery Delay,Requested
+774,10818,2025-11-10,1314.71,Incorrect Order,Requested
+775,10819,2024-09-03,261.91,Poor Food Quality,Requested
+776,10820,2024-03-07,497.6,Poor Food Quality,Requested
+777,10821,2024-07-02,702.7,Poor Food Quality,Processed
+778,10824,2024-09-30,496.33,Poor Food Quality,Processed
+779,10836,2025-06-14,454.9,Incorrect Order,Approved
+780,10842,2024-01-18,150.39,Incorrect Order,Processed
+781,10849,2026-07-25,928.43,Delivery Delay,Approved
+782,10864,2026-07-02,271.15,Missing Item,Approved
+783,10878,2025-05-01,178.57,Payment Issue,Requested
+784,10887,2026-06-18,406.83,Incorrect Order,Processed
+785,10910,2025-05-29,337.12,Payment Issue,Processed
+786,10911,2024-11-30,179.17,Incorrect Order,Processed
+787,10938,2026-03-04,311.05,Incorrect Order,Approved
+788,10963,2025-09-27,178.18,Incorrect Order,Processed
+789,10980,2025-09-16,117.27,Missing Item,Requested
+790,10985,2024-03-05,870.9,Payment Issue,Approved
+791,10989,2025-11-12,1040.48,Incorrect Order,Processed
+792,10993,2025-02-05,567.23,Payment Issue,Approved
+793,11002,2025-06-05,648.32,Payment Issue,Approved
+794,11003,2025-06-20,297.16,Poor Food Quality,Approved
+795,11009,2025-12-22,196.66,Delivery Delay,Approved
+796,11018,2025-12-05,811.72,Missing Item,Approved
+797,11035,2025-12-28,1197.8,Missing Item,Approved
+798,11038,2024-07-03,275.03,Delivery Delay,Approved
+799,11055,2024-08-23,471.93,Payment Issue,Requested
+800,11102,2024-10-24,408.81,Missing Item,Rejected
+801,11107,2026-06-16,985.26,Poor Food Quality,Processed
+802,11112,2026-01-05,1012.83,Payment Issue,Rejected
+803,11113,2025-03-24,279.45,Incorrect Order,Rejected
+804,11121,2025-10-12,976.33,Incorrect Order,Processed
+805,11122,2023-12-28,74.86,Incorrect Order,Processed
+806,11157,2025-03-08,1418.91,Missing Item,Approved
+807,11169,2024-06-14,80.67,Missing Item,Processed
+808,11178,2024-02-03,97.0,Missing Item,Processed
+809,11189,2025-09-28,2438.98,Delivery Delay,Processed
+810,11191,2026-06-07,480.29,Missing Item,Requested
+811,11205,2025-12-28,417.68,Incorrect Order,Processed
+812,11216,2025-02-13,1368.77,Poor Food Quality,Rejected
+813,11243,2025-05-05,304.0,Payment Issue,Requested
+814,11273,2025-08-04,177.61,Payment Issue,Processed
+815,11277,2025-11-09,682.53,Delivery Delay,Processed
+816,11355,2025-10-28,1249.89,Delivery Delay,Processed
+817,11364,2026-01-07,830.08,Incorrect Order,Approved
+818,11387,2024-11-19,672.5,Payment Issue,Approved
+819,11395,2023-12-26,379.82,Missing Item,Processed
+820,11399,2023-12-22,1097.72,Payment Issue,Approved
+821,11406,2024-05-07,671.18,Poor Food Quality,Processed
+822,11423,2026-03-08,450.7,Delivery Delay,Processed
+823,11453,2024-10-20,321.08,Payment Issue,Rejected
+824,11484,2024-10-14,191.29,Payment Issue,Processed
+825,11501,2024-05-28,1265.95,Payment Issue,Approved
+826,11512,2024-05-01,1533.14,Payment Issue,Rejected
+827,11519,2025-02-10,95.66,Poor Food Quality,Approved
+828,11537,2025-06-26,70.74,Missing Item,Requested
+829,11548,2024-01-11,184.36,Poor Food Quality,Rejected
+830,11556,2024-09-07,830.68,Poor Food Quality,Processed
+831,11577,2024-11-15,542.35,Delivery Delay,Approved
+832,11580,2025-06-14,754.6,Poor Food Quality,Approved
+833,11582,2024-05-27,839.5,Poor Food Quality,Processed
+834,11607,2026-01-02,137.91,Poor Food Quality,Requested
+835,11629,2024-04-24,968.48,Incorrect Order,Approved
+836,11667,2023-12-25,281.7,Payment Issue,Requested
+837,11700,2025-06-05,417.58,Incorrect Order,Approved
+838,11727,2024-06-09,462.29,Missing Item,Processed
+839,11729,2024-06-01,372.45,Delivery Delay,Approved
+840,11771,2026-06-09,1521.64,Incorrect Order,Approved
+841,11787,2025-02-12,1474.92,Missing Item,Approved
+842,11840,2024-10-06,43.75,Delivery Delay,Requested
+843,11864,2025-01-17,592.25,Missing Item,Rejected
+844,11893,2026-03-30,520.39,Incorrect Order,Requested
+845,11896,2025-05-02,402.01,Payment Issue,Processed
+846,11900,2025-09-15,357.59,Poor Food Quality,Processed
+847,11915,2026-02-11,240.9,Delivery Delay,Processed
+848,11925,2025-02-03,781.29,Delivery Delay,Rejected
+849,11953,2024-12-22,824.66,Missing Item,Approved
+850,11961,2024-01-06,79.29,Payment Issue,Processed
+851,11974,2026-02-03,324.74,Incorrect Order,Processed
+852,11982,2024-03-09,340.47,Incorrect Order,Rejected
+853,11999,2025-01-16,396.42,Payment Issue,Requested
+854,12008,2026-01-13,621.36,Delivery Delay,Approved
+855,12011,2026-04-22,1069.56,Poor Food Quality,Processed
+856,12027,2024-07-16,1440.77,Incorrect Order,Processed
+857,12028,2024-01-21,757.98,Missing Item,Approved
+858,12029,2024-08-03,315.58,Delivery Delay,Processed
+859,12034,2025-05-18,153.22,Missing Item,Approved
+860,12069,2024-04-11,93.64,Delivery Delay,Processed
+861,12073,2025-03-03,975.63,Delivery Delay,Approved
+862,12074,2025-05-01,738.22,Delivery Delay,Approved
+863,12075,2025-01-28,565.04,Delivery Delay,Requested
+864,12089,2026-03-17,131.27,Delivery Delay,Approved
+865,12094,2025-03-11,112.53,Delivery Delay,Requested
+866,12118,2025-07-23,380.13,Incorrect Order,Rejected
+867,12120,2025-08-05,1106.82,Payment Issue,Approved
+868,12127,2025-04-26,1162.94,Delivery Delay,Rejected
+869,12150,2026-03-23,796.29,Poor Food Quality,Processed
+870,12162,2025-05-29,396.3,Incorrect Order,Approved
+871,12186,2024-09-10,277.61,Poor Food Quality,Requested
+872,12211,2024-08-06,286.08,Payment Issue,Approved
+873,12252,2025-08-24,274.74,Incorrect Order,Processed
+874,12266,2026-01-25,252.04,Payment Issue,Rejected
+875,12273,2026-01-10,682.67,Missing Item,Approved
+876,12305,2025-01-26,615.43,Missing Item,Processed
+877,12331,2026-08-10,2049.46,Incorrect Order,Approved
+878,12337,2023-12-21,190.52,Missing Item,Approved
+879,12375,2026-03-01,236.29,Missing Item,Requested
+880,12390,2025-06-28,467.34,Delivery Delay,Requested
+881,12400,2025-02-10,280.52,Incorrect Order,Approved
+882,12406,2025-04-20,175.08,Delivery Delay,Approved
+883,12411,2024-10-20,915.26,Poor Food Quality,Processed
+884,12432,2025-03-11,556.9,Missing Item,Processed
+885,12443,2025-06-30,303.31,Poor Food Quality,Approved
+886,12455,2025-05-20,946.71,Payment Issue,Approved
+887,12479,2024-07-18,290.36,Incorrect Order,Rejected
+888,12518,2025-07-19,249.77,Poor Food Quality,Approved
+889,12542,2024-12-14,215.19,Missing Item,Processed
+890,12546,2025-08-22,395.66,Incorrect Order,Processed
+891,12564,2024-07-13,259.41,Missing Item,Rejected
+892,12569,2024-08-18,754.15,Missing Item,Rejected
+893,12583,2025-10-23,52.35,Missing Item,Approved
+894,12599,2024-02-29,576.69,Missing Item,Rejected
+895,12622,2026-02-18,416.18,Payment Issue,Rejected
+896,12626,2025-11-16,197.32,Incorrect Order,Approved
+897,12637,2025-11-12,93.53,Poor Food Quality,Processed
+898,12671,2024-02-22,134.31,Incorrect Order,Processed
+899,12703,2026-02-22,67.31,Poor Food Quality,Approved
+900,12706,2024-04-21,760.95,Payment Issue,Approved
+901,12711,2024-08-17,1617.17,Poor Food Quality,Rejected
+902,12735,2026-03-14,189.13,Incorrect Order,Rejected
+903,12771,2024-05-14,75.42,Delivery Delay,Rejected
+904,12774,2024-09-01,1356.69,Incorrect Order,Approved
+905,12775,2025-02-01,553.52,Incorrect Order,Rejected
+906,12778,2025-04-22,641.47,Delivery Delay,Processed
+907,12783,2025-06-22,390.12,Poor Food Quality,Processed
+908,12874,2026-05-04,615.51,Missing Item,Rejected
+909,12878,2024-08-25,178.95,Poor Food Quality,Rejected
+910,12884,2025-06-07,284.48,Missing Item,Processed
+911,12897,2025-04-18,620.3,Missing Item,processed
+912,12898,2026-05-19,928.28,Payment Issue,Approved
+913,12909,2025-08-30,995.47,Delivery Delay,Processed
+914,12979,2025-02-05,301.45,Poor Food Quality,Approved
+915,12981,2024-01-28,734.08,Delivery Delay,Approved
+916,13001,2024-05-01,251.08,Payment Issue,Processed
+917,13041,2024-09-15,1048.69,Payment Issue,Processed
+918,13077,2024-12-16,565.71,Incorrect Order,Rejected
+919,13094,2026-03-10,94.05,Delivery Delay,Approved
+920,13112,2024-11-30,75.99,Payment Issue,Processed
+921,13118,2024-11-07,578.94,Payment Issue,Rejected
+922,13135,2025-12-06,188.8,Payment Issue,Processed
+923,13154,2025-07-13,102.6,Delivery Delay,Processed
+924,13155,2024-11-30,335.52,Poor Food Quality,Requested
+925,13157,2024-11-14,297.82,Payment Issue,Approved
+926,13175,2025-12-21,249.96,Poor Food Quality,Rejected
+927,13188,2026-03-07,163.38,Poor Food Quality,Approved
+928,13221,2025-07-21,222.85,Payment Issue,Approved
+929,13340,2026-08-05,159.6,Poor Food Quality,Rejected
+930,13345,2024-04-23,140.61,Payment Issue,Processed
+931,13355,2026-04-06,361.88,Missing Item,Approved
+932,13369,2024-02-07,1756.02,Missing Item,Approved
+933,13382,2025-07-29,476.75,Poor Food Quality,Processed
+934,13412,2024-01-02,25.82,Incorrect Order,Processed
+935,13419,2025-08-28,190.68,Poor Food Quality,Approved
+936,13453,2026-05-17,384.68,Payment Issue,Processed
+937,13455,2025-04-22,27.33,Delivery Delay,Approved
+938,13481,2025-08-25,190.21,Poor Food Quality,Rejected
+939,13501,2025-08-24,324.05,Poor Food Quality,Requested
+940,13511,2024-11-12,963.52,Incorrect Order,Rejected
+941,13512,2026-02-21,835.74,Incorrect Order,Approved
+942,13516,2024-09-20,83.8,Delivery Delay,Processed
+943,13520,2024-11-26,498.14,Delivery Delay,Approved
+944,13523,2025-03-31,342.48,Payment Issue,Requested
+945,13538,2024-09-01,194.58,Payment Issue,Processed
+946,13553,2024-02-25,159.36,Incorrect Order,Processed
+947,13565,2026-07-23,527.72,Poor Food Quality,Processed
+948,13566,2025-12-10,347.79,Poor Food Quality,Approved
+949,13581,2026-08-19,110.47,Payment Issue,Requested
+950,13582,2026-01-05,1340.63,Incorrect Order,Processed
+951,13591,2025-10-20,401.85,Incorrect Order,Approved
+952,13598,2025-09-01,281.54,Delivery Delay,Processed
+953,13641,2025-08-16,829.83,Delivery Delay,Processed
+954,13656,2026-06-20,404.88,Payment Issue,Rejected
+955,13687,2026-06-25,386.92,Payment Issue,Approved
+956,13707,2026-08-13,103.56,Incorrect Order,Approved
+957,13710,2025-10-15,502.58,Poor Food Quality,Approved
+958,13760,2024-04-06,715.65,Poor Food Quality,Rejected
+959,13767,2026-04-22,115.29,Poor Food Quality,Rejected
+960,13783,2024-10-10,738.69,Incorrect Order,Processed
+961,13793,2025-06-05,378.16,Poor Food Quality,Approved
+962,13794,2024-04-11,300.93,Missing Item,Processed
+963,13825,2024-02-11,424.88,Payment Issue,Processed
+964,13830,2024-10-09,229.38,Missing Item,Approved
+965,13840,2024-03-05,709.99,Delivery Delay,Processed
+966,13868,2024-05-12,253.52,Incorrect Order,Approved
+967,13869,2026-03-20,588.41,Poor Food Quality,Rejected
+968,13918,2026-03-28,230.29,Poor Food Quality,Approved
+969,13932,2024-08-04,312.48,Delivery Delay,Requested
+970,13933,2025-07-19,361.77,Incorrect Order,Approved
+971,13936,2024-05-08,474.36,Missing Item,Approved
+972,13939,2024-07-01,437.14,Payment Issue,Requested
+973,13945,2025-04-05,162.76,Incorrect Order,Rejected
+974,13949,2024-05-05,1818.0,Missing Item,Approved
+975,13950,2026-01-01,213.79,Missing Item,Approved
+976,13952,2023-12-22,1266.38,Missing Item,Approved
+977,13955,2024-12-24,602.56,Poor Food Quality,Requested
+978,14004,2024-01-06,78.32,Poor Food Quality,Processed
+979,14016,2025-08-06,514.75,Missing Item,Processed
+980,14029,2025-05-08,664.08,Poor Food Quality,Approved
+981,14030,2024-01-09,1043.1,Poor Food Quality,Rejected
+982,14049,2026-02-23,960.08,Incorrect Order,Requested
+983,14125,2025-06-14,247.7,Incorrect Order,Processed
+984,14126,2025-04-13,269.46,Incorrect Order,Requested
+985,14132,2026-03-20,70.8,Poor Food Quality,Approved
+986,14166,2025-06-10,1122.55,Incorrect Order,Approved
+987,14180,2025-06-09,1100.87,Missing Item,Requested
+988,14184,2023-12-29,1085.67,Incorrect Order,Approved
+989,14211,2024-08-26,1414.56,Missing Item,Processed
+990,14214,2025-12-19,235.81,Payment Issue,Requested
+991,14233,2025-07-27,273.78,Incorrect Order,Processed
+992,14250,2026-04-09,737.46,Poor Food Quality,Approved
+993,14300,2026-07-13,293.84,Missing Item,Rejected
+994,14303,2026-08-12,301.91,Payment Issue,Approved
+995,14324,2024-02-14,335.01,Missing Item,Processed
+996,14348,2024-06-22,543.11,Missing Item,Processed
+997,14365,2024-08-04,195.26,Payment Issue,Rejected
+998,14372,2024-11-27,378.08,Incorrect Order,Processed
+999,14384,2026-03-08,826.01,Payment Issue,Processed
+1000,14395,2024-02-26,254.91,Incorrect Order,Approved
+1001,14412,2026-02-03,313.41,Missing Item,Approved
+1002,14426,2026-01-18,1201.76,Delivery Delay,Processed
+1003,14433,2026-03-21,255.74,Payment Issue,Approved
+1004,14452,2025-01-25,484.2,Delivery Delay,Approved
+1005,14460,2025-03-27,256.2,Poor Food Quality,Approved
+1006,14466,2026-08-07,94.74,Incorrect Order,Requested
+1007,14470,2026-04-30,417.79,Missing Item,Rejected
+1008,14490,2024-04-30,1167.9,Poor Food Quality,Processed
+1009,14495,2025-11-27,259.75,Missing Item,Requested
+1010,14505,2024-07-22,118.98,Payment Issue,Processed
+1011,14510,2025-07-22,1028.23,Payment Issue,Rejected
+1012,14512,2024-03-28,210.9,Delivery Delay,Approved
+1013,14516,2025-05-29,193.9,Payment Issue,Processed
+1014,14538,2024-04-23,506.27,Payment Issue,Processed
+1015,14545,2024-05-03,2130.58,Delivery Delay,Approved
+1016,14557,2023-12-16,145.6,Payment Issue,Approved
+1017,14560,2025-12-06,487.51,Payment Issue,Approved
+1018,14580,2025-10-26,1662.29,Delivery Delay,Processed
+1019,14623,2024-09-07,1016.91,Delivery Delay,Approved
+1020,14639,2026-01-21,257.02,Missing Item,Processed
+1021,14646,2026-05-15,821.35,Poor Food Quality,Requested
+1022,14654,2023-12-15,749.56,Missing Item,Rejected
+1023,14667,2024-04-20,798.91,Payment Issue,Requested
+1024,14689,2025-08-24,1205.43,Poor Food Quality,Processed
+1025,14695,2024-02-06,254.44,Poor Food Quality,Processed
+1026,14713,2026-07-26,453.74,Incorrect Order,Processed
+1027,14757,2025-03-29,1359.58,Missing Item,Approved
+1028,14760,2024-10-12,198.74,Delivery Delay,Requested
+1029,14780,2025-01-19,235.46,Delivery Delay,Approved
+1030,14787,2025-05-20,870.73,Payment Issue,Approved
+1031,14797,2025-08-13,254.78,Missing Item,Requested
+1032,14801,2026-05-29,654.62,Missing Item,Approved
+1033,14815,2025-01-24,856.52,Delivery Delay,Approved
+1034,14824,2026-01-02,111.38,Incorrect Order,Rejected
+1035,14828,2024-01-06,401.83,Poor Food Quality,Processed
+1036,14840,2026-06-13,945.2,Poor Food Quality,Processed
+1037,14844,2026-03-27,719.15,Missing Item,Processed
+1038,14846,2026-03-31,978.65,Poor Food Quality,Processed
+1039,14866,2024-05-25,354.66,Missing Item,Requested
+1040,14946,2024-02-29,205.88,Incorrect Order,Processed
+1041,14968,2025-07-05,314.0,Poor Food Quality,Processed
+1042,14978,2025-07-23,212.73,Delivery Delay,Processed
+1043,14979,2025-06-26,162.19,Poor Food Quality,Processed
+1044,15028,2025-09-11,287.1,Missing Item,Requested
+1045,15040,2025-06-27,102.38,Incorrect Order,Requested
+1046,15060,2024-01-06,2615.33,Payment Issue,Approved
+1047,15066,2024-06-15,207.4,Payment Issue,Approved
+1048,15097,2025-06-02,1199.51,Delivery Delay,Processed
+1049,15102,2024-07-01,200.58,Payment Issue,Requested
+1050,15107,2024-04-15,113.89,Poor Food Quality,Processed
+1051,15113,2024-05-28,506.02,Poor Food Quality,Rejected
+1052,15135,2024-11-11,359.48,Incorrect Order,Rejected
+1053,15136,2025-04-24,548.77,Incorrect Order,Approved
+1054,15156,2025-01-28,1608.6,Poor Food Quality,Approved
+1055,15177,2024-08-07,162.42,Poor Food Quality,Rejected
+1056,15203,2025-12-03,215.99,Poor Food Quality,Rejected
+1057,15220,2026-03-21,648.26,Delivery Delay,Processed
+1058,15302,2025-10-13,1257.3,Missing Item,Processed
+1059,15333,2026-04-15,530.77,Payment Issue,Rejected
+1060,15335,2025-10-26,1482.28,Delivery Delay,Approved
+1061,15371,2025-08-05,385.21,Delivery Delay,Approved
+1062,15391,2025-02-04,219.39,Delivery Delay,Processed
+1063,15412,2025-09-07,599.82,Payment Issue,Rejected
+1064,15435,2024-01-01,590.1,Incorrect Order,Rejected
+1065,15486,2024-10-15,604.97,Incorrect Order,Processed
+1066,15493,2025-01-13,843.1,Poor Food Quality,Processed
+1067,15496,2025-02-26,314.59,Incorrect Order,Processed
+1068,15504,2026-03-02,246.14,Delivery Delay,Approved
+1069,15507,2025-07-15,81.31,Incorrect Order,Approved
+1070,15531,2026-07-07,120.75,Missing Item,Approved
+1071,15538,2024-10-02,436.99,Delivery Delay,Processed
+1072,15563,2024-12-24,50.35,Poor Food Quality,Requested
+1073,15580,2024-06-13,353.09,Delivery Delay,Approved
+1074,15583,2024-11-20,140.58,Missing Item,Approved
+1075,15592,2025-02-16,383.88,Delivery Delay,Processed
+1076,15594,2024-11-15,246.77,Poor Food Quality,Processed
+1077,15618,2023-12-26,1195.08,Incorrect Order,Processed
+1078,15633,2024-01-08,306.58,Incorrect Order,Requested
+1079,15641,2024-07-19,476.99,Missing Item,Processed
+1080,15659,2024-10-04,539.45,Poor Food Quality,Approved
+1081,15662,2024-04-22,202.08,Poor Food Quality,Processed
+1082,15676,2024-08-08,485.39,Missing Item,Approved
+1083,15736,2025-03-27,224.28,Payment Issue,Rejected
+1084,15748,2026-08-09,336.57,Incorrect Order,Approved
+1085,15805,2025-11-10,583.34,Missing Item,Approved
+1086,15862,2025-10-06,98.15,Delivery Delay,approved
+1087,15876,2026-05-18,872.12,Poor Food Quality,Rejected
+1088,15878,2024-05-19,181.84,Payment Issue,Processed
+1089,15891,2024-09-15,1111.5,Delivery Delay,Processed
+1090,15894,2026-04-24,-324.31,Delivery Delay,Processed
+1091,15916,2025-02-23,176.05,Payment Issue,Approved
+1092,15923,2024-01-25,769.81,Delivery Delay,Processed
+1093,15947,2026-06-16,279.97,Missing Item,Rejected
+1094,15955,2024-06-07,231.21,Incorrect Order,Approved
+1095,15964,2026-01-05,266.25,Poor Food Quality,Processed
+1096,16055,2024-02-12,578.17,Poor Food Quality,Approved
+1097,16057,2024-05-03,1153.57,Payment Issue,Requested
+1098,16065,2023-12-23,-110.77,Delivery Delay,Requested
+1099,16099,2025-02-14,133.24,Delivery Delay,Processed
+1100,16102,2026-01-29,143.27,Poor Food Quality,Processed
+1101,16107,2024-09-21,1798.51,Delivery Delay,Approved
+1102,16115,2025-03-25,1560.06,Missing Item,Approved
+1103,16145,2024-08-09,389.61,Incorrect Order,Approved
+1104,16150,2024-01-04,246.84,Incorrect Order,Approved
+1105,16158,2025-04-27,187.52,Delivery Delay,Requested
+1106,16165,2024-09-18,359.3,Delivery Delay,Processed
+1107,16185,2024-04-25,126.06,Incorrect Order,Approved
+1108,16194,2024-01-03,397.45,Incorrect Order,Processed
+1109,16213,2024-05-07,21.34,Incorrect Order,Approved
+1110,16226,2026-06-28,233.84,Payment Issue,Processed
+1111,16231,2025-08-12,717.55,Incorrect Order,Processed
+1112,16247,2024-01-01,1008.63,Poor Food Quality,approved
+1113,16265,2024-04-06,661.23,Missing Item,Processed
+1114,16270,2025-12-13,169.26,Missing Item,Approved
+1115,16289,2024-11-02,144.55,Incorrect Order,Processed
+1116,16291,2025-05-09,704.3,Poor Food Quality,Processed
+1117,16359,2024-01-11,1913.16,Payment Issue,Approved
+1118,16369,2024-11-02,973.92,Incorrect Order,Approved
+1119,16383,2024-06-28,69.43,Payment Issue,Approved
+1120,16387,2024-05-04,927.63,Poor Food Quality,Approved
+1121,16397,2025-06-02,360.01,Incorrect Order,Requested
+1122,16419,2025-08-11,510.13,Poor Food Quality,Approved
+1123,16431,2026-05-02,26.34,Delivery Delay,Processed
+1124,16448,2025-06-20,175.77,Delivery Delay,Processed
+1125,16467,2026-08-09,385.68,Incorrect Order,Processed
+1126,16473,2026-01-04,166.81,Missing Item,Processed
+1127,16498,2025-01-24,999.97,Poor Food Quality,Requested
+1128,16500,2025-03-03,934.02,Missing Item,Approved
+1129,16545,2025-06-11,161.55,Missing Item,Approved
+1130,16549,2025-04-03,221.45,Payment Issue,Approved
+1131,16555,2024-03-03,164.64,Missing Item,Requested
+1132,16587,2025-06-05,196.14,Poor Food Quality,Approved
+1133,16620,2024-03-31,207.34,Delivery Delay,Processed
+1134,16621,2025-09-10,662.44,Payment Issue,Requested
+1135,16627,2025-05-30,712.49,Incorrect Order,Rejected
+1136,16633,2026-08-09,962.19,Delivery Delay,Rejected
+1137,16682,2025-05-08,364.43,Payment Issue,Rejected
+1138,16691,2026-02-22,670.31,Poor Food Quality,Processed
+1139,16701,2026-05-24,187.05,Poor Food Quality,Processed
+1140,16703,2024-05-12,1284.56,Incorrect Order,Rejected
+1141,16735,2025-08-27,477.42,Poor Food Quality,Approved
+1142,16764,2025-08-10,321.83,Poor Food Quality,Processed
+1143,16768,2024-07-16,295.72,Incorrect Order,Rejected
+1144,16797,2025-04-28,132.71,Missing Item,Processed
+1145,16805,2025-09-22,1329.15,Poor Food Quality,Processed
+1146,16833,2024-10-26,127.19,Delivery Delay,Processed
+1147,16845,2025-09-10,116.3,Payment Issue,Processed
+1148,16852,2024-03-09,33.11,Missing Item,Approved
+1149,16853,2026-05-02,60.2,Incorrect Order,Processed
+1150,16863,2024-01-04,1006.9,Poor Food Quality,Approved
+1151,16872,2026-02-12,272.62,Missing Item,Processed
+1152,16882,2024-03-09,779.29,Missing Item,Approved
+1153,16885,2024-12-27,209.92,Incorrect Order,Rejected
+1154,16890,2025-10-24,252.38,Payment Issue,Rejected
+1155,16892,2024-07-29,231.17,Missing Item,Processed
+1156,16926,2025-03-18,536.26,Incorrect Order,Requested
+1157,16937,2024-07-25,1308.66,Incorrect Order,Requested
+1158,16965,2024-05-18,971.9,Incorrect Order,Requested
+1159,16975,2024-02-20,397.94,Payment Issue,Requested
+1160,16976,2024-05-07,992.21,Poor Food Quality,Processed
+1161,17023,2024-07-14,547.38,Delivery Delay,Requested
+1162,17061,2025-05-25,372.5,Missing Item,Approved
+1163,17111,2025-03-09,1933.88,Delivery Delay,Processed
+1164,17114,2024-09-23,144.21,Missing Item,Requested
+1165,17151,2026-01-15,294.59,Delivery Delay,Approved
+1166,17152,2026-01-24,955.24,Payment Issue,Approved
+1167,17160,2024-11-23,452.65,Delivery Delay,Approved
+1168,17164,2024-01-16,253.13,Delivery Delay,Requested
+1169,17169,2025-05-29,226.54,Missing Item,Requested
+1170,17185,2026-07-06,44.43,Poor Food Quality,Processed
+1171,17187,2026-05-21,667.47,Incorrect Order,Approved
+1172,17190,2024-06-24,273.7,Incorrect Order,Processed
+1173,17192,2024-06-03,233.76,Payment Issue,Approved
+1174,17217,2025-06-24,1183.87,Poor Food Quality,Processed
+1175,17218,2025-11-15,280.85,Delivery Delay,Requested
+1176,17249,2024-05-20,324.8,Poor Food Quality,Processed
+1177,17283,2025-05-27,725.97,Missing Item,Rejected
+1178,17289,2025-02-06,403.31,Missing Item,Processed
+1179,17295,2025-07-31,337.85,Missing Item,Approved
+1180,17300,2024-11-21,215.34,Missing Item,Processed
+1181,17310,2025-01-27,470.07,Delivery Delay,Approved
+1182,17342,2024-03-08,305.71,Incorrect Order,Requested
+1183,17390,2025-01-08,485.57,Delivery Delay,Rejected
+1184,17391,2026-03-25,290.06,Missing Item,requested
+1185,17417,2026-04-18,466.65,Missing Item,Requested
+1186,17471,2025-03-08,523.35,Incorrect Order,Processed
+1187,17476,2025-04-03,268.84,Missing Item,Requested
+1188,17479,2026-02-06,1306.9,Poor Food Quality,Approved
+1189,17498,2024-06-07,499.76,Poor Food Quality,Processed
+1190,17508,2026-03-03,465.16,Payment Issue,Approved
+1191,17520,2025-11-11,124.77,Poor Food Quality,Processed
+1192,17526,2025-04-30,110.83,Incorrect Order,Approved
+1193,17540,2024-09-14,773.88,Incorrect Order,Approved
+1194,17544,2026-02-06,493.94,Delivery Delay,Rejected
+1195,17545,2025-03-11,400.42,Poor Food Quality,Requested
+1196,17550,2025-03-16,779.1,Incorrect Order,Approved
+1197,17607,2024-04-13,91.42,Missing Item,Approved
+1198,17627,2024-09-28,278.1,Delivery Delay,Approved
+1199,17630,2024-05-21,486.86,Poor Food Quality,Processed
+1200,17635,2024-12-22,761.33,Missing Item,Rejected
+1201,17663,2025-03-24,156.3,Payment Issue,Processed
+1202,17664,2023-12-27,657.43,Missing Item,Approved
+1203,17681,2024-11-16,779.16,Incorrect Order,Rejected
+1204,17702,2024-05-14,631.1,Delivery Delay,Rejected
+1205,17708,2026-05-05,248.24,Incorrect Order,Processed
+1206,17719,2023-12-21,536.58,Poor Food Quality,Approved
+1207,17730,2025-02-25,674.76,Payment Issue,Approved
+1208,17734,2025-12-23,588.94,Incorrect Order,Approved
+1209,17746,2025-05-15,1042.66,Payment Issue,Requested
+1210,17759,2025-01-03,279.45,Delivery Delay,Approved
+1211,17767,2026-01-15,312.16,Poor Food Quality,Processed
+1212,17768,2025-12-26,451.3,Delivery Delay,Processed
+1213,17807,2024-01-21,342.64,Payment Issue,Processed
+1214,17808,2024-12-28,333.53,Payment Issue,Processed
+1215,17828,2025-12-06,174.15,Delivery Delay,Approved
+1216,17870,2026-06-17,638.09,Poor Food Quality,Processed
+1217,17879,2026-08-11,256.02,Delivery Delay,Rejected
+1218,17887,2024-04-23,614.72,Missing Item,Rejected
+1219,17896,2026-03-07,89.36,Delivery Delay,Processed
+1220,17897,2025-09-15,186.06,Payment Issue,Processed
+1221,17905,2026-08-14,-230.34,Poor Food Quality,Approved
+1222,17938,2024-02-13,1117.44,Poor Food Quality,Processed
+1223,17948,2024-01-10,1273.14,Poor Food Quality,Rejected
+1224,17971,2026-06-08,733.46,Delivery Delay,Processed
+1225,17989,2025-09-07,330.25,Poor Food Quality,Approved
+1226,18052,2026-03-15,375.9,Poor Food Quality,Approved
+1227,18067,2024-05-15,346.45,Incorrect Order,Approved
+1228,18081,2026-08-07,59.1,Incorrect Order,Rejected
+1229,18095,2024-04-29,119.92,Payment Issue,Processed
+1230,18096,2025-04-19,209.46,Missing Item,Rejected
+1231,18110,2026-04-18,270.55,Payment Issue,Processed
+1232,18115,2026-07-13,452.12,Payment Issue,Approved
+1233,18116,2024-06-17,178.15,Missing Item,Processed
+1234,18124,2025-10-20,484.33,Incorrect Order,Approved
+1235,18145,2025-07-03,1454.88,Payment Issue,Approved
+1236,18155,2024-04-26,508.02,Poor Food Quality,Rejected
+1237,18221,2024-02-07,326.39,Payment Issue,Approved
+1238,18227,2025-04-18,270.2,Missing Item,Processed
+1239,18243,2024-09-13,516.22,Incorrect Order,Approved
+1240,18266,2024-06-29,542.74,Missing Item,Approved
+1241,18273,2024-06-29,667.87,Delivery Delay,Processed
+1242,18298,2025-10-04,994.38,Delivery Delay,Processed
+1243,18331,2024-04-22,1246.03,Poor Food Quality,Processed
+1244,18335,2023-12-25,143.52,Poor Food Quality,Processed
+1245,18343,2024-05-14,932.49,Delivery Delay,PROCESSED
+1246,18354,2024-08-03,307.77,Payment Issue,Processed
+1247,18360,2025-10-02,136.81,Missing Item,Rejected
+1248,18376,2024-06-05,417.98,Delivery Delay,Approved
+1249,18381,2024-03-10,147.42,Poor Food Quality,Approved
+1250,18386,2024-05-27,174.51,Incorrect Order,Processed
+1251,18404,2026-07-12,758.7,Payment Issue,Processed
+1252,18409,2025-02-28,574.57,Payment Issue,Rejected
+1253,18417,2025-03-19,23.53,Delivery Delay,Rejected
+1254,18424,2025-11-01,1048.04,Poor Food Quality,Rejected
+1255,18453,2024-10-11,254.51,Delivery Delay,Approved
+1256,18501,2024-05-03,171.94,Incorrect Order,Approved
+1257,18502,2025-04-12,209.85,Incorrect Order,Approved
+1258,18507,2025-03-18,197.15,Incorrect Order,Requested
+1259,18509,2025-04-26,337.33,Poor Food Quality,Approved
+1260,18510,2025-05-20,479.54,Incorrect Order,Rejected
+1261,18535,2024-06-03,563.56,Delivery Delay,Approved
+1262,18565,2024-04-08,69.55,Payment Issue,Rejected
+1263,18597,2026-06-15,747.12,Incorrect Order,Approved
+1264,18600,2024-02-11,949.32,Poor Food Quality,Processed
+1265,18611,2025-03-20,563.99,Payment Issue,Approved
+1266,18612,2024-03-23,68.52,Delivery Delay,Approved
+1267,18616,2024-11-26,1108.89,Incorrect Order,Approved
+1268,18619,2025-09-03,893.73,Poor Food Quality,Requested
+1269,18640,2026-07-03,52.1,Poor Food Quality,Approved
+1270,18656,2025-07-28,32.13,Poor Food Quality,Processed
+1271,18660,2025-11-21,2146.65,Delivery Delay,Approved
+1272,18671,2024-01-14,991.9,Payment Issue,Requested
+1273,18681,2026-01-28,275.91,Poor Food Quality,Approved
+1274,18689,2025-08-10,1072.48,Incorrect Order,Rejected
+1275,18702,2026-03-29,359.89,Incorrect Order,Requested
+1276,18704,2023-12-24,392.64,Poor Food Quality,Approved
+1277,18719,2025-03-06,450.71,Delivery Delay,Processed
+1278,18765,2025-09-24,682.61,Missing Item,Approved
+1279,18778,2025-03-23,177.68,Delivery Delay,Approved
+1280,18833,2024-01-25,283.92,Delivery Delay,Approved
+1281,18858,2024-11-02,153.05,Delivery Delay,Approved
+1282,18878,2024-07-04,959.16,Payment Issue,Approved
+1283,18897,2025-08-13,260.75,Payment Issue,Rejected
+1284,18906,2024-11-18,618.26,Incorrect Order,Approved
+1285,18910,2024-01-28,85.94,Incorrect Order,Approved
+1286,18937,2025-09-08,325.68,Missing Item,Requested
+1287,18943,2025-07-23,654.9,Incorrect Order,Rejected
+1288,18956,2024-10-20,152.26,Poor Food Quality,Approved
+1289,18961,2025-08-17,38.76,Payment Issue,Processed
+1290,18965,2025-11-08,711.11,Incorrect Order,Processed
+1291,18969,2023-12-14,176.47,Payment Issue,Processed
+1292,18972,2025-06-24,436.1,Payment Issue,Approved
+1293,18982,2024-10-13,392.28,Poor Food Quality,Approved
+1294,19048,2024-08-01,447.46,Incorrect Order,Approved
+1295,19053,2025-06-23,200.72,Missing Item,Rejected
+1296,19068,2025-04-03,159.78,Payment Issue,Processed
+1297,19122,2025-07-29,226.83,Incorrect Order,Approved
+1298,19136,2024-02-08,1668.17,Poor Food Quality,Processed
+1299,19147,2024-04-13,1258.96,Incorrect Order,Approved
+1300,19153,2024-10-03,815.83,Delivery Delay,Approved
+1301,19168,2025-01-29,1008.83,Missing Item,Approved
+1302,19184,2026-08-13,611.33,Delivery Delay,Approved
+1303,19217,2024-08-04,662.33,Missing Item,Approved
+1304,19220,2026-02-19,367.59,Missing Item,Processed
+1305,19236,2025-12-26,753.97,Incorrect Order,Requested
+1306,19264,2024-03-18,550.21,Missing Item,Approved
+1307,19278,2024-07-08,71.29,Payment Issue,Approved
+1308,19293,2024-01-17,475.54,Missing Item,Approved
+1309,19299,2026-03-20,353.47,Missing Item,Rejected
+1310,19307,2026-02-23,1218.02,Delivery Delay,Approved
+1311,19324,2024-06-28,450.53,Poor Food Quality,Processed
+1312,19352,2025-06-07,212.31,Delivery Delay,Processed
+1313,19386,2025-04-16,849.9,Delivery Delay,Rejected
+1314,19410,2025-04-24,633.44,Poor Food Quality,Processed
+1315,19417,2025-11-01,491.05,Delivery Delay,Rejected
+1316,19432,2025-08-10,789.13,Payment Issue,Processed
+1317,19446,2024-07-25,464.37,Delivery Delay,Requested
+1318,19463,2024-11-14,67.73,Poor Food Quality,Processed
+1319,19469,2026-02-14,560.32,Missing Item,Approved
+1320,19479,2024-05-16,845.12,Incorrect Order,rejected
+1321,19515,2026-03-31,42.13,Poor Food Quality,Processed
+1322,19524,2025-04-13,403.67,Delivery Delay,Approved
+1323,19530,2024-06-24,1124.41,Missing Item,Approved
+1324,19556,2025-07-01,86.68,Poor Food Quality,Processed
+1325,19560,2024-09-11,779.72,Poor Food Quality,Processed
+1326,19584,2024-04-01,634.2,Missing Item,Approved
+1327,19585,2026-01-11,250.19,Delivery Delay,Processed
+1328,19598,2026-01-11,1029.76,Payment Issue,Processed
+1329,19599,2024-05-12,264.35,Poor Food Quality,Rejected
+1330,19604,2026-01-04,2136.02,Missing Item,Requested
+1331,19607,2026-06-09,915.29,Incorrect Order,Rejected
+1332,19608,2026-05-16,248.16,Poor Food Quality,Processed
+1333,19614,2025-11-19,979.73,Delivery Delay,Rejected
+1334,19631,2025-07-03,339.44,Missing Item,Processed
+1335,19648,2025-03-31,1813.93,Delivery Delay,Requested
+1336,19658,2024-03-27,596.07,Incorrect Order,Approved
+1337,19661,2025-06-29,295.1,Missing Item,Requested
+1338,19664,2025-08-10,483.42,Poor Food Quality,Rejected
+1339,19668,2024-10-17,227.83,Payment Issue,Processed
+1340,19670,2025-04-18,597.07,Delivery Delay,Approved
+1341,19686,2026-04-22,1485.15,Missing Item,Processed
+1342,19707,2024-07-18,344.92,Incorrect Order,Requested
+1343,19720,2025-07-07,189.96,Missing Item,Rejected
+1344,19743,2026-03-02,931.17,Delivery Delay,Approved
+1345,19786,2025-01-11,686.7,Poor Food Quality,Processed
+1346,19795,2025-05-15,74.66,Poor Food Quality,Approved
+1347,19806,2025-01-16,570.5,Payment Issue,Processed
+1348,19823,2024-07-10,158.46,Poor Food Quality,Processed
+1349,19825,2025-09-04,169.78,Incorrect Order,Approved
+1350,19833,2025-01-03,508.55,Payment Issue,Processed
+1351,19836,2025-10-13,636.29,Delivery Delay,Requested
+1352,19885,2026-06-12,667.37,Incorrect Order,Processed
+1353,19890,2024-01-24,217.27,Delivery Delay,Approved
+1354,19904,2024-01-10,683.77,Payment Issue,Approved
+1355,19935,2025-09-30,667.84,Incorrect Order,Rejected
+1356,19944,2024-05-21,607.27,Missing Item,Processed
+1357,19958,2026-01-12,77.33,Incorrect Order,Approved
+1358,19966,2023-12-29,148.89,Poor Food Quality,Processed
+1359,20001,2025-05-10,764.17,Incorrect Order,Approved
+1360,20019,2024-09-14,1097.26,Missing Item,Processed
+1361,20029,2024-11-17,97.85,Missing Item,Processed
+1362,20046,2025-05-01,319.4,Incorrect Order,Processed
+1363,20050,2026-06-27,825.65,Delivery Delay,Approved
+1364,20052,2024-06-19,675.52,Poor Food Quality,Approved
+1365,20061,2025-01-11,393.34,Missing Item,Requested
+1366,20096,2026-06-18,570.83,Delivery Delay,Processed
+1367,20105,2024-03-05,298.72,Delivery Delay,Approved
+1368,20181,2024-06-09,1051.47,Incorrect Order,Approved
+1369,20206,2024-01-18,603.36,Payment Issue,Rejected
+1370,20219,2024-09-26,348.45,Missing Item,Processed
+1371,20231,2026-01-29,491.51,Poor Food Quality,Requested
+1372,20235,2026-01-28,903.22,Payment Issue,Rejected
+1373,20256,2025-12-20,553.32,Delivery Delay,Processed
+1374,20258,2024-04-17,475.61,Payment Issue,Processed
+1375,20266,2024-03-01,72.09,Poor Food Quality,Approved
+1376,20277,2025-06-17,589.13,Poor Food Quality,Approved
+1377,20288,2026-01-20,567.5,Incorrect Order,Processed
+1378,20296,2026-05-28,1444.01,Payment Issue,Processed
+1379,20320,2025-11-23,1052.24,Incorrect Order,Requested
+1380,20337,2025-12-22,967.64,Incorrect Order,Processed
+1381,20354,2025-07-06,62.57,Poor Food Quality,Approved
+1382,20380,2024-09-29,-615.91,Missing Item,Approved
+1383,20386,2026-05-09,320.42,Missing Item,Approved
+1384,20398,2026-04-12,413.23,Delivery Delay,Processed
+1385,20422,2025-02-21,1137.75,Incorrect Order,Processed
+1386,20434,2026-01-24,538.83,Incorrect Order,Rejected
+1387,20437,2025-07-14,383.2,Missing Item,Requested
+1388,20444,2025-01-20,477.98,Incorrect Order,Rejected
+1389,20462,2026-01-11,207.34,Poor Food Quality,Processed
+1390,20478,2024-02-13,309.12,Missing Item,Processed
+1391,20492,2024-07-01,841.97,Payment Issue,Approved
+1392,20506,2025-10-21,83.63,Delivery Delay,Processed
+1393,20545,2026-06-12,90.11,Poor Food Quality,Approved
+1394,20547,2024-12-14,457.68,Payment Issue,Processed
+1395,20556,2026-03-27,483.43,Incorrect Order,Processed
+1396,20574,2026-08-19,139.22,Missing Item,Processed
+1397,20575,2024-09-22,434.81,Incorrect Order,Processed
+1398,20577,2025-10-18,1051.62,Incorrect Order,Processed
+1399,20579,2023-12-29,248.34,Incorrect Order,Processed
+1400,20584,2025-03-31,939.46,Missing Item,Approved
+1401,20589,2026-03-05,1216.49,Poor Food Quality,Approved
+1402,20599,2024-11-27,639.87,Missing Item,Processed
+1403,20636,2024-04-30,199.49,Incorrect Order,Processed
+1404,20643,2026-08-16,71.57,Delivery Delay,Processed
+1405,20651,2024-05-26,710.81,Missing Item,Processed
+1406,20654,2024-07-01,847.72,Payment Issue,Processed
+1407,20669,2026-06-29,702.74,Delivery Delay,Requested
+1408,20675,2024-06-01,330.42,Poor Food Quality,Rejected
+1409,20683,2025-06-06,767.05,Incorrect Order,Requested
+1410,20707,2024-07-04,230.24,Payment Issue,Requested
+1411,20708,2026-04-18,850.61,Incorrect Order,Processed
+1412,20753,2026-07-24,378.02,Missing Item,Approved
+1413,20772,2025-03-10,2217.33,Poor Food Quality,Processed
+1414,20802,2024-08-14,242.84,Delivery Delay,Rejected
+1415,20825,2025-12-17,1107.84,Incorrect Order,Processed
+1416,20829,2026-01-18,316.29,Payment Issue,Processed
+1417,20834,2026-02-08,168.73,Delivery Delay,Rejected
+1418,20851,2024-02-09,447.69,Incorrect Order,Processed
+1419,20854,2026-06-15,230.96,Payment Issue,Requested
+1420,20880,2025-03-03,784.4,Payment Issue,Approved
+1421,20887,2023-12-13,949.15,Delivery Delay,Approved
+1422,20931,2024-04-03,313.82,Delivery Delay,Approved
+1423,20937,2026-04-21,196.32,Poor Food Quality,Requested
+1424,20943,2024-05-18,230.21,Payment Issue,Rejected
+1425,20949,2024-08-18,278.93,Delivery Delay,Approved
+1426,20963,2026-05-22,664.33,Missing Item,Processed
+1427,20967,2025-02-24,359.89,Payment Issue,Requested
+1428,20971,2024-02-24,299.22,Missing Item,Approved
+1429,20980,2023-12-24,726.1,Poor Food Quality,Rejected
+1430,21003,2025-07-27,511.06,Payment Issue,Rejected
+1431,21014,2025-12-17,999.23,Delivery Delay,Approved
+1432,21027,2025-12-02,484.19,Poor Food Quality,Processed
+1433,21028,2025-06-18,372.73,Missing Item,Approved
+1434,21041,2024-05-02,142.31,Delivery Delay,Processed
+1435,21046,2025-09-18,880.75,Delivery Delay,Processed
+1436,21063,2025-04-25,1270.42,Missing Item,Processed
+1437,21075,2026-02-04,501.21,Delivery Delay,Processed
+1438,21083,2025-07-03,145.94,Incorrect Order,Processed
+1439,21092,2024-12-28,415.19,Poor Food Quality,Processed
+1440,21094,2024-09-18,1199.68,Payment Issue,Requested
+1441,21095,2025-05-12,584.94,Delivery Delay,Processed
+1442,21100,2025-07-22,399.74,Incorrect Order,Processed
+1443,21119,2024-12-31,707.45,Poor Food Quality,Rejected
+1444,21159,2025-02-21,394.79,Payment Issue,Rejected
+1445,21166,2024-06-20,811.99,Poor Food Quality,Approved
+1446,21178,2025-03-31,621.83,Poor Food Quality,Approved
+1447,21180,2025-09-03,654.2,Missing Item,Approved
+1448,21187,2025-01-20,216.22,Missing Item,Requested
+1449,21195,2025-04-06,688.66,Payment Issue,Requested
+1450,21208,2025-07-06,921.82,Poor Food Quality,Approved
+1451,21235,2025-10-18,579.24,Poor Food Quality,Rejected
+1452,21237,2025-08-16,150.1,Poor Food Quality,Requested
+1453,21241,2026-05-04,997.93,Delivery Delay,Approved
+1454,21247,2026-06-09,100.44,Incorrect Order,Processed
+1455,21279,2025-06-27,1070.41,Missing Item,Approved
+1456,21280,2024-05-30,133.22,Delivery Delay,Processed
+1457,21297,2024-01-08,662.48,Payment Issue,Approved
+1458,21334,2026-05-13,990.53,Missing Item,Requested
+1459,21363,2025-07-09,1008.66,Incorrect Order,Processed
+1460,21370,2024-10-04,248.3,Delivery Delay,Approved
+1461,21371,2024-05-19,341.86,Missing Item,Processed
+1462,21378,2025-08-27,1893.98,Incorrect Order,Processed
+1463,21385,2026-02-13,570.58,Payment Issue,Approved
+1464,21388,2025-12-30,246.6,Payment Issue,Processed
+1465,21401,2023-12-27,1279.62,Payment Issue,Approved
+1466,21420,2025-02-19,258.38,Missing Item,Approved
+1467,21437,2024-08-17,1763.92,Payment Issue,Approved
+1468,21446,2024-01-27,701.18,Incorrect Order,Rejected
+1469,21460,2026-03-05,1151.87,Payment Issue,Processed
+1470,21473,2026-04-29,1937.51,Delivery Delay,Processed
+1471,21477,2026-03-07,801.34,Delivery Delay,Requested
+1472,21481,2024-11-23,276.47,Incorrect Order,Rejected
+1473,21506,2024-04-01,669.03,Payment Issue,Processed
+1474,21527,2026-06-09,444.0,Poor Food Quality,Approved
+1475,21583,2025-06-02,679.16,Payment Issue,Rejected
+1476,21585,2026-06-18,1162.1,Incorrect Order,Rejected
+1477,21595,2024-01-29,197.72,Delivery Delay,Approved
+1478,21602,2025-12-23,776.04,Delivery Delay,Requested
+1479,21612,2024-01-27,361.43,Delivery Delay,Processed
+1480,21660,2025-11-16,782.08,Delivery Delay,Approved
+1481,21663,2024-02-04,424.63,Incorrect Order,Approved
+1482,21688,2024-11-10,1664.31,Missing Item,Approved
+1483,21689,2024-03-03,369.86,Poor Food Quality,Processed
+1484,21720,2024-01-12,317.33,Delivery Delay,Processed
+1485,21725,2025-08-28,85.6,Payment Issue,Approved
+1486,21732,2024-12-31,145.54,Missing Item,Approved
+1487,21744,2024-04-28,985.75,Incorrect Order,Requested
+1488,21781,2023-12-14,1238.28,Poor Food Quality,Rejected
+1489,21782,2024-07-17,1208.96,Poor Food Quality,Processed
+1490,21843,2026-04-21,1059.76,Payment Issue,Approved
+1491,21858,2025-02-15,517.23,Poor Food Quality,Approved
+1492,21879,2025-12-19,237.14,Payment Issue,Rejected
+1493,21882,2024-03-07,40.75,Missing Item,Processed
+1494,21886,2026-06-01,403.01,Payment Issue,Rejected
+1495,21904,2025-12-27,205.78,Poor Food Quality,Approved
+1496,21929,2025-07-13,631.11,Incorrect Order,Requested
+1497,21952,2024-12-14,968.99,Poor Food Quality,Requested
+1498,21958,2023-12-27,564.26,Incorrect Order,Approved
+1499,21959,2025-10-16,357.64,Payment Issue,Processed
+1500,21966,2024-11-02,163.59,Delivery Delay,Requested
+1501,21974,2025-05-17,-409.66,Poor Food Quality,Approved
+1502,21978,2024-02-10,1025.26,Delivery Delay,Approved
+1503,22005,2024-04-05,338.18,Incorrect Order,Approved
+1504,22020,2023-12-23,226.77,Missing Item,Rejected
+1505,22046,2024-02-28,1221.36,Missing Item,Approved
+1506,22053,2024-05-10,1159.04,Payment Issue,Approved
+1507,22065,2025-06-27,795.66,Payment Issue,Approved
+1508,22072,2026-02-03,235.96,Missing Item,Processed
+1509,22088,2026-05-03,334.46,Delivery Delay,Approved
+1510,22104,2024-03-15,221.62,Poor Food Quality,Approved
+1511,22106,2024-07-19,386.55,Poor Food Quality,Approved
+1512,22115,2026-01-08,445.51,Poor Food Quality,Processed
+1513,22180,2025-01-31,1095.84,Incorrect Order,Approved
+1514,22185,2025-07-24,651.81,Incorrect Order,Approved
+1515,22193,2024-10-06,226.38,Incorrect Order,Processed
+1516,22204,2025-12-17,85.04,Delivery Delay,Approved
+1517,22212,2026-04-15,138.6,Payment Issue,Processed
+1518,22215,2026-03-25,28.73,Missing Item,Approved
+1519,22263,2025-03-22,305.15,Delivery Delay,Rejected
+1520,22272,2024-08-25,423.25,Missing Item,Processed
+1521,22291,2026-01-28,341.89,Poor Food Quality,Processed
+1522,22294,2025-09-10,776.27,Poor Food Quality,Processed
+1523,22302,2024-10-21,251.94,Incorrect Order,Approved
+1524,22308,2024-08-10,179.46,Payment Issue,Rejected
+1525,22335,2026-03-24,198.68,Incorrect Order,Rejected
+1526,22338,2024-03-11,245.21,Missing Item,Approved
+1527,22348,2026-01-15,552.08,Delivery Delay,Approved
+1528,22357,2024-06-11,322.61,Missing Item,Rejected
+1529,22369,2025-02-11,239.92,Payment Issue,Processed
+1530,22374,2025-05-18,1138.57,Delivery Delay,Requested
+1531,22379,2025-10-02,333.68,Missing Item,Processed
+1532,22390,2025-08-27,341.56,Missing Item,Processed
+1533,22394,2025-05-12,329.82,Missing Item,Requested
+1534,22416,2025-07-09,294.12,Incorrect Order,Requested
+1535,22419,2025-01-22,1334.35,Incorrect Order,Requested
+1536,22430,2024-01-07,450.4,Poor Food Quality,Approved
+1537,22431,2024-01-30,95.79,Delivery Delay,Approved
+1538,22459,2025-09-10,150.23,Missing Item,Requested
+1539,22495,2024-01-19,598.24,Payment Issue,Rejected
+1540,22496,2026-06-01,254.99,Delivery Delay,Processed
+1541,22497,2024-08-23,243.27,Payment Issue,Approved
+1542,22528,2024-05-18,670.8,Poor Food Quality,Approved
+1543,22531,2024-01-30,776.25,Incorrect Order,Rejected
+1544,22556,2025-12-18,1238.23,Incorrect Order,Processed
+1545,22558,2025-09-07,177.25,Missing Item,Processed
+1546,22592,2026-06-10,469.62,Delivery Delay,Approved
+1547,22610,2025-08-02,510.29,Missing Item,Approved
+1548,22647,2024-04-07,442.87,Delivery Delay,Approved
+1549,22656,2024-06-02,352.43,Delivery Delay,Rejected
+1550,22684,2025-11-27,416.62,Poor Food Quality,Rejected
+1551,22692,2024-11-13,105.99,Incorrect Order,Rejected
+1552,22699,2023-12-24,266.9,Payment Issue,Approved
+1553,22709,2025-01-24,146.0,Delivery Delay,Processed
+1554,22711,2025-06-28,286.4,Incorrect Order,Approved
+1555,22714,2024-03-21,378.54,Incorrect Order,Processed
+1556,22762,2024-08-05,827.71,Poor Food Quality,Rejected
+1557,22781,2025-07-24,1646.91,Missing Item,Requested
+1558,22784,2025-07-23,572.63,Incorrect Order,Requested
+1559,22797,2025-04-03,628.47,Poor Food Quality,Approved
+1560,22808,2024-06-24,1146.6,Payment Issue,Approved
+1561,22826,2024-03-10,1404.73,Missing Item,Processed
+1562,22836,2024-10-20,411.15,Poor Food Quality,Processed
+1563,22838,2024-08-24,95.54,Incorrect Order,Requested
+1564,22896,2024-02-28,144.47,Poor Food Quality,REQUESTED
+1565,22902,2025-01-25,663.78,Incorrect Order,Approved
+1566,22912,2025-01-03,474.27,Incorrect Order,Approved
+1567,22915,2025-12-18,417.9,Poor Food Quality,Processed
+1568,22923,2025-01-30,784.57,Delivery Delay,Processed
+1569,22931,2025-10-06,56.22,Incorrect Order,Processed
+1570,23008,2026-06-10,489.86,Payment Issue,Rejected
+1571,23019,2026-04-26,1153.17,Missing Item,Approved
+1572,23022,2024-04-24,228.3,Poor Food Quality,Approved
+1573,23059,2024-01-03,260.69,Missing Item,Approved
+1574,23064,2024-11-22,314.25,Missing Item,Processed
+1575,23077,2025-02-27,206.09,Missing Item,Approved
+1576,23088,2023-12-13,160.51,Payment Issue,Requested
+1577,23106,2024-07-06,1048.48,Poor Food Quality,Rejected
+1578,23128,2026-06-12,324.29,Payment Issue,Rejected
+1579,23137,2026-02-27,56.25,Poor Food Quality,Approved
+1580,23138,2025-08-16,325.65,Payment Issue,Processed
+1581,23141,2025-06-10,211.46,Delivery Delay,Processed
+1582,23149,2025-09-19,264.74,Incorrect Order,Processed
+1583,23182,2025-10-08,301.19,Delivery Delay,Approved
+1584,23193,2025-11-30,1018.71,Payment Issue,Requested
+1585,23200,2025-04-05,700.57,Missing Item,Processed
+1586,23202,2025-11-07,369.47,Delivery Delay,Rejected
+1587,23228,2025-12-15,130.78,Delivery Delay,Approved
+1588,23235,2024-03-15,121.38,Missing Item,Approved
+1589,23246,2024-11-27,144.06,Incorrect Order,Approved
+1590,23269,2024-02-22,126.91,Delivery Delay,Approved
+1591,23271,2024-08-08,64.8,Poor Food Quality,Processed
+1592,23277,2026-07-08,521.78,Payment Issue,Processed
+1593,23281,2025-03-03,1244.8,Incorrect Order,Processed
+1594,23287,2026-04-06,117.58,Poor Food Quality,Approved
+1595,23291,2025-09-22,171.14,Incorrect Order,Requested
+1596,23308,2026-02-07,1285.79,Payment Issue,Approved
+1597,23352,2025-03-03,832.77,Payment Issue,Processed
+1598,23369,2024-07-27,249.34,Missing Item,Requested
+1599,23370,2024-01-17,852.57,Incorrect Order,Approved
+1600,23372,2026-01-08,-478.9,Payment Issue,Approved
+1601,23378,2026-05-26,743.86,Delivery Delay,Requested
+1602,23399,2024-11-24,892.27,Incorrect Order,Approved
+1603,23424,2024-03-10,470.77,Payment Issue,Approved
+1604,23458,2025-06-26,1125.31,Payment Issue,APPROVED
+1605,23461,2025-11-16,872.93,Payment Issue,Requested
+1606,23465,2024-03-06,102.46,Delivery Delay,Processed
+1607,23466,2024-09-29,487.43,Incorrect Order,Requested
+1608,23484,2025-11-20,525.47,Delivery Delay,Rejected
+1609,23529,2024-03-28,893.56,Delivery Delay,Approved
+1610,23530,2024-12-07,305.36,Incorrect Order,Rejected
+1611,23533,2025-06-18,1067.25,Poor Food Quality,Processed
+1612,23543,2026-02-09,44.5,Delivery Delay,Processed
+1613,23544,2025-03-04,342.09,Poor Food Quality,Processed
+1614,23552,2026-03-03,537.77,Delivery Delay,Processed
+1615,23563,2024-11-19,560.36,Missing Item,Requested
+1616,23577,2024-06-06,370.13,Poor Food Quality,Approved
+1617,23579,2026-06-07,961.02,Incorrect Order,Approved
+1618,23589,2025-02-26,1555.21,Delivery Delay,Rejected
+1619,23607,2024-03-11,291.25,Missing Item,Processed
+1620,23670,2026-05-24,252.93,Delivery Delay,Approved
+1621,23675,2025-03-12,793.7,Incorrect Order,Approved
+1622,23687,2024-03-28,304.19,Delivery Delay,Rejected
+1623,23696,2025-03-27,207.58,Incorrect Order,Processed
+1624,23724,2024-08-23,929.78,Missing Item,Requested
+1625,23728,2025-01-05,413.25,Incorrect Order,Approved
+1626,23770,2024-08-23,85.09,Payment Issue,Requested
+1627,23777,2025-11-14,504.39,Delivery Delay,Processed
+1628,23784,2024-03-03,986.27,Incorrect Order,Rejected
+1629,23829,2024-08-13,232.53,Delivery Delay,Approved
+1630,23857,2024-09-08,588.07,Poor Food Quality,Requested
+1631,23898,2025-04-12,1480.87,Poor Food Quality,Requested
+1632,23910,2023-12-10,350.63,Payment Issue,Rejected
+1633,23913,2024-07-24,80.24,Delivery Delay,Requested
+1634,23916,2024-02-10,629.04,Payment Issue,Rejected
+1635,23917,2024-08-26,739.3,Poor Food Quality,Rejected
+1636,23920,2024-12-06,228.99,Incorrect Order,Processed
+1637,23921,2026-02-04,952.13,Poor Food Quality,Approved
+1638,23927,2026-07-23,560.22,Delivery Delay,Approved
+1639,23938,2026-05-12,379.51,Payment Issue,Approved
+1640,23940,2024-05-28,683.31,Delivery Delay,Approved
+1641,23960,2026-08-02,1037.32,Delivery Delay,Approved
+1642,23967,2024-01-28,276.92,Delivery Delay,Approved
+1643,23990,2026-03-23,824.74,Poor Food Quality,Approved
+1644,24013,2024-03-15,1167.07,Incorrect Order,Rejected
+1645,24015,2024-05-07,409.55,Missing Item,Approved
+1646,24044,2025-05-11,868.44,Delivery Delay,Approved
+1647,24079,2024-03-12,1060.1,Poor Food Quality,Processed
+1648,24086,2026-04-13,950.23,Incorrect Order,Processed
+1649,24107,2024-02-27,577.16,Incorrect Order,Approved
+1650,24113,2026-03-19,343.91,Missing Item,Approved
+1651,24117,2024-12-22,188.72,Payment Issue,Processed
+1652,24131,2026-07-28,1142.08,Incorrect Order,Requested
+1653,24133,2024-04-20,422.56,Missing Item,Processed
+1654,24147,2025-08-27,184.35,Missing Item,Processed
+1655,24149,2024-09-29,272.66,Delivery Delay,Processed
+1656,24152,2024-07-31,3345.69,Delivery Delay,Processed
+1657,24196,2025-06-14,677.53,Missing Item,Approved
+1658,24224,2026-02-02,32.91,Delivery Delay,Processed
+1659,24225,2025-09-08,553.09,Poor Food Quality,Rejected
+1660,24230,2024-10-18,354.13,Missing Item,Processed
+1661,24245,2026-07-22,809.97,Incorrect Order,Rejected
+1662,24246,2026-07-19,788.83,Payment Issue,Processed
+1663,24251,2024-10-22,998.02,Poor Food Quality,Rejected
+1664,24266,2026-02-13,269.39,Payment Issue,Rejected
+1665,24278,2025-04-09,64.48,Missing Item,Processed
+1666,24304,2026-01-04,75.18,Missing Item,Approved
+1667,24326,2025-01-26,863.78,Delivery Delay,Processed
+1668,24329,2025-12-04,350.59,Missing Item,Requested
+1669,24347,2024-09-01,116.01,Delivery Delay,Processed
+1670,24384,2024-04-11,454.11,Payment Issue,Processed
+1671,24402,2025-07-07,312.51,Delivery Delay,Processed
+1672,24409,2025-11-20,428.09,Incorrect Order,Approved
+1673,24417,2026-04-21,272.56,Missing Item,Processed
+1674,24423,2024-04-01,1616.53,Poor Food Quality,Approved
+1675,24440,2025-10-26,570.47,Incorrect Order,Processed
+1676,24446,2024-01-23,710.85,Missing Item,Processed
+1677,24449,2026-07-06,158.69,Delivery Delay,Requested
+1678,24451,2026-05-10,698.48,Payment Issue,Approved
+1679,24454,2023-12-10,208.75,Missing Item,Approved
+1680,24456,2025-02-11,918.34,Delivery Delay,Processed
+1681,24458,2024-07-19,244.44,Poor Food Quality,Approved
+1682,24479,2025-12-04,995.33,Missing Item,Approved
+1683,24494,2024-12-10,470.76,Poor Food Quality,Approved
+1684,24508,2025-03-23,294.89,Poor Food Quality,Approved
+1685,24510,2024-02-10,1457.81,Poor Food Quality,Processed
+1686,24538,2024-09-07,75.2,Poor Food Quality,Approved
+1687,24540,2026-07-13,473.33,Delivery Delay,Requested
+1688,24580,2024-01-22,2443.61,Poor Food Quality,Processed
+1689,24587,2024-08-11,1461.69,Incorrect Order,Processed
+1690,24620,2024-01-30,246.71,Incorrect Order,Requested
+1691,24643,2024-01-23,1160.05,Delivery Delay,Approved
+1692,24646,2025-03-09,458.27,Payment Issue,Rejected
+1693,24671,2025-06-04,275.83,Payment Issue,Processed
+1694,24680,2024-07-20,193.56,Delivery Delay,Requested
+1695,24689,2024-08-20,352.64,Payment Issue,Processed
+1696,24703,2026-06-15,241.11,Poor Food Quality,Rejected
+1697,24709,2025-10-12,54.1,Missing Item,Approved
+1698,24725,2024-03-03,461.94,Missing Item,Rejected
+1699,24731,2026-07-03,152.44,Missing Item,Processed
+1700,24751,2025-03-01,98.04,Delivery Delay,Approved
+1701,24756,2024-06-05,143.28,Poor Food Quality,Processed
+1702,24786,2025-11-24,108.86,Incorrect Order,Rejected
+1703,24807,2026-04-12,445.97,Incorrect Order,Processed
+1704,24811,2025-02-03,1163.25,Delivery Delay,Processed
+1705,24816,2024-06-23,1079.66,Incorrect Order,Processed
+1706,24832,2025-06-17,861.86,Missing Item,Rejected
+1707,24870,2026-05-05,122.54,Delivery Delay,Approved
+1708,24878,2024-02-08,350.96,Incorrect Order,Approved
+1709,24883,2025-10-12,1234.9,Payment Issue,Requested
+1710,24885,2025-04-30,217.94,Poor Food Quality,PROCESSED
+1711,24894,2024-11-03,1290.08,Payment Issue,Rejected
+1712,24905,2024-05-11,584.91,Payment Issue,Rejected
+1713,24922,2025-05-01,284.8,Poor Food Quality,Approved
+1714,24937,2025-02-17,522.37,Missing Item,Requested
+1715,24945,2026-02-12,1222.33,Missing Item,Processed
+1716,24967,2025-09-14,142.69,Missing Item,Requested
+1717,24973,2024-07-28,743.91,Payment Issue,Rejected
+1718,24984,2026-06-18,424.18,Poor Food Quality,Requested
+1719,24993,2025-05-10,965.13,Incorrect Order,Rejected
+1720,24998,2024-01-17,240.99,Payment Issue,Approved
+1721,25007,2026-04-14,69.2,Poor Food Quality,Approved
+1722,25028,2024-11-23,226.96,Payment Issue,Processed
+1723,25076,2024-01-18,274.55,Payment Issue,Processed
+1724,25082,2025-01-13,562.44,Delivery Delay,Approved
+1725,25087,2025-02-03,166.69,Poor Food Quality,Approved
+1726,25101,2025-02-21,475.14,Payment Issue,Approved
+1727,25106,2025-06-03,398.0,Missing Item,Requested
+1728,25115,2024-05-04,613.44,Poor Food Quality,Processed
+1729,25117,2025-07-04,1147.19,Missing Item,processed
+1730,25121,2026-04-01,350.29,Poor Food Quality,Processed
+1731,25136,2026-03-04,465.67,Poor Food Quality,Processed
+1732,25163,2024-07-18,838.98,Incorrect Order,Processed
+1733,25170,2025-06-04,-396.4,Delivery Delay,Processed
+1734,25178,2024-05-19,348.03,Payment Issue,APPROVED
+1735,25182,2025-01-30,1455.78,Delivery Delay,Approved
+1736,25193,2026-04-13,595.68,Missing Item,PROCESSED
+1737,25223,2024-05-06,519.31,Incorrect Order,Approved
+1738,25232,2024-10-06,363.88,Missing Item,Processed
+1739,25234,2025-10-29,614.79,Incorrect Order,Rejected
+1740,25246,2025-04-29,227.19,Poor Food Quality,Approved
+1741,25261,2026-04-22,283.78,Poor Food Quality,Approved
+1742,25270,2024-01-30,867.05,Incorrect Order,Requested
+1743,25277,2026-06-11,93.86,Payment Issue,Approved
+1744,25278,2025-01-22,47.7,Payment Issue,Rejected
+1745,25303,2025-09-22,287.43,Delivery Delay,Processed
+1746,25305,2026-04-03,534.41,Payment Issue,Rejected
+1747,25344,2025-06-12,212.62,Incorrect Order,Processed
+1748,25371,2026-06-24,575.72,Payment Issue,Processed
+1749,25378,2025-06-25,1597.06,Payment Issue,Processed
+1750,25386,2024-01-29,41.38,Delivery Delay,Processed
+1751,25388,2025-07-10,1399.35,Delivery Delay,Rejected
+1752,25406,2025-10-08,1253.11,Missing Item,Approved
+1753,25420,2026-06-29,650.86,Payment Issue,Requested
+1754,25463,2024-03-06,916.11,Poor Food Quality,Approved
+1755,25469,2024-05-06,127.61,Delivery Delay,Rejected
+1756,25476,2025-11-10,897.77,Missing Item,Requested
+1757,25498,2025-02-19,614.39,Incorrect Order,Processed
+1758,25503,2025-02-01,953.56,Payment Issue,Rejected
+1759,25507,2025-04-05,300.38,Delivery Delay,Processed
+1760,25530,2024-06-17,943.6,Missing Item,Approved
+1761,25531,2024-03-18,1804.38,Incorrect Order,Requested
+1762,25540,2024-05-23,836.1,Delivery Delay,Rejected
+1763,25551,2025-01-19,396.38,Incorrect Order,Requested
+1764,25585,2024-09-08,64.07,Poor Food Quality,Approved
+1765,25597,2025-08-22,311.4,Poor Food Quality,Processed
+1766,25608,2024-09-29,515.46,Poor Food Quality,Processed
+1767,25612,2025-03-16,178.33,Poor Food Quality,Approved
+1768,25645,2024-07-17,1042.4,Delivery Delay,Approved
+1769,25652,2023-12-11,1093.86,Missing Item,Approved
+1770,25664,2024-01-27,203.41,Incorrect Order,Processed
+1771,25686,2026-07-21,1131.9,Poor Food Quality,Requested
+1772,25692,2025-11-13,358.98,Delivery Delay,Requested
+1773,25707,2024-09-10,865.6,Poor Food Quality,Processed
+1774,25761,2023-12-30,270.49,Delivery Delay,Rejected
+1775,25767,2025-05-15,180.57,Missing Item,Processed
+1776,25816,2025-12-25,620.32,Missing Item,Approved
+1777,25819,2025-10-31,357.23,Incorrect Order,Processed
+1778,25820,2026-04-27,969.45,Missing Item,Rejected
+1779,25834,2024-01-17,153.3,Incorrect Order,Approved
+1780,25850,2024-08-03,782.42,Poor Food Quality,Processed
+1781,25881,2026-03-14,87.54,Incorrect Order,Rejected
+1782,25886,2024-04-17,43.59,Poor Food Quality,Rejected
+1783,25893,2023-12-15,545.23,Missing Item,Processed
+1784,25906,2025-07-09,186.22,Missing Item,Approved
+1785,25911,2024-07-04,388.19,Missing Item,Processed
+1786,25922,2024-09-27,68.17,Poor Food Quality,Rejected
+1787,25949,2025-03-25,1653.12,Poor Food Quality,Rejected
+1788,25955,2025-07-19,616.45,Poor Food Quality,Processed
+1789,25958,2025-09-22,375.6,Delivery Delay,Requested
+1790,25964,2024-08-05,229.17,Incorrect Order,Processed
+1791,25975,2026-02-22,558.55,Missing Item,Approved
+1792,25985,2024-11-24,315.32,Incorrect Order,Requested
+1793,26001,2024-05-08,461.98,Missing Item,Approved
+1794,26040,2025-05-03,337.08,Missing Item,Approved
+1795,26044,2026-02-22,59.46,Delivery Delay,Requested
+1796,26056,2024-10-11,847.25,Incorrect Order,Processed
+1797,26063,2025-09-14,794.34,Missing Item,Approved
+1798,26070,2026-07-28,725.37,Payment Issue,Processed
+1799,26076,2024-08-13,1653.61,Delivery Delay,Processed
+1800,26101,2025-06-11,1465.77,Delivery Delay,Processed
+1801,26110,2026-02-23,209.99,Payment Issue,Approved
+1802,26116,2023-12-19,1951.5,Incorrect Order,Processed
+1803,26120,2025-12-13,325.52,Incorrect Order,Rejected
+1804,26154,2025-01-16,989.93,Payment Issue,Processed
+1805,26161,2023-12-18,555.4,Incorrect Order,Requested
+1806,26164,2025-12-31,282.16,Delivery Delay,Processed
+1807,26215,2024-02-13,127.54,Poor Food Quality,Approved
+1808,26219,2026-07-07,547.48,Poor Food Quality,Approved
+1809,26240,2025-06-02,319.84,Payment Issue,Processed
+1810,26262,2026-04-11,705.84,Missing Item,Processed
+1811,26267,2025-06-21,670.3,Poor Food Quality,Rejected
+1812,26291,2025-02-22,1088.54,Incorrect Order,Rejected
+1813,26303,2025-02-01,119.27,Payment Issue,Approved
+1814,26310,2026-02-07,1190.68,Poor Food Quality,Requested
+1815,26318,2024-06-17,1343.67,Payment Issue,Approved
+1816,26332,2025-06-09,294.58,Missing Item,Approved
+1817,26342,2026-04-18,760.58,Incorrect Order,Requested
+1818,26347,2026-07-15,62.51,Incorrect Order,Processed
+1819,26378,2026-07-22,162.28,Poor Food Quality,Rejected
+1820,26379,2024-12-09,1132.63,Missing Item,Approved
+1821,26417,2024-04-20,453.18,Poor Food Quality,Rejected
+1822,26419,2025-01-29,46.23,Delivery Delay,Approved
+1823,26434,2025-06-06,324.5,Payment Issue,Rejected
+1824,26437,2024-10-27,874.96,Poor Food Quality,Processed
+1825,26441,2025-09-11,1501.64,Incorrect Order,Approved
+1826,26450,2025-01-05,1363.65,Poor Food Quality,Approved
+1827,26457,2025-03-09,459.0,Payment Issue,Processed
+1828,26495,2026-07-15,222.44,Payment Issue,Approved
+1829,26527,2024-01-16,1477.56,Incorrect Order,Approved
+1830,26530,2025-02-17,306.34,Missing Item,Approved
+1831,26536,2025-06-07,203.41,Payment Issue,Requested
+1832,26544,2024-09-24,98.35,Payment Issue,Requested
+1833,26583,2025-10-01,56.21,Poor Food Quality,Rejected
+1834,26593,2025-11-15,634.52,Poor Food Quality,Rejected
+1835,26599,2025-08-10,266.35,Missing Item,Requested
+1836,26623,2025-11-12,215.64,Incorrect Order,Rejected
+1837,26645,2026-01-26,992.44,Poor Food Quality,Processed
+1838,26690,2024-04-20,607.05,Incorrect Order,Approved
+1839,26699,2025-08-20,170.39,Missing Item,Requested
+1840,26740,2024-02-28,1120.75,Missing Item,Approved
+1841,26741,2025-01-11,331.21,Poor Food Quality,Rejected
+1842,26769,2025-04-23,599.64,Poor Food Quality,Processed
+1843,26793,2025-01-03,361.59,Missing Item,Processed
+1844,26817,2024-08-13,2164.76,Poor Food Quality,Approved
+1845,26831,2024-11-03,979.64,Poor Food Quality,Requested
+1846,26843,2026-04-26,460.83,Delivery Delay,Approved
+1847,26850,2026-05-19,88.93,Missing Item,Processed
+1848,26853,2025-09-16,289.84,Missing Item,Rejected
+1849,26875,2024-08-25,1542.98,Incorrect Order,Rejected
+1850,26881,2025-04-16,206.68,Incorrect Order,Processed
+1851,26888,2024-10-23,125.22,Incorrect Order,Processed
+1852,26892,2026-04-15,588.47,Delivery Delay,Approved
+1853,26908,2025-04-28,582.36,Poor Food Quality,Approved
+1854,26919,2023-12-23,200.53,Poor Food Quality,Processed
+1855,26922,2024-04-16,717.01,Poor Food Quality,Processed
+1856,26925,2024-09-17,944.52,Payment Issue,Rejected
+1857,26937,2024-03-30,182.81,Delivery Delay,Approved
+1858,26963,2024-08-24,384.61,Poor Food Quality,Approved
+1859,26980,2024-12-19,1123.8,Delivery Delay,Processed
+1860,26995,2024-07-11,522.22,Incorrect Order,Approved
+1861,27003,2024-08-10,636.64,Payment Issue,Processed
+1862,27006,2025-04-24,804.85,Payment Issue,Rejected
+1863,27009,2024-01-15,473.79,Delivery Delay,Requested
+1864,27025,2025-10-13,902.34,Missing Item,Requested
+1865,27039,2024-01-30,598.34,Delivery Delay,Approved
+1866,27052,2024-06-17,838.16,Delivery Delay,Processed
+1867,27073,2025-07-01,222.82,Payment Issue,Approved
+1868,27082,2024-11-03,1236.5,Missing Item,Approved
+1869,27093,2024-12-16,760.11,Missing Item,Approved
+1870,27100,2024-12-12,1013.41,Delivery Delay,Requested
+1871,27126,2025-09-10,154.13,Missing Item,Approved
+1872,27136,2026-04-15,357.45,Delivery Delay,Requested
+1873,27137,2025-07-20,478.66,Incorrect Order,Rejected
+1874,27142,2025-09-13,652.98,Missing Item,Approved
+1875,27225,2024-10-08,1313.98,Payment Issue,Rejected
+1876,27245,2024-07-24,653.68,Payment Issue,Requested
+1877,27252,2026-08-16,573.02,Poor Food Quality,Approved
+1878,27302,2025-12-15,154.45,Poor Food Quality,Processed
+1879,27307,2025-12-23,188.23,Missing Item,Rejected
+1880,27308,2025-05-02,355.95,Missing Item,Processed
+1881,27350,2024-07-27,769.07,Delivery Delay,Processed
+1882,27384,2025-09-25,655.72,Payment Issue,Processed
+1883,27386,2024-05-02,344.64,Payment Issue,Approved
+1884,27396,2025-08-18,367.55,Missing Item,Processed
+1885,27411,2024-08-25,459.09,Delivery Delay,Approved
+1886,27439,2025-12-21,570.15,Poor Food Quality,Processed
+1887,27450,2026-05-18,472.06,Payment Issue,Approved
+1888,27460,2023-12-24,-238.99,Payment Issue,Rejected
+1889,27462,2024-02-16,242.91,Missing Item,Processed
+1890,27474,2026-06-01,743.78,Missing Item,Rejected
+1891,27475,2025-08-26,250.63,Poor Food Quality,Approved
+1892,27479,2025-01-06,857.94,Missing Item,Processed
+1893,27483,2026-04-23,550.0,Incorrect Order,Approved
+1894,27485,2024-05-08,277.18,Incorrect Order,Approved
+1895,27507,2026-04-16,201.58,Payment Issue,Approved
+1896,27509,2024-06-03,555.1,Missing Item,Approved
+1897,27516,2025-09-14,691.61,Incorrect Order,Processed
+1898,27539,2024-06-04,150.04,Missing Item,Rejected
+1899,27559,2024-04-17,384.02,Delivery Delay,Approved
+1900,27582,2024-09-10,-148.23,Incorrect Order,Approved
+1901,27619,2026-02-16,121.1,Incorrect Order,Approved
+1902,27626,2025-10-08,1039.98,Poor Food Quality,Processed
+1903,27654,2023-12-14,1167.71,Payment Issue,Approved
+1904,27655,2025-01-09,364.1,Incorrect Order,Approved
+1905,27666,2023-12-14,900.92,Missing Item,Processed
+1906,27682,2025-02-24,45.35,Poor Food Quality,Approved
+1907,27691,2024-01-14,610.81,Delivery Delay,Processed
+1908,27699,2024-06-10,325.45,Poor Food Quality,Approved
+1909,27732,2026-07-09,111.25,Payment Issue,Requested
+1910,27760,2025-10-08,231.38,Payment Issue,Approved
+1911,27768,2024-01-02,716.75,Incorrect Order,Approved
+1912,27779,2024-06-07,1777.35,Poor Food Quality,Approved
+1913,27810,2024-04-16,1597.03,Missing Item,Processed
+1914,27814,2026-06-20,1241.84,Delivery Delay,Approved
+1915,27825,2026-02-16,397.14,Delivery Delay,Rejected
+1916,27827,2024-01-18,333.11,Delivery Delay,Approved
+1917,27838,2024-03-21,560.93,Payment Issue,Processed
+1918,27860,2026-03-04,933.96,Delivery Delay,Processed
+1919,27862,2026-08-22,410.81,Poor Food Quality,Processed
+1920,27883,2025-08-27,-953.27,Payment Issue,Processed
+1921,27895,2024-06-30,164.24,Poor Food Quality,Rejected
+1922,27900,2025-12-04,206.01,Payment Issue,Processed
+1923,27918,2024-06-21,81.82,Incorrect Order,Rejected
+1924,27920,2026-02-09,730.19,Missing Item,Processed
+1925,27923,2026-02-20,641.39,Delivery Delay,Processed
+1926,27929,2025-10-27,74.33,Poor Food Quality,Approved
+1927,27943,2024-03-18,814.65,Delivery Delay,Rejected
+1928,27952,2026-02-13,399.32,Delivery Delay,Processed
+1929,27969,2026-07-11,168.78,Poor Food Quality,Approved
+1930,27971,2026-07-28,741.3,Payment Issue,Processed
+1931,27972,2025-07-21,257.02,Incorrect Order,Approved
+1932,27975,2026-07-17,640.29,Poor Food Quality,Processed
+1933,27978,2026-05-03,623.64,Payment Issue,Approved
+1934,27990,2024-09-16,90.46,Poor Food Quality,Requested
+1935,27998,2026-06-04,1346.34,Payment Issue,Approved
+1936,28007,2024-10-01,1050.1,Payment Issue,Requested
+1937,28054,2025-12-21,648.09,Incorrect Order,Rejected
+1938,28063,2024-11-25,504.75,Payment Issue,Rejected
+1939,28085,2025-02-20,929.26,Incorrect Order,Rejected
+1940,28092,2025-04-22,587.88,Poor Food Quality,Processed
+1941,28098,2024-12-24,643.31,Incorrect Order,Processed
+1942,28136,2026-04-17,570.19,Delivery Delay,Processed
+1943,28151,2025-08-26,125.43,Missing Item,Approved
+1944,28160,2025-12-05,393.66,Incorrect Order,Processed
+1945,28163,2024-04-04,492.6,Incorrect Order,Rejected
+1946,28170,2025-06-19,207.52,Payment Issue,Approved
+1947,28179,2024-05-23,755.31,Poor Food Quality,Requested
+1948,28200,2025-11-08,26.73,Incorrect Order,Rejected
+1949,28230,2024-08-15,211.27,Delivery Delay,Processed
+1950,28244,2026-01-30,2269.92,Incorrect Order,Processed
+1951,28247,2024-06-16,442.24,Poor Food Quality,Processed
+1952,28251,2025-06-26,950.37,Poor Food Quality,Approved
+1953,28255,2026-02-16,807.53,Missing Item,Rejected
+1954,28261,2024-06-16,124.29,Delivery Delay,Rejected
+1955,28274,2025-07-07,1326.24,Poor Food Quality,Approved
+1956,28278,2026-03-30,39.15,Poor Food Quality,Rejected
+1957,28298,2024-06-21,409.72,Incorrect Order,Processed
+1958,28311,2024-01-10,47.23,Missing Item,Processed
+1959,28443,2026-07-05,336.11,Poor Food Quality,Requested
+1960,28448,2024-12-25,330.34,Poor Food Quality,Processed
+1961,28464,2025-05-22,1346.83,Missing Item,Processed
+1962,28494,2024-12-27,88.52,Payment Issue,Rejected
+1963,28496,2024-12-19,1407.86,Poor Food Quality,Rejected
+1964,28498,2026-03-29,553.53,Delivery Delay,Processed
+1965,28513,2025-03-16,211.32,Payment Issue,Approved
+1966,28530,2025-03-17,285.62,Incorrect Order,Approved
+1967,28562,2025-02-21,28.42,Incorrect Order,Approved
+1968,28563,2025-12-02,997.57,Incorrect Order,Approved
+1969,28600,2024-02-03,781.98,Poor Food Quality,Processed
+1970,28635,2026-03-08,748.1,Missing Item,rejected
+1971,28643,2026-05-10,416.23,Missing Item,Processed
+1972,28667,2025-05-27,72.01,Delivery Delay,Approved
+1973,28689,2024-03-20,347.36,Incorrect Order,Requested
+1974,28699,2024-12-31,512.3,Delivery Delay,Rejected
+1975,28706,2025-06-14,447.17,Missing Item,Approved
+1976,28742,2024-05-21,511.95,Missing Item,Approved
+1977,28749,2026-07-22,518.07,Missing Item,Approved
+1978,28750,2025-10-06,1231.97,Incorrect Order,Rejected
+1979,28816,2024-10-06,155.07,Missing Item,Requested
+1980,28817,2025-04-28,128.0,Delivery Delay,Rejected
+1981,28827,2024-10-13,126.82,Incorrect Order,Requested
+1982,28873,2026-08-13,134.13,Missing Item,Processed
+1983,28902,2024-01-21,912.18,Poor Food Quality,Processed
+1984,28926,2025-05-23,730.31,Delivery Delay,Processed
+1985,28931,2024-01-03,37.45,Delivery Delay,Approved
+1986,28939,2024-01-03,557.53,Incorrect Order,Processed
+1987,28951,2026-01-04,223.45,Payment Issue,Approved
+1988,28968,2025-03-23,955.2,Delivery Delay,Approved
+1989,28974,2026-03-07,466.67,Incorrect Order,Approved
+1990,28988,2026-06-11,294.84,Poor Food Quality,Processed
+1991,29022,2025-09-11,901.41,Poor Food Quality,Processed
+1992,29033,2024-08-04,1396.78,Missing Item,Approved
+1993,29044,2026-07-04,134.83,Missing Item,Rejected
+1994,29048,2024-06-13,210.31,Delivery Delay,Requested
+1995,29053,2025-12-02,656.25,Poor Food Quality,Processed
+1996,29062,2025-10-28,1354.02,Missing Item,Approved
+1997,29067,2025-02-25,399.46,Poor Food Quality,Approved
+1998,29123,2024-10-20,737.97,Delivery Delay,Processed
+1999,29153,2025-05-15,330.42,Poor Food Quality,Processed
+2000,29180,2024-07-16,76.79,Missing Item,Approved
+2001,29192,2024-04-28,943.44,Missing Item,Requested
+2002,29196,2024-12-04,380.66,Delivery Delay,Approved
+2003,29219,2024-01-02,722.67,Payment Issue,Approved
+2004,29221,2025-04-16,1185.53,Delivery Delay,Approved
+2005,29229,2025-02-24,144.65,Payment Issue,Approved
+2006,29240,2026-08-02,1157.02,Delivery Delay,Processed
+2007,29256,2024-11-05,1774.62,Delivery Delay,Processed
+2008,29288,2026-04-11,852.21,Payment Issue,Processed
+2009,29289,2024-05-24,96.49,Delivery Delay,Processed
+2010,29312,2026-02-05,1011.29,Delivery Delay,Approved
+2011,29326,2025-11-16,197.05,Incorrect Order,Approved
+2012,29335,2025-03-24,813.23,Missing Item,Approved
+2013,29355,2025-09-24,630.22,Payment Issue,Processed
+2014,29363,2026-06-14,700.8,Missing Item,Processed
+2015,29371,2026-04-18,-277.99,Missing Item,Processed
+2016,29382,2025-12-28,276.93,Incorrect Order,Approved
+2017,29395,2025-01-18,296.86,Missing Item,Approved
+2018,29418,2025-06-26,1569.05,Missing Item,Requested
+2019,29420,2024-09-01,784.89,Delivery Delay,Rejected
+2020,29425,2025-06-02,71.73,Poor Food Quality,Processed
+2021,29431,2024-07-27,145.92,Incorrect Order,Approved
+2022,29456,2024-01-04,486.13,Missing Item,Rejected
+2023,29469,2025-02-14,1697.9,Delivery Delay,Rejected
+2024,29501,2026-08-02,495.69,Poor Food Quality,Requested
+2025,29510,2025-03-20,617.75,Incorrect Order,Rejected
+2026,29514,2024-08-16,1274.88,Poor Food Quality,Processed
+2027,29519,2025-06-16,1026.65,Incorrect Order,Processed
+2028,29533,2026-05-24,131.85,Delivery Delay,Approved
+2029,29544,2024-06-30,285.77,Payment Issue,Approved
+2030,29548,2024-10-21,427.54,Delivery Delay,Rejected
+2031,29573,2026-06-26,363.91,Incorrect Order,Requested
+2032,29593,2026-01-05,39.46,Incorrect Order,Rejected
+2033,29597,2026-06-21,263.81,Poor Food Quality,Rejected
+2034,29608,2024-08-03,432.17,Delivery Delay,Processed
+2035,29620,2026-08-06,2072.32,Missing Item,Requested
+2036,29652,2024-07-22,848.21,Poor Food Quality,Approved
+2037,29661,2024-06-21,564.62,Delivery Delay,Processed
+2038,29682,2024-01-30,424.51,Poor Food Quality,Approved
+2039,29692,2024-05-18,363.8,Payment Issue,Approved
+2040,29701,2023-12-11,453.77,Poor Food Quality,Approved
+2041,29744,2024-08-29,827.48,Delivery Delay,Approved
+2042,29750,2025-08-30,465.51,Payment Issue,Requested
+2043,29771,2025-07-18,224.19,Payment Issue,Approved
+2044,29782,2025-07-01,678.61,Poor Food Quality,Approved
+2045,29787,2024-12-18,1935.12,Missing Item,Approved
+2046,29887,2024-02-13,253.17,Missing Item,Approved
+2047,29936,2024-05-02,341.99,Delivery Delay,Approved
+2048,29940,2024-05-16,45.84,Payment Issue,Approved
+2049,29954,2025-12-06,690.84,Payment Issue,Processed
+2050,29963,2024-01-13,778.59,Payment Issue,Approved
+2051,29968,2024-03-24,455.28,Delivery Delay,Rejected
+2052,29971,2024-03-31,446.92,Missing Item,Approved
+2053,29975,2024-10-10,248.12,Poor Food Quality,Processed
+2054,30024,2026-04-09,152.44,Incorrect Order,Processed
+2055,30054,2025-12-22,270.39,Incorrect Order,Processed
+2056,30059,2025-02-13,842.09,Incorrect Order,Processed
+2057,30063,2024-01-06,215.73,Incorrect Order,Processed
+2058,30065,2026-04-27,684.71,Delivery Delay,Processed
+2059,30077,2025-08-31,125.03,Incorrect Order,Approved
+2060,30089,2024-01-28,1175.25,Payment Issue,Approved
+2061,30094,2024-12-01,583.97,Missing Item,Approved
+2062,30123,2025-08-14,165.67,Delivery Delay,Requested
+2063,30175,2025-11-23,1268.27,Missing Item,Approved
+2064,30211,2026-01-26,628.44,Poor Food Quality,Processed
+2065,30216,2025-06-02,1533.17,Delivery Delay,Rejected
+2066,30238,2026-05-30,456.13,Poor Food Quality,Requested
+2067,30259,2024-10-15,204.42,Missing Item,Processed
+2068,30280,2025-12-20,267.19,Missing Item,Rejected
+2069,30298,2025-03-25,731.24,Payment Issue,Requested
+2070,30316,2024-05-22,46.39,Poor Food Quality,Approved
+2071,30355,2026-04-12,1374.28,Incorrect Order,Requested
+2072,30361,2024-07-16,68.36,Poor Food Quality,Approved
+2073,30379,2025-05-17,100.4,Payment Issue,Approved
+2074,30388,2026-01-08,278.51,Missing Item,Processed
+2075,30391,2025-09-09,382.16,Poor Food Quality,Approved
+2076,30427,2024-12-22,772.58,Incorrect Order,Processed
+2077,30485,2024-03-15,514.9,Incorrect Order,Approved
+2078,30492,2026-04-08,56.27,Missing Item,Requested
+2079,30507,2025-10-14,1032.96,Poor Food Quality,Rejected
+2080,30538,2026-02-14,685.1,Payment Issue,Rejected
+2081,30555,2026-05-21,434.58,Delivery Delay,Approved
+2082,30581,2025-07-25,42.39,Delivery Delay,PROCESSED
+2083,30598,2024-10-22,72.28,Poor Food Quality,Approved
+2084,30603,2025-08-26,108.38,Missing Item,Approved
+2085,30622,2025-09-30,64.3,Payment Issue,Requested
+2086,30625,2024-12-26,837.13,Poor Food Quality,Requested
+2087,30626,2024-03-06,137.06,Delivery Delay,Processed
+2088,30631,2025-08-02,1170.85,Payment Issue,Approved
+2089,30663,2025-05-17,1109.76,Poor Food Quality,Processed
+2090,30679,2025-09-15,707.63,Payment Issue,Approved
+2091,30691,2024-05-09,402.77,Poor Food Quality,Approved
+2092,30704,2024-05-05,205.58,Incorrect Order,Approved
+2093,30719,2025-02-24,1958.21,Missing Item,Rejected
+2094,30722,2026-03-18,793.67,Incorrect Order,Approved
+2095,30735,2023-12-14,386.14,Poor Food Quality,Requested
+2096,30754,2026-06-02,1041.17,Payment Issue,Requested
+2097,30756,2024-10-15,120.15,Missing Item,Approved
+2098,30764,2026-01-27,844.47,Payment Issue,Processed
+2099,30775,2026-02-12,791.9,Poor Food Quality,Approved
+2100,30807,2025-08-24,298.51,Missing Item,Processed
+2101,30854,2024-03-09,772.59,Incorrect Order,Requested
+2102,30857,2025-07-08,946.3,Payment Issue,Approved
+2103,30865,2025-04-12,426.73,Incorrect Order,Processed
+2104,30870,2025-03-23,365.91,Delivery Delay,Rejected
+2105,30883,2024-03-26,363.68,Incorrect Order,Approved
+2106,30884,2026-06-11,142.52,Payment Issue,Approved
+2107,30887,2023-12-21,165.93,Incorrect Order,Processed
+2108,30890,2024-05-13,558.04,Poor Food Quality,Approved
+2109,30907,2026-07-16,-458.27,Payment Issue,Requested
+2110,30913,2024-07-17,789.79,Missing Item,Processed
+2111,30933,2025-04-26,105.58,Missing Item,Approved
+2112,30945,2026-05-29,857.66,Poor Food Quality,Processed
+2113,30970,2025-11-28,858.66,Incorrect Order,Rejected
+2114,30974,2024-07-28,143.45,Missing Item,Approved
+2115,30990,2024-01-01,72.45,Incorrect Order,Rejected
+2116,30992,2025-07-02,273.86,Incorrect Order,Processed
+2117,31035,2025-03-13,242.44,Payment Issue,Rejected
+2118,31037,2025-10-02,337.55,Incorrect Order,Processed
+2119,31038,2025-04-25,418.08,Payment Issue,Approved
+2120,31046,2025-07-05,238.25,Missing Item,Rejected
+2121,31053,2026-05-14,73.35,Payment Issue,Processed
+2122,31060,2025-04-02,612.65,Incorrect Order,Approved
+2123,31062,2024-05-14,1118.59,Missing Item,Approved
+2124,31083,2025-04-05,986.16,Payment Issue,Approved
+2125,31086,2025-05-12,375.21,Missing Item,Approved
+2126,31096,2025-09-12,268.66,Incorrect Order,Rejected
+2127,31140,2025-08-27,1269.63,Delivery Delay,Approved
+2128,31159,2026-06-15,310.61,Payment Issue,Rejected
+2129,31166,2025-07-05,321.51,Payment Issue,Approved
+2130,31176,2024-04-15,816.94,Delivery Delay,Processed
+2131,31193,2026-03-15,114.77,Payment Issue,Processed
+2132,31223,2026-05-07,56.87,Payment Issue,Requested
+2133,31276,2024-09-04,1052.72,Delivery Delay,Approved
+2134,31277,2026-06-09,1249.41,Missing Item,Processed
+2135,31280,2026-07-03,535.72,Delivery Delay,Approved
+2136,31301,2026-08-06,760.73,Payment Issue,Approved
+2137,31307,2024-01-28,680.59,Incorrect Order,Processed
+2138,31330,2026-07-23,1270.23,Payment Issue,Requested
+2139,31336,2025-12-07,589.78,Poor Food Quality,Processed
+2140,31363,2024-12-28,577.11,Payment Issue,Approved
+2141,31364,2024-02-15,364.42,Delivery Delay,Approved
+2142,31371,2025-11-22,671.84,Missing Item,Processed
+2143,31376,2025-09-30,230.42,Incorrect Order,Rejected
+2144,31405,2024-07-20,228.98,Delivery Delay,Processed
+2145,31427,2024-08-21,124.07,Payment Issue,Processed
+2146,31444,2026-04-08,183.66,Missing Item,Requested
+2147,31488,2025-09-15,2030.01,Missing Item,Requested
+2148,31501,2025-08-02,459.03,Delivery Delay,Approved
+2149,31523,2026-06-03,519.09,Payment Issue,Requested
+2150,31531,2025-05-11,388.39,Payment Issue,Approved
+2151,31569,2024-09-23,675.53,Delivery Delay,Approved
+2152,31593,2023-12-23,350.52,Delivery Delay,Processed
+2153,31598,2024-11-17,317.69,Missing Item,Approved
+2154,31601,2026-02-25,293.47,Delivery Delay,Approved
+2155,31618,2026-06-18,420.23,Delivery Delay,Requested
+2156,31634,2025-08-29,510.89,Incorrect Order,Rejected
+2157,31648,2026-04-07,1037.68,Delivery Delay,Requested
+2158,31652,2024-03-18,322.45,Poor Food Quality,Processed
+2159,31661,2025-06-12,1152.78,Delivery Delay,Rejected
+2160,31684,2025-01-21,139.21,Missing Item,Approved
+2161,31686,2024-03-16,1314.02,Missing Item,Approved
+2162,31701,2025-02-01,487.73,Missing Item,Requested
+2163,31704,2025-04-16,391.27,Incorrect Order,Rejected
+2164,31741,2024-07-23,355.67,Payment Issue,Processed
+2165,31743,2025-02-25,410.58,Poor Food Quality,Approved
+2166,31760,2025-03-26,616.87,Incorrect Order,Approved
+2167,31801,2024-01-23,232.16,Incorrect Order,Processed
+2168,31882,2026-01-19,63.27,Missing Item,Processed
+2169,31883,2025-11-23,495.76,Delivery Delay,Processed
+2170,31895,2024-10-02,674.54,Missing Item,Approved
+2171,31930,2026-01-22,537.94,Incorrect Order,Approved
+2172,31948,2023-12-17,132.47,Delivery Delay,Requested
+2173,31988,2025-02-27,601.57,Missing Item,Requested
+2174,32002,2026-08-08,71.68,Poor Food Quality,Requested
+2175,32016,2025-10-28,583.22,Incorrect Order,Processed
+2176,32035,2025-09-16,636.13,Missing Item,Processed
+2177,32036,2025-06-24,240.5,Missing Item,Processed
+2178,32081,2024-02-26,423.58,Payment Issue,Approved
+2179,32087,2025-05-27,548.2,Missing Item,Requested
+2180,32088,2025-08-14,778.88,Payment Issue,Rejected
+2181,32092,2024-06-09,445.02,Payment Issue,Rejected
+2182,32105,2024-09-28,311.14,Missing Item,Processed
+2183,32113,2026-07-26,569.26,Payment Issue,Requested
+2184,32115,2025-10-16,297.18,Missing Item,Approved
+2185,32144,2024-09-03,207.75,Poor Food Quality,Processed
+2186,32159,2025-06-07,-253.36,Delivery Delay,Processed
+2187,32176,2024-11-09,506.54,Missing Item,Processed
+2188,32195,2024-12-02,164.86,Poor Food Quality,Approved
+2189,32199,2025-11-02,587.12,Incorrect Order,Rejected
+2190,32217,2026-08-16,312.49,Payment Issue,Processed
+2191,32254,2026-08-03,327.23,Missing Item,Requested
+2192,32276,2024-07-15,64.08,Payment Issue,Processed
+2193,32284,2024-01-20,68.74,Incorrect Order,Approved
+2194,32285,2026-04-25,519.16,Poor Food Quality,Approved
+2195,32305,2024-12-20,451.25,Poor Food Quality,Requested
+2196,32326,2024-04-08,138.05,Incorrect Order,Approved
+2197,32341,2024-11-06,285.91,Missing Item,Rejected
+2198,32344,2026-04-15,436.09,Missing Item,Approved
+2199,32361,2026-08-16,246.4,Payment Issue,Approved
+2200,32362,2026-08-14,408.85,Delivery Delay,Approved
+2201,32369,2025-09-09,395.23,Delivery Delay,Processed
+2202,32377,2025-04-28,704.13,Incorrect Order,Rejected
+2203,32411,2025-07-05,55.17,Missing Item,Rejected
+2204,32416,2024-04-09,553.39,Incorrect Order,Requested
+2205,32417,2025-01-29,49.09,Payment Issue,Rejected
+2206,32461,2024-05-14,182.47,Missing Item,Requested
+2207,32469,2025-03-12,805.59,Missing Item,Rejected
+2208,32476,2024-04-07,929.38,Poor Food Quality,Approved
+2209,32482,2025-08-04,104.4,Incorrect Order,Approved
+2210,32502,2024-12-23,304.02,Payment Issue,Processed
+2211,32540,2025-10-06,244.07,Delivery Delay,Processed
+2212,32549,2024-08-22,1276.5,Poor Food Quality,Processed
+2213,32552,2025-02-02,338.48,Poor Food Quality,Approved
+2214,32561,2024-08-16,562.89,Payment Issue,Rejected
+2215,32568,2025-05-01,141.18,Poor Food Quality,Processed
+2216,32609,2025-01-20,1721.98,Incorrect Order,Approved
+2217,32615,2025-02-16,359.98,Delivery Delay,Processed
+2218,32620,2025-02-16,260.35,Payment Issue,Rejected
+2219,32646,2025-08-07,1385.51,Poor Food Quality,Approved
+2220,32648,2026-03-16,927.77,Payment Issue,Rejected
+2221,32657,2025-03-03,709.24,Poor Food Quality,Processed
+2222,32664,2026-02-15,531.99,Delivery Delay,Approved
+2223,32708,2025-01-20,307.47,Payment Issue,Requested
+2224,32710,2024-05-06,198.88,Poor Food Quality,Approved
+2225,32714,2024-03-08,-357.54,Incorrect Order,Requested
+2226,32736,2023-12-26,94.67,Poor Food Quality,Approved
+2227,32742,2025-12-08,961.73,Payment Issue,Approved
+2228,32743,2026-08-20,202.66,Payment Issue,Approved
+2229,32766,2025-01-26,1222.37,Payment Issue,Processed
+2230,32784,2025-10-12,235.83,Incorrect Order,Approved
+2231,32806,2025-03-23,294.52,Poor Food Quality,Processed
+2232,32811,2024-04-13,806.0,Missing Item,Approved
+2233,32830,2024-10-10,812.41,Missing Item,Approved
+2234,32848,2024-03-26,1525.6,Missing Item,Processed
+2235,32865,2024-10-11,203.86,Payment Issue,Approved
+2236,32877,2025-01-27,179.19,Delivery Delay,Approved
+2237,32887,2024-09-30,485.7,Delivery Delay,Processed
+2238,32892,2025-02-05,402.01,Payment Issue,Approved
+2239,32904,2024-04-07,631.23,Delivery Delay,Processed
+2240,32906,2024-11-05,388.08,Poor Food Quality,Processed
+2241,32909,2026-06-13,1066.24,Delivery Delay,Approved
+2242,32937,2024-11-30,62.13,Missing Item,Approved
+2243,32953,2024-12-11,1872.57,Delivery Delay,Processed
+2244,32959,2024-11-16,1339.41,Payment Issue,Approved
+2245,32990,2025-05-15,261.21,Payment Issue,Requested
+2246,33004,2025-06-03,-42.97,Missing Item,Processed
+2247,33021,2026-03-12,54.35,Payment Issue,Approved
+2248,33033,2025-12-20,361.57,Delivery Delay,Processed
+2249,33061,2026-04-13,398.88,Payment Issue,Approved
+2250,33086,2024-07-03,2377.67,Payment Issue,Processed
+2251,33102,2024-01-03,76.07,Incorrect Order,Requested
+2252,33126,2024-12-29,1196.03,Delivery Delay,Processed
+2253,33140,2026-01-11,983.3,Incorrect Order,Approved
+2254,33149,2024-01-10,429.21,Delivery Delay,Approved
+2255,33178,2026-08-03,384.59,Poor Food Quality,Requested
+2256,33214,2024-08-15,195.93,Delivery Delay,Processed
+2257,33217,2026-06-24,658.56,Payment Issue,Processed
+2258,33221,2025-02-22,1788.98,Incorrect Order,Approved
+2259,33239,2025-02-22,626.0,Missing Item,Requested
+2260,33253,2024-04-27,984.09,Missing Item,PROCESSED
+2261,33259,2024-11-29,274.91,Delivery Delay,Requested
+2262,33262,2024-10-17,574.17,Payment Issue,Requested
+2263,33264,2024-09-09,719.31,Poor Food Quality,Processed
+2264,33271,2026-07-10,781.81,Incorrect Order,Processed
+2265,33324,2026-01-06,999.56,Incorrect Order,Processed
+2266,33350,2026-03-15,395.73,Incorrect Order,Approved
+2267,33356,2026-05-16,980.42,Delivery Delay,Processed
+2268,33363,2024-01-10,774.24,Delivery Delay,Processed
+2269,33383,2026-03-09,96.52,Poor Food Quality,Processed
+2270,33395,2025-12-07,623.42,Delivery Delay,Requested
+2271,33409,2024-12-06,792.41,Delivery Delay,Processed
+2272,33424,2024-12-22,560.25,Incorrect Order,Processed
+2273,33426,2024-05-21,1265.2,Payment Issue,Requested
+2274,33437,2025-07-31,531.86,Poor Food Quality,Approved
+2275,33439,2024-07-27,510.89,Delivery Delay,Approved
+2276,33480,2024-10-20,340.37,Incorrect Order,Approved
+2277,33482,2024-02-04,751.93,Delivery Delay,Approved
+2278,33486,2024-06-14,413.2,Payment Issue,Approved
+2279,33524,2024-05-14,246.48,Delivery Delay,Requested
+2280,33531,2024-07-16,699.42,Payment Issue,Rejected
+2281,33546,2025-05-31,452.81,Payment Issue,Approved
+2282,33568,2025-09-25,417.75,Missing Item,Approved
+2283,33574,2024-01-21,16.25,Incorrect Order,Approved
+2284,33601,2025-12-05,983.3,Poor Food Quality,Rejected
+2285,33613,2025-07-23,191.55,Poor Food Quality,Approved
+2286,33639,2025-05-23,1564.32,Delivery Delay,Approved
+2287,33650,2025-08-31,156.38,Delivery Delay,Approved
+2288,33663,2026-03-05,263.92,Payment Issue,Approved
+2289,33664,2025-06-29,146.95,Poor Food Quality,Rejected
+2290,33666,2025-06-03,37.64,Missing Item,Processed
+2291,33693,2025-05-17,436.94,Incorrect Order,Approved
+2292,33709,2024-10-03,178.79,Delivery Delay,Processed
+2293,33734,2025-12-15,318.83,Payment Issue,Processed
+2294,33755,2026-05-06,445.32,Missing Item,Requested
+2295,33762,2024-04-01,446.53,Poor Food Quality,Processed
+2296,33768,2024-07-08,350.44,Incorrect Order,Approved
+2297,33769,2026-02-01,1160.98,Incorrect Order,Requested
+2298,33801,2025-08-27,279.6,Missing Item,Processed
+2299,33802,2024-11-16,446.22,Poor Food Quality,Processed
+2300,33822,2024-09-01,929.21,Poor Food Quality,Processed
+2301,33852,2025-10-12,1113.6,Incorrect Order,Processed
+2302,33855,2024-08-28,378.73,Delivery Delay,Processed
+2303,33857,2024-10-29,427.63,Delivery Delay,Approved
+2304,33862,2025-11-22,288.67,Payment Issue,Approved
+2305,33867,2024-05-21,841.28,Incorrect Order,Approved
+2306,33869,2024-03-18,855.09,Poor Food Quality,Rejected
+2307,33874,2026-07-06,846.06,Delivery Delay,Approved
+2308,33893,2024-05-23,304.55,Delivery Delay,Approved
+2309,33905,2026-04-12,112.53,Poor Food Quality,Requested
+2310,33910,2024-06-08,499.48,Missing Item,Processed
+2311,33918,2026-08-11,646.5,Delivery Delay,Approved
+2312,33923,2024-07-02,227.38,Poor Food Quality,Approved
+2313,33939,2026-04-21,480.94,Delivery Delay,Processed
+2314,33951,2024-08-08,634.03,Missing Item,Approved
+2315,33953,2025-08-21,284.56,Incorrect Order,Approved
+2316,33964,2024-06-17,253.41,Incorrect Order,Requested
+2317,33973,2025-09-18,789.42,Incorrect Order,Approved
+2318,34032,2026-07-18,188.51,Poor Food Quality,Approved
+2319,34051,2025-07-15,745.65,Poor Food Quality,Approved
+2320,34057,2026-08-21,545.11,Missing Item,Requested
+2321,34061,2026-06-11,919.97,Delivery Delay,Approved
+2322,34067,2025-03-23,1161.61,Payment Issue,Requested
+2323,34077,2024-12-11,132.81,Missing Item,Approved
+2324,34080,2026-01-20,1158.41,Missing Item,Approved
+2325,34084,2025-09-02,566.48,Delivery Delay,Approved
+2326,34122,2025-03-28,1504.36,Delivery Delay,Processed
+2327,34128,2024-12-11,158.11,Delivery Delay,Rejected
+2328,34136,2026-04-15,104.53,Incorrect Order,Processed
+2329,34146,2024-10-16,1530.56,Missing Item,Processed
+2330,34152,2024-08-07,918.57,Delivery Delay,Approved
+2331,34157,2024-02-10,599.98,Incorrect Order,Approved
+2332,34172,2024-02-07,653.87,Incorrect Order,Approved
+2333,34175,2026-06-03,178.71,Poor Food Quality,Approved
+2334,34182,2024-12-03,558.73,Payment Issue,Processed
+2335,34187,2024-03-06,1305.44,Incorrect Order,Approved
+2336,34201,2024-06-08,873.78,Missing Item,Processed
+2337,34210,2025-09-16,1005.16,Poor Food Quality,Processed
+2338,34238,2024-02-22,168.83,Missing Item,Approved
+2339,34239,2026-07-18,1340.72,Incorrect Order,APPROVED
+2340,34251,2026-05-04,1044.93,Payment Issue,Approved
+2341,34261,2025-03-06,558.31,Delivery Delay,Rejected
+2342,34354,2025-02-06,44.6,Poor Food Quality,Processed
+2343,34440,2025-07-19,197.55,Incorrect Order,Processed
+2344,34470,2026-08-03,516.0,Incorrect Order,Rejected
+2345,34474,2025-07-14,84.01,Incorrect Order,Rejected
+2346,34501,2025-01-08,499.18,Incorrect Order,Processed
+2347,34502,2024-05-30,961.28,Delivery Delay,Processed
+2348,34552,2026-04-23,237.18,Missing Item,Processed
+2349,34577,2025-10-16,215.28,Missing Item,Approved
+2350,34594,2025-07-27,248.53,Payment Issue,Requested
+2351,34599,2025-01-26,63.52,Delivery Delay,Processed
+2352,34618,2023-12-24,1134.96,Missing Item,Requested
+2353,34623,2024-11-30,715.84,Missing Item,Processed
+2354,34637,2026-03-25,117.47,Poor Food Quality,Requested
+2355,34648,2025-10-26,434.79,Missing Item,Processed
+2356,34665,2025-12-11,723.42,Poor Food Quality,Processed
+2357,34700,2025-11-17,195.86,Delivery Delay,Processed
+2358,34741,2026-04-16,1233.68,Payment Issue,Approved
+2359,34758,2026-01-19,642.88,Incorrect Order,Processed
+2360,34775,2024-05-07,799.66,Incorrect Order,Rejected
+2361,34779,2025-10-28,352.63,Poor Food Quality,Approved
+2362,34792,2024-12-18,540.97,Incorrect Order,Approved
+2363,34803,2025-08-23,198.24,Incorrect Order,Approved
+2364,34811,2025-07-20,508.9,Payment Issue,Approved
+2365,34839,2024-02-08,402.29,Poor Food Quality,Approved
+2366,34840,2025-06-09,1415.99,Incorrect Order,Processed
+2367,34846,2024-07-07,496.84,Payment Issue,Processed
+2368,34851,2024-05-03,1599.39,Missing Item,Approved
+2369,34854,2025-06-01,812.72,Missing Item,Rejected
+2370,34855,2025-02-11,225.78,Incorrect Order,Approved
+2371,34863,2025-05-08,660.74,Incorrect Order,Approved
+2372,34879,2025-05-14,598.53,Missing Item,Approved
+2373,34883,2024-01-16,593.1,Incorrect Order,Approved
+2374,34898,2024-12-10,464.55,Incorrect Order,Requested
+2375,34906,2024-04-20,685.41,Delivery Delay,Requested
+2376,34911,2024-03-05,538.99,Delivery Delay,Requested
+2377,34974,2025-08-16,655.7,Payment Issue,Rejected
+2378,34983,2024-04-06,446.13,Payment Issue,Approved
+2379,34993,2025-05-18,362.06,Delivery Delay,Processed
+2380,35021,2025-12-11,283.96,Payment Issue,Approved
+2381,35024,2024-08-21,1145.96,Missing Item,Approved
+2382,35058,2024-03-06,114.25,Poor Food Quality,Requested
+2383,35064,2024-09-24,839.45,Poor Food Quality,Approved
+2384,35085,2025-12-28,1099.05,Delivery Delay,Processed
+2385,35086,2024-08-16,960.87,Payment Issue,Requested
+2386,35103,2025-09-18,714.64,Payment Issue,Processed
+2387,35117,2024-04-10,185.79,Incorrect Order,Requested
+2388,35118,2024-11-07,471.86,Delivery Delay,Approved
+2389,35132,2025-10-19,30.96,Incorrect Order,Processed
+2390,35173,2025-03-19,157.67,Delivery Delay,Processed
+2391,35193,2025-03-15,576.77,Incorrect Order,Processed
+2392,35209,2024-10-03,78.88,Poor Food Quality,Approved
+2393,35211,2025-04-13,426.28,Missing Item,Processed
+2394,35234,2026-08-06,82.0,Payment Issue,Processed
+2395,35245,2025-09-24,-318.48,Missing Item,Processed
+2396,35247,2025-03-26,536.45,Missing Item,Approved
+2397,35252,2025-03-31,755.16,Incorrect Order,Processed
+2398,35265,2025-02-25,560.09,Delivery Delay,Processed
+2399,35266,2026-07-15,215.92,Delivery Delay,Rejected
+2400,35270,2024-12-01,296.91,Missing Item,Approved
+2401,35281,2025-09-09,272.43,Payment Issue,Approved
+2402,35285,2023-12-19,211.49,Delivery Delay,Processed
+2403,35301,2024-07-07,144.17,Poor Food Quality,Approved
+2404,35313,2024-05-11,249.58,Delivery Delay,Processed
+2405,35317,2025-09-17,1096.47,Incorrect Order,Processed
+2406,35318,2024-04-27,132.55,Missing Item,Rejected
+2407,35339,2026-04-21,114.86,Missing Item,Processed
+2408,35340,2024-03-27,1385.64,Delivery Delay,Approved
+2409,35362,2024-11-20,158.09,Poor Food Quality,Processed
+2410,35369,2025-01-17,266.05,Payment Issue,Approved
+2411,35375,2024-08-14,25.73,Payment Issue,Processed
+2412,35387,2024-11-16,1104.78,Poor Food Quality,PROCESSED
+2413,35399,2026-05-04,271.13,Incorrect Order,Requested
+2414,35402,2024-08-30,1157.16,Missing Item,Processed
+2415,35414,2025-06-08,1666.46,Incorrect Order,Processed
+2416,35416,2024-03-30,192.15,Incorrect Order,Approved
+2417,35437,2024-06-12,1773.05,Payment Issue,Requested
+2418,35456,2024-01-12,1240.84,Poor Food Quality,Processed
+2419,35457,2025-03-16,171.4,Poor Food Quality,Approved
+2420,35464,2024-12-11,342.44,Incorrect Order,Processed
+2421,35477,2025-05-03,734.19,Delivery Delay,Processed
+2422,35479,2026-06-06,98.0,Poor Food Quality,Approved
+2423,35502,2025-03-24,123.75,Missing Item,Approved
+2424,35513,2025-07-03,535.19,Incorrect Order,Approved
+2425,35518,2025-03-29,111.99,Payment Issue,Rejected
+2426,35562,2025-06-01,1015.55,Delivery Delay,Rejected
+2427,35570,2025-10-15,183.26,Incorrect Order,Processed
+2428,35579,2023-12-23,511.0,Incorrect Order,Approved
+2429,35593,2024-06-13,423.22,Poor Food Quality,Requested
+2430,35605,2024-07-15,432.98,Missing Item,Processed
+2431,35618,2024-12-15,416.67,Incorrect Order,Requested
+2432,35621,2025-09-12,377.08,Poor Food Quality,Approved
+2433,35631,2026-01-20,865.61,Incorrect Order,Requested
+2434,35634,2025-04-19,1710.49,Payment Issue,Rejected
+2435,35652,2025-07-01,484.88,Incorrect Order,Requested
+2436,35655,2024-05-27,1180.37,Incorrect Order,Approved
+2437,35684,2026-03-20,1854.15,Missing Item,Requested
+2438,35696,2026-02-21,659.12,Missing Item,Approved
+2439,35702,2026-08-01,485.44,Payment Issue,rejected
+2440,35708,2025-01-19,200.0,Delivery Delay,Approved
+2441,35738,2024-04-11,1551.99,Incorrect Order,Approved
+2442,35758,2026-07-28,137.09,Delivery Delay,Processed
+2443,35769,2026-06-26,502.06,Payment Issue,Approved
+2444,35781,2026-06-20,1139.53,Incorrect Order,Approved
+2445,35820,2025-02-13,1501.3,Missing Item,Approved
+2446,35832,2026-08-05,490.99,Poor Food Quality,Approved
+2447,35834,2024-01-18,315.7,Payment Issue,Processed
+2448,35840,2026-03-12,508.96,Delivery Delay,Approved
+2449,35852,2026-01-29,285.25,Incorrect Order,Approved
+2450,35880,2026-03-19,453.12,Payment Issue,Processed
+2451,35885,2025-05-18,335.38,Poor Food Quality,Requested
+2452,35967,2024-08-24,42.73,Poor Food Quality,Approved
+2453,35981,2024-12-15,574.99,Delivery Delay,Approved
+2454,35994,2026-02-18,372.4,Delivery Delay,Rejected
+2455,36009,2026-06-07,475.43,Payment Issue,Approved
+2456,36025,2026-04-04,379.99,Missing Item,Processed
+2457,36041,2024-03-26,744.77,Missing Item,Processed
+2458,36044,2025-12-20,300.0,Delivery Delay,Rejected
+2459,36048,2025-01-27,1334.13,Missing Item,Rejected
+2460,36056,2024-08-26,451.89,Missing Item,Processed
+2461,36080,2026-02-08,36.5,Missing Item,Processed
+2462,36102,2026-07-25,495.4,Incorrect Order,Rejected
+2463,36129,2026-03-04,43.07,Incorrect Order,Processed
+2464,36147,2025-07-14,497.17,Payment Issue,Requested
+2465,36165,2026-06-12,674.54,Delivery Delay,Processed
+2466,36167,2026-03-13,321.21,Payment Issue,Approved
+2467,36230,2024-11-23,356.19,Missing Item,Approved
+2468,36263,2026-02-01,384.88,Payment Issue,Processed
+2469,36264,2024-11-20,469.85,Poor Food Quality,Approved
+2470,36288,2025-08-24,673.86,Delivery Delay,Rejected
+2471,36310,2025-10-11,526.53,Payment Issue,Approved
+2472,36312,2025-04-02,344.88,Poor Food Quality,Processed
+2473,36318,2026-01-27,524.82,Delivery Delay,Processed
+2474,36328,2025-08-06,614.11,Delivery Delay,Rejected
+2475,36334,2026-07-24,86.91,Delivery Delay,Requested
+2476,36336,2025-09-30,198.69,Delivery Delay,Rejected
+2477,36343,2026-06-28,577.67,Payment Issue,Rejected
+2478,36346,2025-10-22,1464.45,Incorrect Order,Rejected
+2479,36348,2025-04-09,374.99,Poor Food Quality,Processed
+2480,36353,2025-12-26,502.89,Missing Item,Processed
+2481,36366,2024-09-08,732.52,Incorrect Order,Rejected
+2482,36375,2024-06-02,153.63,Missing Item,Processed
+2483,36428,2026-03-04,530.86,Missing Item,Approved
+2484,36435,2026-02-20,708.27,Payment Issue,Requested
+2485,36454,2026-05-16,621.07,Poor Food Quality,Approved
+2486,36461,2025-05-15,-637.16,Incorrect Order,Processed
+2487,36495,2026-01-09,391.64,Incorrect Order,Rejected
+2488,36497,2026-05-19,148.25,Incorrect Order,Processed
+2489,36509,2024-09-24,64.57,Missing Item,Processed
+2490,36524,2026-03-07,168.62,Incorrect Order,Approved
+2491,36557,2025-03-05,351.8,Poor Food Quality,Approved
+2492,36559,2024-04-24,105.89,Incorrect Order,Processed
+2493,36594,2025-11-28,571.11,Payment Issue,Approved
+2494,36602,2025-01-05,619.28,Delivery Delay,Rejected
+2495,36609,2024-06-19,441.08,Incorrect Order,Processed
+2496,36623,2025-05-22,238.04,Poor Food Quality,Approved
+2497,36649,2025-08-05,125.76,Payment Issue,Processed
+2498,36668,2026-06-11,1652.16,Delivery Delay,Processed
+2499,36730,2025-08-19,697.12,Missing Item,Approved
+2500,36758,2025-08-25,1902.07,Delivery Delay,Processed
+2501,36759,2026-02-11,1566.58,Incorrect Order,Processed
+2502,36763,2024-01-01,297.46,Payment Issue,Approved
+2503,36772,2026-07-25,-671.76,Payment Issue,Approved
+2504,36775,2026-03-22,1313.77,Payment Issue,Approved
+2505,36777,2024-07-23,182.23,Poor Food Quality,Approved
+2506,36805,2024-09-13,334.08,Incorrect Order,Processed
+2507,36811,2026-04-16,242.68,Payment Issue,Approved
+2508,36840,2026-05-31,80.38,Delivery Delay,Processed
+2509,36842,2025-01-14,1032.07,Missing Item,Processed
+2510,36853,2026-03-19,145.85,Missing Item,Requested
+2511,36868,2025-02-02,870.91,Poor Food Quality,Approved
+2512,36886,2026-03-06,1013.09,Payment Issue,Processed
+2513,36901,2025-03-30,569.36,Missing Item,Requested
+2514,36913,2024-05-01,587.66,Delivery Delay,Approved
+2515,36931,2024-05-07,379.44,Poor Food Quality,Approved
+2516,36941,2026-02-28,155.45,Payment Issue,Approved
+2517,36948,2025-04-28,1312.21,Payment Issue,Approved
+2518,36951,2026-07-16,114.59,Delivery Delay,Processed
+2519,36952,2023-12-26,1557.64,Incorrect Order,Processed
+2520,36957,2026-07-31,768.36,Poor Food Quality,Processed
+2521,36979,2026-05-12,134.49,Payment Issue,Approved
+2522,36980,2024-06-11,658.5,Payment Issue,Approved
+2523,36990,2024-04-26,1259.42,Missing Item,Requested
+2524,36997,2026-04-06,1518.63,Incorrect Order,Processed
+2525,36999,2024-11-09,806.79,Delivery Delay,Approved
+2526,37003,2024-06-26,477.76,Missing Item,Approved
+2527,37004,2026-01-11,178.23,Poor Food Quality,Processed
+2528,37008,2024-08-04,522.37,Payment Issue,Processed
+2529,37013,2024-03-31,787.31,Delivery Delay,Processed
+2530,37032,2025-12-09,96.18,Missing Item,Approved
+2531,37035,2026-06-06,638.52,Incorrect Order,Processed
+2532,37036,2025-09-26,521.97,Poor Food Quality,Approved
+2533,37063,2024-09-09,366.95,Missing Item,Rejected
+2534,37071,2024-09-24,221.96,Payment Issue,Processed
+2535,37083,2026-01-28,93.13,Delivery Delay,Requested
+2536,37095,2025-05-16,592.53,Poor Food Quality,Rejected
+2537,37112,2024-10-03,860.09,Incorrect Order,Processed
+2538,37113,2024-04-05,229.63,Poor Food Quality,Requested
+2539,37154,2025-12-28,1429.74,Missing Item,Approved
+2540,37221,2025-07-25,969.41,Payment Issue,Rejected
+2541,37226,2025-11-25,219.11,Missing Item,Approved
+2542,37232,2025-09-16,389.07,Payment Issue,Requested
+2543,37236,2025-01-31,737.94,Missing Item,Processed
+2544,37249,2024-10-09,492.07,Poor Food Quality,Processed
+2545,37266,2025-04-07,89.13,Payment Issue,Processed
+2546,37272,2025-03-23,337.58,Poor Food Quality,Approved
+2547,37273,2024-03-27,323.83,Missing Item,Approved
+2548,37288,2025-03-02,1528.4,Missing Item,Processed
+2549,37291,2024-06-20,141.16,Incorrect Order,Approved
+2550,37298,2026-05-01,383.67,Poor Food Quality,Approved
+2551,37299,2026-05-16,235.19,Delivery Delay,Requested
+2552,37302,2026-04-25,425.23,Delivery Delay,Processed
+2553,37340,2025-11-26,426.97,Poor Food Quality,Approved
+2554,37356,2025-11-18,840.72,Missing Item,Rejected
+2555,37359,2024-10-15,205.45,Delivery Delay,Approved
+2556,37369,2025-04-02,668.79,Missing Item,Rejected
+2557,37396,2025-12-02,843.35,Delivery Delay,Processed
+2558,37425,2025-09-15,1056.7,Payment Issue,Processed
+2559,37431,2026-02-07,261.5,Delivery Delay,Processed
+2560,37446,2024-05-08,742.4,Payment Issue,Processed
+2561,37451,2024-06-29,142.22,Incorrect Order,Approved
+2562,37465,2025-09-04,636.6,Delivery Delay,Processed
+2563,37477,2025-02-11,667.49,Payment Issue,Rejected
+2564,37509,2025-09-26,918.45,Incorrect Order,Processed
+2565,37537,2024-06-20,958.3,Missing Item,Processed
+2566,37549,2024-09-11,436.72,Incorrect Order,Rejected
+2567,37576,2026-03-18,1086.1,Delivery Delay,Rejected
+2568,37593,2024-12-23,336.37,Poor Food Quality,Processed
+2569,37608,2026-03-23,394.1,Delivery Delay,Approved
+2570,37619,2024-06-21,979.88,Incorrect Order,Approved
+2571,37625,2024-08-15,828.63,Payment Issue,Processed
+2572,37634,2024-10-19,696.99,Delivery Delay,Processed
+2573,37641,2024-01-02,361.79,Payment Issue,Requested
+2574,37646,2024-12-31,1166.22,Poor Food Quality,Rejected
+2575,37651,2026-03-01,941.43,Incorrect Order,Approved
+2576,37685,2025-05-18,543.96,Missing Item,Rejected
+2577,37690,2024-07-15,668.35,Payment Issue,Approved
+2578,37714,2026-08-17,237.72,Incorrect Order,Processed
+2579,37721,2024-03-27,396.81,Delivery Delay,Requested
+2580,37723,2024-11-12,403.3,Missing Item,Approved
+2581,37730,2026-01-22,198.17,Missing Item,Approved
+2582,37760,2024-02-27,-137.63,Poor Food Quality,Rejected
+2583,37774,2025-02-10,528.5,Missing Item,Processed
+2584,37802,2025-06-17,393.56,Delivery Delay,Processed
+2585,37826,2024-12-14,346.94,Poor Food Quality,Approved
+2586,37834,2025-01-31,715.89,Poor Food Quality,Rejected
+2587,37854,2026-04-09,1446.71,Incorrect Order,Approved
+2588,37855,2025-11-15,274.45,Poor Food Quality,Approved
+2589,37859,2024-03-31,551.78,Missing Item,Requested
+2590,37863,2025-11-27,510.84,Poor Food Quality,Approved
+2591,37886,2025-03-08,483.39,Poor Food Quality,Approved
+2592,37888,2024-02-09,1565.98,Missing Item,Processed
+2593,37901,2025-02-23,293.2,Poor Food Quality,Processed
+2594,37908,2025-06-16,181.38,Poor Food Quality,Processed
+2595,37919,2025-06-04,67.43,Poor Food Quality,Approved
+2596,37921,2023-12-31,463.5,Incorrect Order,Approved
+2597,37931,2025-06-11,421.13,Delivery Delay,Approved
+2598,37936,2024-12-10,479.98,Delivery Delay,Approved
+2599,37978,2026-06-28,190.4,Incorrect Order,Requested
+2600,38022,2024-01-16,380.19,Poor Food Quality,Approved
+2601,38030,2024-02-05,562.52,Delivery Delay,Rejected
+2602,38058,2026-05-21,580.55,Poor Food Quality,Rejected
+2603,38060,2024-11-26,1351.74,Payment Issue,Rejected
+2604,38075,2023-12-20,412.58,Payment Issue,Approved
+2605,38080,2023-12-21,499.87,Missing Item,Rejected
+2606,38083,2025-01-14,140.34,Incorrect Order,Processed
+2607,38088,2025-09-04,336.31,Poor Food Quality,Processed
+2608,38105,2024-12-29,1160.99,Incorrect Order,Approved
+2609,38110,2026-07-08,191.25,Poor Food Quality,Processed
+2610,38114,2024-11-23,402.27,Missing Item,Requested
+2611,38115,2026-03-31,1133.24,Incorrect Order,Approved
+2612,38130,2026-03-17,198.25,Incorrect Order,Requested
+2613,38134,2026-08-01,1375.96,Delivery Delay,Processed
+2614,38147,2025-05-02,160.71,Missing Item,Processed
+2615,38151,2026-03-27,379.43,Missing Item,PROCESSED
+2616,38156,2024-09-03,591.76,Poor Food Quality,Approved
+2617,38157,2026-03-16,55.42,Delivery Delay,Processed
+2618,38165,2025-03-14,170.6,Missing Item,Processed
+2619,38180,2026-07-25,606.52,Missing Item,Processed
+2620,38181,2025-10-17,452.14,Missing Item,Requested
+2621,38182,2025-04-26,267.11,Payment Issue,Processed
+2622,38192,2024-04-22,196.29,Poor Food Quality,Processed
+2623,38193,2024-04-01,703.14,Incorrect Order,Processed
+2624,38210,2025-06-25,508.26,Incorrect Order,Requested
+2625,38213,2026-02-10,595.21,Payment Issue,Processed
+2626,38240,2024-09-14,529.24,Payment Issue,Rejected
+2627,38251,2025-11-23,1403.52,Payment Issue,Processed
+2628,38262,2025-03-19,106.45,Poor Food Quality,Requested
+2629,38271,2024-08-06,452.22,Delivery Delay,Approved
+2630,38275,2025-02-18,411.59,Missing Item,Approved
+2631,38279,2026-06-18,958.46,Missing Item,Processed
+2632,38297,2024-01-31,543.96,Missing Item,Approved
+2633,38314,2024-10-31,197.99,Missing Item,Approved
+2634,38359,2025-09-14,275.55,Delivery Delay,Approved
+2635,38366,2026-02-17,1054.54,Incorrect Order,Approved
+2636,38385,2024-08-16,97.94,Missing Item,Rejected
+2637,38387,2026-02-03,154.57,Incorrect Order,Approved
+2638,38393,2024-05-11,73.45,Incorrect Order,Requested
+2639,38394,2024-02-23,992.22,Missing Item,Approved
+2640,38419,2024-02-12,621.77,Missing Item,Approved
+2641,38426,2026-06-03,1001.9,Missing Item,Processed
+2642,38431,2026-02-03,758.21,Missing Item,Approved
+2643,38440,2024-04-10,1491.85,Poor Food Quality,Approved
+2644,38455,2026-03-18,52.06,Payment Issue,Approved
+2645,38477,2024-12-18,185.38,Delivery Delay,Approved
+2646,38494,2024-07-06,650.35,Incorrect Order,Processed
+2647,38495,2024-04-17,227.66,Missing Item,Processed
+2648,38499,2025-12-13,269.3,Incorrect Order,Approved
+2649,38502,2026-01-13,940.98,Incorrect Order,Processed
+2650,38520,2026-03-25,526.84,Delivery Delay,Approved
+2651,38525,2024-12-29,277.77,Delivery Delay,Approved
+2652,38531,2025-04-16,494.17,Incorrect Order,Approved
+2653,38552,2024-12-25,778.58,Incorrect Order,Processed
+2654,38557,2024-02-09,446.23,Delivery Delay,Processed
+2655,38565,2023-12-24,837.15,Incorrect Order,Processed
+2656,38567,2026-04-06,215.78,Poor Food Quality,Processed
+2657,38576,2025-12-06,534.93,Payment Issue,Processed
+2658,38577,2025-07-15,647.26,Incorrect Order,Approved
+2659,38589,2026-05-06,513.4,Poor Food Quality,Requested
+2660,38607,2025-08-03,386.66,Delivery Delay,Processed
+2661,38614,2024-03-16,90.15,Poor Food Quality,Approved
+2662,38617,2024-06-15,538.04,Payment Issue,Approved
+2663,38624,2024-05-19,174.56,Missing Item,Rejected
+2664,38675,2024-08-24,796.57,Incorrect Order,Processed
+2665,38683,2024-01-11,32.43,Poor Food Quality,Processed
+2666,38686,2026-07-21,234.66,Payment Issue,Processed
+2667,38739,2025-01-13,429.22,Missing Item,Rejected
+2668,38749,2026-01-11,419.35,Poor Food Quality,Requested
+2669,38758,2024-06-27,956.74,Incorrect Order,Requested
+2670,38763,2024-02-16,340.13,Payment Issue,Rejected
+2671,38771,2026-07-10,916.9,Delivery Delay,Processed
+2672,38781,2024-08-04,1077.57,Delivery Delay,Rejected
+2673,38809,2025-02-07,99.64,Poor Food Quality,Approved
+2674,38810,2025-11-27,50.56,Delivery Delay,Processed
+2675,38820,2025-11-07,682.82,Payment Issue,Processed
+2676,38822,2024-08-19,366.74,Payment Issue,Processed
+2677,38823,2025-09-24,334.77,Payment Issue,Requested
+2678,38840,2024-08-30,270.7,Delivery Delay,Approved
+2679,38924,2025-11-04,978.95,Poor Food Quality,Processed
+2680,38933,2025-02-13,257.08,Delivery Delay,Approved
+2681,38938,2026-04-26,651.17,Incorrect Order,Requested
+2682,38946,2024-10-19,248.46,Delivery Delay,Requested
+2683,38948,2025-12-27,488.16,Delivery Delay,Approved
+2684,38990,2025-08-06,412.66,Poor Food Quality,Approved
+2685,39034,2026-04-19,544.29,Incorrect Order,Requested
+2686,39053,2025-12-06,1434.19,Payment Issue,Processed
+2687,39059,2026-01-09,481.06,Delivery Delay,Processed
+2688,39065,2024-06-20,980.44,Incorrect Order,Processed
+2689,39067,2024-02-25,547.99,Missing Item,Processed
+2690,39069,2026-06-08,1729.25,Poor Food Quality,Processed
+2691,39084,2024-09-26,70.95,Payment Issue,Processed
+2692,39085,2025-02-13,95.81,Incorrect Order,Processed
+2693,39115,2026-06-02,1257.77,Missing Item,Processed
+2694,39130,2026-04-28,647.03,Incorrect Order,Requested
+2695,39135,2024-08-12,173.7,Delivery Delay,Rejected
+2696,39142,2024-12-04,638.41,Incorrect Order,Requested
+2697,39146,2024-11-24,1601.88,Payment Issue,Requested
+2698,39161,2025-05-03,958.94,Delivery Delay,Approved
+2699,39172,2024-09-05,1378.04,Missing Item,Approved
+2700,39184,2024-06-06,330.1,Poor Food Quality,Processed
+2701,39195,2024-10-13,308.05,Payment Issue,Rejected
+2702,39202,2026-03-01,453.96,Missing Item,Requested
+2703,39207,2025-12-27,991.36,Payment Issue,Requested
+2704,39240,2026-08-01,296.21,Payment Issue,Processed
+2705,39260,2026-05-19,408.05,Payment Issue,Requested
+2706,39301,2026-02-19,1065.67,Missing Item,Approved
+2707,39314,2026-03-06,175.24,Payment Issue,Requested
+2708,39316,2026-04-08,318.7,Delivery Delay,Processed
+2709,39320,2025-12-31,479.81,Poor Food Quality,Approved
+2710,39335,2024-05-10,145.64,Payment Issue,Rejected
+2711,39339,2025-02-06,86.14,Delivery Delay,Processed
+2712,39344,2024-03-28,493.44,Incorrect Order,Processed
+2713,39349,2024-11-10,270.06,Payment Issue,Requested
+2714,39355,2024-05-23,-635.89,Incorrect Order,Processed
+2715,39358,2026-04-14,850.67,Delivery Delay,Processed
+2716,39370,2024-12-23,225.21,Missing Item,Processed
+2717,39378,2025-10-10,384.5,Poor Food Quality,Processed
+2718,39414,2024-09-27,44.89,Payment Issue,Rejected
+2719,39418,2024-06-15,860.61,Delivery Delay,Processed
+2720,39431,2026-05-30,751.76,Payment Issue,Approved
+2721,39451,2026-06-23,263.99,Missing Item,Approved
+2722,39476,2025-05-06,501.26,Incorrect Order,Approved
+2723,39477,2025-03-31,317.48,Delivery Delay,Rejected
+2724,39486,2025-02-22,875.9,Poor Food Quality,Approved
+2725,39492,2025-03-25,610.24,Poor Food Quality,Processed
+2726,39528,2025-06-06,213.65,Incorrect Order,Approved
+2727,39536,2024-12-06,384.86,Incorrect Order,Approved
+2728,39549,2026-03-10,812.15,Missing Item,Rejected
+2729,39552,2025-01-16,365.47,Payment Issue,Processed
+2730,39557,2025-02-26,513.18,Payment Issue,Approved
+2731,39559,2026-03-30,220.96,Incorrect Order,Approved
+2732,39570,2024-06-13,260.39,Incorrect Order,Processed
+2733,39581,2026-06-02,267.88,Delivery Delay,Approved
+2734,39604,2026-06-14,404.99,Incorrect Order,Rejected
+2735,39608,2025-11-08,467.67,Poor Food Quality,Rejected
+2736,39611,2024-03-04,530.92,Incorrect Order,Approved
+2737,39634,2025-03-29,202.67,Missing Item,Approved
+2738,39635,2024-08-16,130.72,Delivery Delay,Rejected
+2739,39643,2025-05-07,170.43,Incorrect Order,Requested
+2740,39647,2024-09-21,655.24,Delivery Delay,Approved
+2741,39679,2024-07-01,83.94,Incorrect Order,Processed
+2742,39693,2025-10-17,679.47,Delivery Delay,Approved
+2743,39695,2026-02-23,322.49,Poor Food Quality,Processed
+2744,39697,2025-10-11,144.15,Incorrect Order,Approved
+2745,39699,2024-02-18,968.94,Delivery Delay,Processed
+2746,39701,2025-05-25,1032.1,Incorrect Order,Requested
+2747,39703,2025-07-22,140.37,Poor Food Quality,Processed
+2748,39723,2026-03-12,212.99,Missing Item,Requested
+2749,39730,2025-01-09,767.99,Poor Food Quality,Rejected
+2750,39761,2026-03-16,322.5,Incorrect Order,Approved
+2751,39792,2025-03-07,969.45,Payment Issue,Requested
+2752,39813,2025-03-27,173.32,Poor Food Quality,Approved
+2753,39826,2025-12-13,1159.55,Missing Item,Rejected
+2754,39840,2023-12-29,667.48,Poor Food Quality,Processed
+2755,39847,2025-05-24,795.65,Delivery Delay,rejected
+2756,39859,2025-10-15,613.65,Payment Issue,Approved
+2757,39872,2024-02-04,381.7,Delivery Delay,Approved
+2758,39895,2025-07-15,496.36,Delivery Delay,Processed
+2759,39910,2024-02-19,400.9,Incorrect Order,Rejected
+2760,39930,2024-01-13,404.18,Payment Issue,Requested
+2761,39936,2026-05-04,229.62,Poor Food Quality,Processed
+2762,39953,2025-12-07,370.78,Missing Item,Processed
+2763,39971,2025-05-19,1718.41,Delivery Delay,Processed
+2764,39983,2026-02-15,461.25,Payment Issue,Approved
+2765,39990,2025-08-21,396.53,Poor Food Quality,Rejected
+2766,39996,2025-11-11,285.8,Poor Food Quality,Approved
+2767,40006,2025-06-17,57.97,Delivery Delay,Rejected
+2768,40008,2025-07-28,337.99,Delivery Delay,Processed
+2769,40079,2024-06-14,284.86,Incorrect Order,Requested
+2770,40107,2024-06-15,146.46,Delivery Delay,Approved
+2771,40124,2024-03-06,886.44,Incorrect Order,Requested
+2772,40127,2025-11-09,27.4,Incorrect Order,Approved
+2773,40130,2024-09-15,782.95,Missing Item,Requested
+2774,40132,2026-08-08,313.47,Delivery Delay,Requested
+2775,40146,2024-11-09,1557.92,Poor Food Quality,Processed
+2776,40153,2026-07-25,497.66,Poor Food Quality,Rejected
+2777,40156,2024-10-27,119.55,Payment Issue,Processed
+2778,40163,2025-01-09,66.45,Delivery Delay,Approved
+2779,40165,2024-07-02,639.31,Missing Item,Processed
+2780,40191,2024-03-07,633.19,Poor Food Quality,Rejected
+2781,40202,2026-07-26,593.77,Poor Food Quality,Approved
+2782,40210,2024-01-28,1425.85,Missing Item,Processed
+2783,40234,2026-02-17,110.73,Poor Food Quality,Approved
+2784,40244,2025-08-02,326.37,Incorrect Order,Processed
+2785,40247,2025-12-26,1280.28,Incorrect Order,Rejected
+2786,40257,2025-03-19,337.45,Incorrect Order,Rejected
+2787,40295,2026-06-23,2138.66,Delivery Delay,Processed
+2788,40318,2025-12-17,325.56,Poor Food Quality,Requested
+2789,40334,2025-01-28,904.17,Incorrect Order,Rejected
+2790,40340,2024-03-27,251.63,Missing Item,Requested
+2791,40356,2025-08-24,1224.44,Delivery Delay,Approved
+2792,40370,2024-05-11,1443.94,Payment Issue,Rejected
+2793,40384,2025-03-11,98.65,Incorrect Order,Rejected
+2794,40394,2026-07-28,92.15,Missing Item,Requested
+2795,40408,2024-01-29,586.13,Incorrect Order,Processed
+2796,40409,2025-04-19,456.26,Missing Item,Requested
+2797,40410,2025-01-26,1063.3,Incorrect Order,Approved
+2798,40423,2025-10-21,630.78,Missing Item,Rejected
+2799,40429,2026-08-12,1148.61,Payment Issue,Processed
+2800,40435,2025-09-13,328.04,Missing Item,Rejected
+2801,40437,2025-07-27,1344.59,Missing Item,Processed
+2802,40465,2024-03-31,66.42,Payment Issue,Approved
+2803,40486,2025-09-29,670.34,Payment Issue,approved
+2804,40501,2026-08-12,498.78,Missing Item,Processed
+2805,40510,2024-09-30,485.8,Delivery Delay,Processed
+2806,40540,2025-12-18,683.28,Delivery Delay,Processed
+2807,40549,2026-06-18,1172.54,Delivery Delay,Processed
+2808,40550,2024-12-03,759.93,Payment Issue,Approved
+2809,40573,2024-09-25,157.35,Delivery Delay,Rejected
+2810,40576,2025-12-19,1306.16,Payment Issue,Processed
+2811,40577,2025-04-24,349.13,Incorrect Order,Rejected
+2812,40593,2024-10-31,367.4,Payment Issue,Requested
+2813,40609,2024-01-30,268.17,Delivery Delay,Rejected
+2814,40614,2025-09-03,485.72,Payment Issue,Approved
+2815,40635,2024-11-24,523.54,Missing Item,Requested
+2816,40641,2026-03-05,702.18,Poor Food Quality,Processed
+2817,40644,2026-05-11,110.76,Payment Issue,Approved
+2818,40645,2025-05-12,630.65,Incorrect Order,Requested
+2819,40648,2025-03-08,422.74,Incorrect Order,Processed
+2820,40673,2024-05-31,1306.69,Poor Food Quality,Requested
+2821,40678,2024-10-21,210.64,Missing Item,Approved
+2822,40695,2026-05-31,101.99,Poor Food Quality,Processed
+2823,40697,2024-09-08,380.06,Payment Issue,Approved
+2824,40702,2025-02-08,233.39,Poor Food Quality,Approved
+2825,40714,2026-02-18,1711.4,Delivery Delay,Requested
+2826,40767,2024-01-24,598.92,Incorrect Order,Processed
+2827,40773,2025-06-15,540.02,Poor Food Quality,Requested
+2828,40787,2025-09-14,513.43,Poor Food Quality,Rejected
+2829,40788,2026-04-26,979.67,Delivery Delay,Approved
+2830,40804,2024-12-16,87.35,Poor Food Quality,Requested
+2831,40809,2024-11-27,63.47,Poor Food Quality,Processed
+2832,40814,2026-01-12,93.89,Incorrect Order,Rejected
+2833,40837,2026-02-23,208.59,Poor Food Quality,Processed
+2834,40845,2024-10-02,1166.22,Incorrect Order,Approved
+2835,40846,2024-04-07,898.07,Incorrect Order,Processed
+2836,40849,2024-12-01,91.37,Poor Food Quality,Requested
+2837,40861,2024-04-18,1399.65,Payment Issue,Processed
+2838,40884,2026-04-07,198.45,Poor Food Quality,Approved
+2839,40885,2025-01-19,1509.6,Delivery Delay,Processed
+2840,40906,2024-08-29,211.56,Missing Item,Approved
+2841,40909,2026-03-01,690.05,Delivery Delay,Approved
+2842,40912,2025-12-11,85.86,Missing Item,Processed
+2843,40920,2026-05-17,221.26,Poor Food Quality,Requested
+2844,40938,2025-05-10,347.52,Incorrect Order,Processed
+2845,40939,2025-12-14,59.43,Incorrect Order,Approved
+2846,40943,2026-03-09,1062.39,Missing Item,Requested
+2847,40964,2024-08-28,292.49,Payment Issue,Approved
+2848,40993,2024-01-24,321.35,Incorrect Order,Approved
+2849,40995,2025-02-09,355.7,Delivery Delay,Approved
+2850,40998,2025-09-03,401.29,Delivery Delay,Processed
+2851,41009,2024-11-12,143.45,Payment Issue,Approved
+2852,41011,2024-02-07,418.38,Delivery Delay,Processed
+2853,41018,2024-08-29,313.31,Missing Item,Processed
+2854,41035,2026-07-03,210.63,Poor Food Quality,Requested
+2855,41037,2026-08-21,309.01,Delivery Delay,Approved
+2856,41042,2024-10-01,586.66,Payment Issue,Requested
+2857,41045,2026-07-04,235.46,Payment Issue,Approved
+2858,41051,2026-05-14,984.68,Delivery Delay,Processed
+2859,41056,2024-07-24,374.25,Poor Food Quality,Approved
+2860,41062,2024-12-14,505.74,Delivery Delay,Processed
+2861,41094,2024-09-08,884.28,Delivery Delay,Rejected
+2862,41112,2025-02-17,280.61,Missing Item,Requested
+2863,41114,2026-01-25,461.56,Poor Food Quality,Processed
+2864,41126,2024-03-25,391.46,Incorrect Order,Approved
+2865,41150,2025-07-23,308.16,Delivery Delay,Requested
+2866,41176,2025-02-06,784.25,Missing Item,Processed
+2867,41180,2025-04-25,651.38,Incorrect Order,Approved
+2868,41181,2024-10-31,424.01,Payment Issue,Approved
+2869,41185,2024-12-12,436.28,Poor Food Quality,Processed
+2870,41191,2026-07-19,81.52,Payment Issue,Approved
+2871,41200,2024-05-27,447.74,Poor Food Quality,Approved
+2872,41211,2025-06-16,402.27,Delivery Delay,Processed
+2873,41215,2026-08-01,191.53,Poor Food Quality,Rejected
+2874,41287,2024-06-03,726.34,Poor Food Quality,Processed
+2875,41291,2026-05-14,573.71,Incorrect Order,Approved
+2876,41298,2024-09-03,387.78,Delivery Delay,Rejected
+2877,41301,2024-03-14,344.46,Poor Food Quality,Processed
+2878,41305,2024-06-29,682.48,Poor Food Quality,Rejected
+2879,41308,2026-04-21,933.6,Poor Food Quality,Approved
+2880,41322,2025-12-04,276.61,Payment Issue,Processed
+2881,41326,2025-03-23,546.77,Missing Item,Approved
+2882,41345,2024-09-02,163.4,Delivery Delay,Approved
+2883,41356,2026-07-26,648.69,Payment Issue,Approved
+2884,41407,2026-05-28,221.25,Delivery Delay,Approved
+2885,41408,2025-03-12,179.49,Delivery Delay,Processed
+2886,41415,2025-05-31,425.72,Poor Food Quality,Processed
+2887,41416,2024-09-28,339.18,Delivery Delay,Approved
+2888,41456,2026-07-20,526.1,Payment Issue,Rejected
+2889,41459,2024-06-13,118.23,Payment Issue,Rejected
+2890,41500,2026-06-01,336.03,Poor Food Quality,Processed
+2891,41503,2025-02-05,51.44,Delivery Delay,Processed
+2892,41511,2024-08-14,649.77,Payment Issue,Rejected
+2893,41560,2025-12-11,396.19,Incorrect Order,Processed
+2894,41624,2026-01-17,466.32,Payment Issue,Approved
+2895,41636,2025-09-16,969.26,Payment Issue,Rejected
+2896,41641,2025-07-01,319.15,Delivery Delay,Approved
+2897,41645,2025-07-21,220.6,Payment Issue,Rejected
+2898,41659,2025-02-23,1214.64,Incorrect Order,Processed
+2899,41690,2024-11-06,697.18,Missing Item,Approved
+2900,41698,2024-04-24,1143.8,Poor Food Quality,Rejected
+2901,41706,2024-07-29,888.75,Poor Food Quality,Approved
+2902,41720,2025-09-01,280.86,Poor Food Quality,Processed
+2903,41741,2024-09-16,304.87,Missing Item,Approved
+2904,41757,2026-02-19,372.72,Incorrect Order,Rejected
+2905,41759,2025-02-10,32.04,Payment Issue,Rejected
+2906,41774,2024-06-02,611.85,Incorrect Order,Processed
+2907,41779,2026-03-09,37.37,Poor Food Quality,Processed
+2908,41794,2024-02-18,299.15,Incorrect Order,Processed
+2909,41795,2026-07-12,1313.49,Delivery Delay,Processed
+2910,41804,2024-05-22,373.66,Delivery Delay,Processed
+2911,41805,2026-08-01,178.47,Poor Food Quality,Processed
+2912,41817,2025-08-05,1243.53,Incorrect Order,Approved
+2913,41823,2025-08-25,611.96,Missing Item,Requested
+2914,41826,2024-04-29,152.02,Poor Food Quality,Processed
+2915,41829,2024-05-18,129.57,Poor Food Quality,Processed
+2916,41831,2024-11-26,595.3,Delivery Delay,Processed
+2917,41832,2026-03-12,578.5,Delivery Delay,Processed
+2918,41838,2026-05-05,1511.27,Poor Food Quality,Requested
+2919,41843,2024-11-29,669.5,Payment Issue,Processed
+2920,41852,2026-06-17,147.65,Payment Issue,Requested
+2921,41871,2025-08-27,224.45,Poor Food Quality,Processed
+2922,41885,2024-08-06,267.79,Incorrect Order,Approved
+2923,41893,2024-05-12,554.82,Poor Food Quality,Processed
+2924,41899,2025-08-10,1182.39,Poor Food Quality,Approved
+2925,41900,2024-01-15,409.74,Poor Food Quality,Approved
+2926,41929,2026-03-26,729.23,Poor Food Quality,Requested
+2927,41940,2024-02-24,249.57,Delivery Delay,Processed
+2928,41952,2026-01-01,281.49,Incorrect Order,Rejected
+2929,41961,2024-08-14,140.13,Delivery Delay,Rejected
+2930,41968,2025-07-06,232.43,Missing Item,Rejected
+2931,41989,2024-09-07,209.01,Poor Food Quality,Approved
+2932,41996,2025-11-17,461.42,Poor Food Quality,Requested
+2933,41998,2024-07-04,515.36,Missing Item,Rejected

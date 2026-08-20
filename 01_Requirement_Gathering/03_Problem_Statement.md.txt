@@ -1,0 +1,5 @@
+Domino's India operates in a highly competitive QSR market where maintaining growth while ensuring food-safety compliance and controlling operational costs is a major challenge. Recent hygiene and food-safety issues at certain outlets highlight the need for stronger visibility into branch-level operational performance and compliance. At the same time, rising operating costs and competitive pressure can affect profitability and sustainable growth.
+
+The problem is that management needs a data-driven way to identify branches with recurring operational or compliance risks, understand sales and cost patterns, and determine which areas require further investigation or corrective action.
+
+This project aims to develop an analytics-oriented database and SQL analysis framework that integrates relevant sales, branch, operational, cost and quality-related data to help management identify risks, monitor business performance and prioritize data-driven actions.

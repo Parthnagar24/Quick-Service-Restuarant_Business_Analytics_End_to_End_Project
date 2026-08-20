@@ -1,0 +1,66 @@
+IngredientID,IngredientName,IngredientCategory,UnitOfMeasure,ShelfLifeDays
+1,Mozzarella Cheese,Dairy,KG,10
+2,Processed Cheese Slice,Dairy,Piece,15
+3,Refined Flour (Maida),Bakery,KG,11
+4,Whole Wheat Flour,Bakery,KG,6
+5,Pizza Base,Bakery,Piece,29
+6,Burger Bun,Bakery,Piece,21
+7,Tomato,Vegetable,KG,4
+8,Onion,Vegetable,KG,4
+9,Capsicum,Vegetable,KG,14
+10,Jalapeno,Vegetable,KG,9
+11,Sweet Corn,Vegetable,KG,5
+12,Mushroom,Vegetable,KG,5
+13,Paneer,Dairy,KG,6
+14,Chicken Breast,Meat,KG,3
+15,Chicken Sausage,Meat,KG,4
+16,Pepperoni,Meat,KG,9
+17,Minced Chicken,Meat,KG,9
+18,Potato,Vegetable,KG,7
+19,Pizza Sauce,Sauce,Liter,119
+20,Tomato Ketchup,Sauce,Liter,147
+21,Mayonnaise,Sauce,Liter,77
+22,Peri Peri Seasoning,Seasoning,Gram,655
+23,Oregano,Seasoning,Gram,255
+24,Chilli Flakes,Seasoning,Gram,121
+25,Cooking Oil,Oil,Liter,121
+26,Butter,Dairy,KG,18
+27,Salt,Seasoning,KG,553
+28,Sugar,Seasoning,KG,661
+29,Cola Syrup,Beverage,Liter,163
+30,Lemon,Vegetable,KG,9
+31,Mint Leaves,Vegetable,Gram,14
+32,Milk,Dairy,Liter,18
+33,Coffee Powder,Beverage,Gram,98
+34,Ice Cream Mix,Dairy,Liter,20
+35,Chocolate Sauce,Sauce,Liter,69
+36,Cookie Dough,Bakery,KG,5
+37,Brownie Mix,Bakery,KG,4
+38,Gulab Jamun Mix,Bakery,KG,9
+39,Bread Crumbs,Bakery,KG,18
+40,Garlic,Vegetable,KG,10
+41,Ginger,Vegetable,KG,5
+42,Coriander Leaves,Vegetable,Gram,7
+43,Green Chilli,Vegetable,KG,12
+44,Curd,Dairy,KG,11
+45,Tandoori Masala,Seasoning,Gram,687
+46,Red Chilli Powder,Seasoning,Gram,192
+47,Turmeric Powder,Seasoning,Gram,104
+48,Garam Masala,Seasoning,Gram,131
+49,Vegetable Nuggets Mix,Frozen,KG,261
+50,Chicken Wings (Raw),Meat,KG,4
+51,Onion Rings Batter,Bakery,KG,6
+52,Potato Wedges (Frozen),Frozen,KG,169
+53,Packaged Drinking Water,Beverage,Liter,304
+54,Orange Concentrate,Beverage,Liter,71
+55,Mango Pulp,Beverage,KG,143
+56,Iced Tea Powder,Beverage,Gram,172
+57,Vanilla Essence,Seasoning,Liter,640
+58,Cornflour,Bakery,KG,6
+59,Baking Powder,Bakery,Gram,28
+60,Cheese Spread,Dairy,KG,19
+61,Napkins/Packaging Material,Packaging,Piece,1658
+62,Disposable Cutlery,Packaging,Piece,1372
+63,Pizza Box (Medium),Packaging,Piece,1591
+64,Burger Wrap,Packaging,Piece,857
+65,Cold Drink Cup,Packaging,Piece,1804

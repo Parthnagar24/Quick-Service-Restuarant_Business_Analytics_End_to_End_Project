@@ -1,0 +1,21 @@
+BranchID,BranchName,City,State,LocationType,OpeningDate,BranchStatus,ClosureDate
+1,QuickBite Kanpur Square,Kanpur,Uttar Pradesh,Residential Area,09-06-2021,Closed,22-08-2026
+2,QuickBite Thane Junction,Thane,Maharashtra,Business District,18-03-2016,Active,NULL
+3,QuickBite Mumbai Central,Mumbai,Maharashtra,High Street,22-04-2022,Active,NULL
+4,QuickBite Thiruvananthapuram Point,Thiruvananthapuram,Kerala,Business District,04-05-2018,Active,NULL
+5,QuickBite Bengaluru Plaza,Bengaluru,Karnataka,High Street,30-01-2018,Active,NULL
+6,QuickBite Noida Square,Noida,Uttar Pradesh,Business District,24-11-2017,Active,NULL
+7,QuickBite Indore Central,Indore,Madhya Pradesh,Mall,09-03-2017,Closed,22-08-2026
+8,QuickBite Nashik Point,Nashik,Maharashtra,Mall,14-11-2016,Active,NULL
+9,QuickBite Bhubaneswar Plaza,Bhubaneswar,Odisha,Business District,03-10-2021,Active,NULL
+10,QuickBite Jaipur Junction,Jaipur,Rajasthan,Business District,20-04-2022,Active,NULL
+11,QuickBite Nagpur Central,Nagpur,Maharashtra,Residential Area,21-08-2020,Active,NULL
+12,QuickBite Udaipur Junction,Udaipur,Rajasthan,Mall,27-09-2016,Active,NULL
+13,QuickBite Kolkata Point,Kolkata,West Bengal,Mall,08-01-2021,Active,NULL
+14,QuickBite Pune Junction,Pune,Maharashtra,Business District,03-08-2019,Closed,16-07-2026
+15,QuickBite Visakhapatnam Junction,Visakhapatnam,Andhra Pradesh,Business District,02-04-2016,Active,NULL
+16,QuickBite Vadodara Junction,Vadodara,Gujarat,High Street,18-10-2016,Active,NULL
+17,QuickBite Chandigarh Central,Chandigarh,Chandigarh,Mall,10-11-2017,Active,NULL
+18,QuickBite Guwahati Square,Guwahati,Assam,Business District,23-12-2017,Closed,20-08-2026
+19,QuickBite Bhopal Central,Bhopal,Madhya Pradesh,High Street,13-02-2021,Active,NULL
+20,QuickBite Mysuru Central,Mysuru,Karnataka,Residential Area,23-03-2016,Active,NULL

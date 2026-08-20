@@ -1,0 +1,6 @@
+Constraints used throughout the project were:
+
+1.Unique
+2.Check
+3.Primary Key
+4.Foreign Key etc

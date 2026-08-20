@@ -1,0 +1,5 @@
+Stakeholders
+
+The project is designed to support multiple stakeholders involved in QSR operations and decision-making. Senior management requires a high-level view of business performance and major operational risks. Operations managers require branch-level performance and demand patterns to identify areas requiring attention. Food safety and quality teams require visibility into inspection results, recurring violations and high-risk branches. Store managers require branch-specific sales, order and product performance. Marketing and product teams require information about customer demand and menu performance, while finance requires revenue, cost and profitability-related information where available.
+
+The Data Analyst acts as the bridge between these stakeholders and the underlying data by ensuring that the data is cleaned, structured, analyzed and translated into actionable insights.

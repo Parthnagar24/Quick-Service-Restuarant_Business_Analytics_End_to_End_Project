@@ -1,0 +1,47 @@
+A. Food Safety & Quality
+------------------------
+Which branches have the highest number of recorded food-safety or hygiene issues?
+Which types of violations occur most frequently?
+Which branches have repeated violations over time?
+Are previously flagged branches showing improvement after corrective action?
+Which branches should be prioritized for further investigation based on available quality data?
+
+B. Sales & Revenue
+--------------------
+What is the total revenue and total order volume over time?
+Which branches generate the highest and lowest revenue?
+What are the monthly/weekly sales trends?
+Which periods experience the highest order demand?
+What is the average order value, and how does it differ across branches or periods?
+
+C. Product Performance
+------------------------
+Which products generate the most revenue?
+Which products have the highest order volume?
+Which products consistently underperform?
+Which categories contribute the most to revenue?
+Are there products with high sales volume but relatively low revenue contribution?
+
+D. Customer & Ordering Behavior
+--------------------------------
+What does the typical customer order look like?
+What ordering patterns can be observed by time, location or order channel?
+Do customers tend to place larger orders during particular periods?
+If customer identifiers are available, what proportion of customers are repeat customers?
+Which customer segments contribute the most revenue?
+
+E. Cost & Efficiency
+-----------------------
+Which branches have the highest operating or delivery-related costs?
+How do discounts affect revenue and order value?
+Where is wastage occurring, if wastage data is available?
+Which products or branches have the greatest gap between revenue and available cost measures?
+Are there operational areas where increased sales are not translating into better economics?
+
+F. Cross-functional Analysis
+---------------------------------
+Do branches with repeated quality issues show unusual commercial performance?
+Are high-sales branches also operationally efficient?
+Are there branches with strong sales but significant operational/quality risks?
+Are there branches with weak sales but relatively good operational indicators?
+Which branches should management investigate first based on a combination of commercial performance and operational risk?

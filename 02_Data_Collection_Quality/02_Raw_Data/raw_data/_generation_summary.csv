@@ -1,0 +1,16 @@
+table_name,rows,columns,file_name
+Branches,20,7,Branches.csv
+Customers,12625,12,Customers.csv
+Employees,749,13,Employees.csv
+Products,70,8,Products.csv
+Ingredients,65,5,Ingredients.csv
+ProductIngredients,338,3,ProductIngredients.csv
+Orders,42000,13,Orders.csv
+OrderDetails,100065,7,OrderDetails.csv
+Deliveries,14557,9,Deliveries.csv
+Inventory,41600,10,Inventory.csv
+Wastage,10848,7,Wastage.csv
+OperatingCosts,5120,6,OperatingCosts.csv
+Refunds,2933,6,Refunds.csv
+Reviews,15868,9,Reviews.csv
+FoodSafetyInspections,347,10,FoodSafetyInspections.csv

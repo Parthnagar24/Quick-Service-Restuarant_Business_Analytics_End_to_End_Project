@@ -1,0 +1,348 @@
+InspectionID,BranchID,InspectionDate,InspectionType,InspectionScore,ComplianceStatus,ViolationCategory,ViolationSeverity,CorrectiveActionStatus,CorrectiveActionDescription
+1,1,2022-12-09,Follow-up,59,Major Issues,Staff Hygiene,Low,Pending,Staff Hygiene issue flagged — corrective action pending.
+2,1,2023-01-08,Follow-up,42,Major Issues,Food Storage Temperature,High,In Progress,Food Storage Temperature issue flagged — corrective action in progress.
+3,1,2023-02-07,Surprise,48,Major Issues,Food Storage Temperature,High,Completed,Food Storage Temperature issue flagged — corrective action completed.
+4,1,2023-03-09,Follow-up,90,Compliant,,,,
+5,1,2023-04-08,Routine,88,Compliant,,,,
+6,1,2023-05-08,Surprise,56,Major Issues,Expired Ingredient Usage,Critical,Pending,Expired Ingredient Usage issue flagged — corrective action pending.
+7,1,2023-06-07,Routine,40,Major Issues,Expired Ingredient Usage,Medium,Completed,Expired Ingredient Usage issue flagged — corrective action completed.
+8,1,2023-07-07,Routine,98,Compliant,,,,
+9,1,2023-08-06,Follow-up,22,Non-Compliant,Food Storage Temperature,Critical,Not Addressed,Food Storage Temperature issue flagged — corrective action not addressed.
+10,1,2023-09-05,Routine,83,Minor Issues,Staff Hygiene,High,Pending,Staff Hygiene issue flagged — corrective action pending.
+11,1,2023-10-05,Complaint-Triggered,99,Compliant,,,,
+12,1,2023-11-04,Surprise,75,Minor Issues,Staff Hygiene,Medium,Not Addressed,Staff Hygiene issue flagged — corrective action not addressed.
+13,1,2023-12-04,Surprise,59,Major Issues,Staff Hygiene,Low,Completed,Staff Hygiene issue flagged — corrective action completed.
+14,1,2024-01-03,Routine,35,Non-Compliant,Kitchen Cleanliness,Critical,In Progress,Kitchen Cleanliness issue flagged — corrective action in progress.
+15,1,2024-02-02,Follow-up,17,non-compliant,Kitchen Cleanliness,High,Pending,Kitchen Cleanliness issue flagged — corrective action pending.
+16,1,2024-03-03,Follow-up,83,Minor Issues,Food Storage Temperature,Low,In Progress,Food Storage Temperature issue flagged — corrective action in progress.
+17,1,2024-04-02,Complaint-Triggered,87,Compliant,,,,
+18,1,2024-05-02,Follow-up,38,Non-Compliant,Pest Control,Medium,In Progress,Pest Control issue flagged — corrective action in progress.
+19,1,2024-06-01,Surprise,16,Non-Compliant,Cross Contamination,Critical,In Progress,Cross Contamination issue flagged — corrective action in progress.
+20,1,2024-07-01,Routine,65,Minor Issues,Waste Disposal,Medium,Completed,Waste Disposal issue flagged — corrective action completed.
+21,1,2024-07-31,Follow-up,5,Non-Compliant,Staff Hygiene,Critical,Completed,Staff Hygiene issue flagged — corrective action completed.
+22,1,2024-08-30,Routine,16,Non-Compliant,Kitchen Cleanliness,Critical,Completed,Kitchen Cleanliness issue flagged — corrective action completed.
+23,2,2022-12-09,Complaint-Triggered,98,Compliant,,,,
+24,2,2023-03-09,Follow-up,94,Compliant,,,,
+25,2,2023-06-07,Complaint-Triggered,97,Compliant,,,,
+26,2,2023-09-05,Routine,96,Compliant,,,,
+27,2,2023-12-04,Routine,83,Minor Issues,Pest Control,Low,Completed,Pest Control issue flagged — corrective action completed.
+28,2,2024-03-03,Routine,92,Compliant,,,,
+29,2,2024-06-01,Follow-up,69,Minor Issues,Pest Control,Low,Completed,Pest Control issue flagged — corrective action completed.
+30,2,2024-08-30,Complaint-Triggered,97,Compliant,,,,
+31,2,2024-11-28,Surprise,97,Compliant,,,,
+32,2,2025-02-26,Complaint-Triggered,13,Non-Compliant,Staff Hygiene,Medium,In Progress,Staff Hygiene issue flagged — corrective action in progress.
+33,2,2025-05-27,Complaint-Triggered,86,Compliant,,,,
+34,2,2025-08-25,Surprise,100,Compliant,,,,
+35,2,2025-11-23,Follow-up,74,Minor Issues,Waste Disposal,High,Not Addressed,Waste Disposal issue flagged — corrective action not addressed.
+36,2,2026-02-21,Complaint-Triggered,94,Compliant,,,,
+37,2,2026-05-22,Surprise,92,Compliant,,,,
+38,2,2026-08-20,Complaint-Triggered,39,Non-Compliant,Pest Control,Critical,Pending,Pest Control issue flagged — corrective action pending.
+39,3,2022-12-09,Complaint-Triggered,77,Minor Issues,Staff Hygiene,Medium,Pending,Staff Hygiene issue flagged — corrective action pending.
+40,3,2023-03-09,Surprise,72,Minor Issues,Kitchen Cleanliness,Low,Pending,Kitchen Cleanliness issue flagged — corrective action pending.
+41,3,2023-06-07,Surprise,85,Compliant,,,,
+42,3,2023-09-05,Routine,63,Major Issues,Food Storage Temperature,High,Pending,Food Storage Temperature issue flagged — corrective action pending.
+43,3,2023-12-04,Routine,86,Compliant,,,,
+44,3,2024-03-03,Surprise,73,Minor Issues,Kitchen Cleanliness,Medium,Completed,Kitchen Cleanliness issue flagged — corrective action completed.
+45,3,2024-06-01,Follow-up,92,Compliant,,,,
+46,3,2024-08-30,Surprise,62,Major Issues,Kitchen Cleanliness,Low,Completed,Kitchen Cleanliness issue flagged — corrective action completed.
+47,3,2024-11-28,Routine,72,Minor Issues,Pest Control,Medium,Completed,Pest Control issue flagged — corrective action completed.
+48,3,2025-02-26,Follow-up,89,Compliant,,,,
+49,3,2025-05-27,Complaint-Triggered,68,Minor Issues,Expired Ingredient Usage,Critical,Not Addressed,Expired Ingredient Usage issue flagged — corrective action not addressed.
+50,3,2025-08-25,Complaint-Triggered,96,Compliant,,,,
+51,3,2025-11-23,Routine,32,Non-Compliant,Kitchen Cleanliness,High,Pending,Kitchen Cleanliness issue flagged — corrective action pending.
+52,3,2026-02-21,Complaint-Triggered,79,Minor Issues,Expired Ingredient Usage,Medium,In Progress,Expired Ingredient Usage issue flagged — corrective action in progress.
+53,3,2026-05-22,Complaint-Triggered,82,Minor Issues,Kitchen Cleanliness,Low,Completed,Kitchen Cleanliness issue flagged — corrective action completed.
+54,3,2026-08-20,Follow-up,90,Compliant,,,,
+55,4,2022-12-09,Follow-up,86,Compliant,,,,
+56,4,2023-03-09,Surprise,89,Compliant,,,,
+57,4,2023-06-07,Follow-up,88,Compliant,,,,
+58,4,2023-09-05,Follow-up,94,Compliant,,,,
+59,4,2023-12-04,Surprise,95,Compliant,,,,
+60,4,2024-03-03,Complaint-Triggered,97,Compliant,,,,
+61,4,2024-06-01,Routine,94,Compliant,,,,
+62,4,2024-08-30,Follow-up,96,Compliant,,,,
+63,4,2024-11-28,Surprise,84,Minor Issues,Cross Contamination,Low,Not Addressed,Cross Contamination issue flagged — corrective action not addressed.
+64,4,2025-02-26,Surprise,98,Compliant,,,,
+65,4,2025-05-27,Surprise,70,Minor Issues,Kitchen Cleanliness,Medium,Completed,Kitchen Cleanliness issue flagged — corrective action completed.
+66,4,2025-08-25,Surprise,83,Minor Issues,Waste Disposal,Critical,Pending,Waste Disposal issue flagged — corrective action pending.
+67,4,2025-11-23,Routine,86,Compliant,,,,
+68,4,2026-02-21,Follow-up,100,Compliant,,,,
+69,4,2026-05-22,Surprise,96,Compliant,,,,
+70,4,2026-08-20,Follow-up,69,Minor Issues,Waste Disposal,Medium,Completed,Waste Disposal issue flagged — corrective action completed.
+71,5,2022-12-09,Complaint-Triggered,94,Compliant,,,,
+72,5,2023-03-09,Follow-up,96,Compliant,,,,
+73,5,2023-06-07,Surprise,97,Compliant,,,,
+74,5,2023-09-05,Complaint-Triggered,97,Compliant,,,,
+75,5,2023-12-04,Routine,90,Compliant,,,,
+76,5,2024-03-03,Surprise,67,Minor Issues,Staff Hygiene,Critical,Not Addressed,Staff Hygiene issue flagged — corrective action not addressed.
+77,5,2024-06-01,Routine,97,Compliant,,,,
+78,5,2024-08-30,Routine,100,Compliant,,,,
+79,5,2024-11-28,Surprise,84,Minor Issues,Food Storage Temperature,Low,Pending,Food Storage Temperature issue flagged — corrective action pending.
+80,5,2025-02-26,Complaint-Triggered,88,Compliant,,,,
+81,5,2025-05-27,Follow-up,100,Compliant,,,,
+82,5,2025-08-25,Surprise,95,Compliant,,,,
+83,5,2025-11-23,Complaint-Triggered,89,Compliant,,,,
+84,5,2026-02-21,Routine,-5,Compliant,,,,
+85,5,2026-05-22,Surprise,96,Compliant,,,,
+86,5,2026-08-20,Surprise,74,Minor Issues,Cross Contamination,Low,Completed,Cross Contamination issue flagged — corrective action completed.
+87,6,2022-12-09,Surprise,91,Compliant,,,,
+88,6,2023-03-09,Surprise,96,Compliant,,,,
+89,6,2023-06-07,Follow-up,86,Compliant,,,,
+90,6,2023-09-05,Routine,89,COMPLIANT,,,,
+91,6,2023-12-04,Follow-up,12,Non-Compliant,Documentation Lapse,Critical,In Progress,Documentation Lapse issue flagged — corrective action in progress.
+92,6,2024-03-03,Complaint-Triggered,45,Major Issues,Food Storage Temperature,High,In Progress,Food Storage Temperature issue flagged — corrective action in progress.
+93,6,2024-06-01,Follow-up,95,Compliant,,,,
+94,6,2024-08-30,Routine,89,Compliant,,,,
+95,6,2024-11-28,Complaint-Triggered,72,Minor Issues,Expired Ingredient Usage,High,In Progress,Expired Ingredient Usage issue flagged — corrective action in progress.
+96,6,2025-02-26,Follow-up,81,Minor Issues,Kitchen Cleanliness,Low,Completed,Kitchen Cleanliness issue flagged — corrective action completed.
+97,6,2025-05-27,Follow-up,66,Minor Issues,Kitchen Cleanliness,Medium,Completed,Kitchen Cleanliness issue flagged — corrective action completed.
+98,6,2025-08-25,Surprise,68,Minor Issues,Documentation Lapse,Low,Completed,Documentation Lapse issue flagged — corrective action completed.
+99,6,2025-11-23,Complaint-Triggered,66,Minor Issues,Cross Contamination,Low,Not Addressed,Cross Contamination issue flagged — corrective action not addressed.
+100,6,2026-02-21,Follow-up,14,Non-Compliant,Pest Control,Critical,Not Addressed,Pest Control issue flagged — corrective action not addressed.
+101,6,2026-05-22,Complaint-Triggered,75,Minor Issues,Documentation Lapse,Medium,In Progress,Documentation Lapse issue flagged — corrective action in progress.
+102,6,2026-08-20,Surprise,97,Compliant,,,,
+103,7,2023-12-31,Follow-up,80,Minor Issues,Expired Ingredient Usage,Medium,In Progress,Expired Ingredient Usage issue flagged — corrective action in progress.
+104,7,2024-01-30,Surprise,86,Compliant,,,,
+105,7,2024-02-29,Routine,66,Minor Issues,Cross Contamination,High,In Progress,Cross Contamination issue flagged — corrective action in progress.
+106,7,2024-03-30,Surprise,59,Major Issues,Documentation Lapse,Critical,Completed,Documentation Lapse issue flagged — corrective action completed.
+107,7,2024-04-29,Surprise,62,Major Issues,Food Storage Temperature,Medium,Pending,Food Storage Temperature issue flagged — corrective action pending.
+108,7,2024-05-29,Surprise,60,Major Issues,Documentation Lapse,Low,Not Addressed,Documentation Lapse issue flagged — corrective action not addressed.
+109,7,2024-06-28,Follow-up,50,Major Issues,Food Storage Temperature,Critical,Completed,Food Storage Temperature issue flagged — corrective action completed.
+110,7,2024-07-28,Surprise,36,Non-Compliant,Food Storage Temperature,High,In Progress,Food Storage Temperature issue flagged — corrective action in progress.
+111,7,2024-08-27,Complaint-Triggered,12,Non-Compliant,Cross Contamination,High,Not Addressed,Cross Contamination issue flagged — corrective action not addressed.
+112,7,2024-09-26,Surprise,34,Non-Compliant,Pest Control,Low,Completed,Pest Control issue flagged — corrective action completed.
+113,7,2024-10-26,Routine,40,Major Issues,Expired Ingredient Usage,Medium,Completed,Expired Ingredient Usage issue flagged — corrective action completed.
+114,7,2024-11-25,Complaint-Triggered,52,Major Issues,Food Storage Temperature,Critical,Not Addressed,Food Storage Temperature issue flagged — corrective action not addressed.
+115,7,2024-12-25,Surprise,79,Minor Issues,Pest Control,High,Pending,Pest Control issue flagged — corrective action pending.
+116,7,2025-01-24,Follow-up,83,Minor Issues,Documentation Lapse,High,Completed,Documentation Lapse issue flagged — corrective action completed.
+117,7,2025-02-23,Surprise,96,Compliant,,,,
+118,7,2025-03-25,Routine,18,Non-Compliant,Waste Disposal,Critical,In Progress,Waste Disposal issue flagged — corrective action in progress.
+119,7,2025-04-24,Complaint-Triggered,58,Major Issues,Waste Disposal,High,Completed,Waste Disposal issue flagged — corrective action completed.
+120,7,2025-05-24,Complaint-Triggered,47,Major Issues,Documentation Lapse,Medium,Pending,Documentation Lapse issue flagged — corrective action pending.
+121,7,2025-06-23,Surprise,48,Major Issues,Staff Hygiene,Low,Completed,Staff Hygiene issue flagged — corrective action completed.
+122,7,2025-07-23,Routine,27,Non-Compliant,Pest Control,High,Not Addressed,Pest Control issue flagged — corrective action not addressed.
+123,7,2025-08-22,Surprise,27,Non-Compliant,Pest Control,Critical,Pending,Pest Control issue flagged — corrective action pending.
+124,7,2025-09-21,Surprise,32,Non-Compliant,Waste Disposal,Medium,Completed,Waste Disposal issue flagged — corrective action completed.
+125,7,2025-10-21,Follow-up,77,Minor Issues,Food Storage Temperature,Low,In Progress,Food Storage Temperature issue flagged — corrective action in progress.
+126,7,2025-11-20,Follow-up,45,Major Issues,Waste Disposal,Medium,Not Addressed,Waste Disposal issue flagged — corrective action not addressed.
+127,7,2025-12-20,Routine,0,Non-Compliant,Cross Contamination,Critical,Pending,Cross Contamination issue flagged — corrective action pending.
+128,8,2022-12-09,Routine,89,Compliant,,,,
+129,8,2023-03-09,Surprise,97,Compliant,,,,
+130,8,2023-06-07,Routine,65,Minor Issues,Food Storage Temperature,High,Completed,Food Storage Temperature issue flagged — corrective action completed.
+131,8,2023-09-05,Surprise,91,Compliant,,,,
+132,8,2023-12-04,Routine,66,Minor Issues,Kitchen Cleanliness,Medium,In Progress,Kitchen Cleanliness issue flagged — corrective action in progress.
+133,8,2024-03-03,Routine,94,Compliant,,,,
+134,8,2024-06-01,Follow-up,88,Compliant,,,,
+135,8,2024-08-30,Complaint-Triggered,66,Minor Issues,Pest Control,Low,In Progress,Pest Control issue flagged — corrective action in progress.
+136,8,2024-11-28,Follow-up,66,Minor Issues,Staff Hygiene,Low,Pending,Staff Hygiene issue flagged — corrective action pending.
+137,8,2025-02-26,Follow-up,97,Compliant,,,,
+138,8,2025-05-27,Routine,90,Compliant,,,,
+139,8,2025-08-25,Follow-up,53,Major Issues,Cross Contamination,Low,Pending,Cross Contamination issue flagged — corrective action pending.
+140,8,2025-11-23,Follow-up,76,Minor Issues,Pest Control,High,Not Addressed,Pest Control issue flagged — corrective action not addressed.
+141,8,2026-02-21,Surprise,68,Minor Issues,Documentation Lapse,Critical,Not Addressed,Documentation Lapse issue flagged — corrective action not addressed.
+142,8,2026-05-22,Complaint-Triggered,78,Minor Issues,Waste Disposal,Low,Pending,Waste Disposal issue flagged — corrective action pending.
+143,8,2026-08-20,Routine,93,Compliant,,,,
+144,9,2022-12-09,Follow-up,71,Minor Issues,Pest Control,Low,Completed,Pest Control issue flagged — corrective action completed.
+145,9,2023-03-09,Surprise,61,Major Issues,Documentation Lapse,Medium,Pending,Documentation Lapse issue flagged — corrective action pending.
+146,9,2023-06-07,Surprise,85,Compliant,,,,
+147,9,2023-09-05,Routine,90,Compliant,,,,
+148,9,2023-12-04,Follow-up,55,Major Issues,Documentation Lapse,Low,Pending,Documentation Lapse issue flagged — corrective action pending.
+149,9,2024-03-03,Routine,89,Compliant,,,,
+150,9,2024-06-01,Routine,78,Minor Issues,Documentation Lapse,High,Not Addressed,Documentation Lapse issue flagged — corrective action not addressed.
+151,9,2024-08-30,Routine,85,Compliant,,,,
+152,9,2024-11-28,Complaint-Triggered,91,Compliant,,,,
+153,9,2025-02-26,Complaint-Triggered,55,Major Issues,Pest Control,Critical,Completed,Pest Control issue flagged — corrective action completed.
+154,9,2025-05-27,Surprise,99,Compliant,,,,
+155,9,2025-08-25,Complaint-Triggered,93,Compliant,,,,
+156,9,2025-11-23,Complaint-Triggered,79,Minor Issues,Food Storage Temperature,Critical,Pending,Food Storage Temperature issue flagged — corrective action pending.
+157,9,2026-02-21,Complaint-Triggered,86,Compliant,,,,
+158,9,2026-05-22,Follow-up,99,Compliant,,,,
+159,9,2026-08-20,Complaint-Triggered,81,Minor Issues,Documentation Lapse,Low,Completed,Documentation Lapse issue flagged — corrective action completed.
+160,10,2022-12-09,Follow-up,49,Major Issues,Waste Disposal,Low,Pending,Waste Disposal issue flagged — corrective action pending.
+161,10,2023-03-09,Routine,87,Compliant,,,,
+162,10,2023-06-07,Routine,92,COMPLIANT,,,,
+163,10,2023-09-05,Surprise,59,Major Issues,Cross Contamination,Critical,Completed,Cross Contamination issue flagged — corrective action completed.
+164,10,2023-12-04,Surprise,96,Compliant,,,,
+165,10,2024-03-03,Follow-up,73,Minor Issues,Documentation Lapse,Medium,Completed,Documentation Lapse issue flagged — corrective action completed.
+166,10,2024-06-01,Complaint-Triggered,82,Minor Issues,Kitchen Cleanliness,High,Pending,Kitchen Cleanliness issue flagged — corrective action pending.
+167,10,2024-08-30,Routine,75,Minor Issues,Cross Contamination,Low,Pending,Cross Contamination issue flagged — corrective action pending.
+168,10,2024-11-28,Complaint-Triggered,78,Minor Issues,Waste Disposal,Medium,In Progress,Waste Disposal issue flagged — corrective action in progress.
+169,10,2025-02-26,Routine,85,Compliant,,,,
+170,10,2025-05-27,Complaint-Triggered,75,Minor Issues,Pest Control,Low,Not Addressed,Pest Control issue flagged — corrective action not addressed.
+171,10,2025-08-25,Follow-up,95,Compliant,,,,
+172,10,2025-11-23,Routine,84,Minor Issues,Documentation Lapse,High,Completed,Documentation Lapse issue flagged — corrective action completed.
+173,10,2026-02-21,Complaint-Triggered,88,Compliant,,,,
+174,10,2026-05-22,Surprise,105,Compliant,,,,
+175,10,2026-08-20,Routine,78,Minor Issues,Documentation Lapse,Low,In Progress,Documentation Lapse issue flagged — corrective action in progress.
+176,11,2022-12-09,Surprise,83,Minor Issues,Documentation Lapse,Critical,Completed,Documentation Lapse issue flagged — corrective action completed.
+177,11,2023-03-09,Surprise,94,Compliant,,,,
+178,11,2023-06-07,Surprise,99,Compliant,,,,
+179,11,2023-09-05,Routine,73,Minor Issues,Waste Disposal,Low,In Progress,Waste Disposal issue flagged — corrective action in progress.
+180,11,2023-12-04,Routine,71,Minor Issues,Waste Disposal,High,Pending,Waste Disposal issue flagged — corrective action pending.
+181,11,2024-03-03,Surprise,87,Compliant,,,,
+182,11,2024-06-01,Surprise,94,Compliant,,,,
+183,11,2024-08-30,Surprise,85,Compliant,,,,
+184,11,2024-11-28,Follow-up,78,Minor Issues,Documentation Lapse,Low,Completed,Documentation Lapse issue flagged — corrective action completed.
+185,11,2025-02-26,Follow-up,85,Compliant,,,,
+186,11,2025-05-27,Follow-up,85,Compliant,,,,
+187,11,2025-08-25,Routine,93,Compliant,,,,
+188,11,2025-11-23,Routine,91,Compliant,,,,
+189,11,2026-02-21,Routine,91,Compliant,,,,
+190,11,2026-05-22,Routine,75,Minor Issues,Staff Hygiene,High,Completed,Staff Hygiene issue flagged — corrective action completed.
+191,11,2026-08-20,Follow-up,9,Non-Compliant,Cross Contamination,Medium,In Progress,Cross Contamination issue flagged — corrective action in progress.
+192,12,2022-12-09,Complaint-Triggered,98,Compliant,,,,
+193,12,2023-03-09,Follow-up,89,Compliant,,,,
+194,12,2023-06-07,Surprise,86,Compliant,,,,
+195,12,2023-09-05,Complaint-Triggered,100,Compliant,,,,
+196,12,2023-12-04,Surprise,86,Compliant,,,,
+197,12,2024-03-03,Routine,97,Compliant,,,,
+198,12,2024-06-01,Routine,97,Compliant,,,,
+199,12,2024-08-30,Routine,89,Compliant,,,,
+200,12,2024-11-28,Follow-up,86,Compliant,,,,
+201,12,2025-02-26,Follow-up,69,Minor Issues,Documentation Lapse,Critical,Pending,Documentation Lapse issue flagged — corrective action pending.
+202,12,2025-05-27,Routine,94,Compliant,,,,
+203,12,2025-08-25,Surprise,85,Compliant,,,,
+204,12,2025-11-23,Routine,93,Compliant,,,,
+205,12,2026-02-21,Follow-up,87,Compliant,,,,
+206,12,2026-05-22,Surprise,85,Compliant,,,,
+207,12,2026-08-20,Routine,72,Minor Issues,Waste Disposal,High,Pending,Waste Disposal issue flagged — corrective action pending.
+208,13,2022-12-09,Follow-up,70,Minor Issues,Cross Contamination,Medium,Completed,Cross Contamination issue flagged — corrective action completed.
+209,13,2023-03-09,Complaint-Triggered,90,Compliant,,,,
+210,13,2023-06-07,Follow-up,87,Compliant,,,,
+211,13,2023-09-05,Complaint-Triggered,97,Compliant,,,,
+212,13,2023-12-04,Complaint-Triggered,95,Compliant,,,,
+213,13,2024-03-03,Follow-up,96,Compliant,,,,
+214,13,2024-06-01,Follow-up,51,Major Issues,Documentation Lapse,Low,Completed,Documentation Lapse issue flagged — corrective action completed.
+215,13,2024-08-30,Surprise,88,Compliant,,,,
+216,13,2024-11-28,Follow-up,71,Minor Issues,Kitchen Cleanliness,Low,In Progress,Kitchen Cleanliness issue flagged — corrective action in progress.
+217,13,2025-02-26,Follow-up,100,Compliant,,,,
+218,13,2025-05-27,Complaint-Triggered,98,Compliant,,,,
+219,13,2025-08-25,Routine,96,Compliant,,,,
+220,13,2025-11-23,Routine,9,Non-Compliant,Pest Control,High,Completed,Pest Control issue flagged — corrective action completed.
+221,13,2026-02-21,Complaint-Triggered,89,Compliant,,,,
+222,13,2026-05-22,Routine,86,Compliant,,,,
+223,13,2026-08-20,Routine,71,Minor Issues,Kitchen Cleanliness,Low,In Progress,Kitchen Cleanliness issue flagged — corrective action in progress.
+224,14,2022-12-09,Complaint-Triggered,93,Compliant,,,,
+225,14,2023-01-08,Follow-up,81,Minor Issues,Pest Control,Low,In Progress,Pest Control issue flagged — corrective action in progress.
+226,14,2023-02-07,Surprise,57,Major Issues,Staff Hygiene,Low,Not Addressed,Staff Hygiene issue flagged — corrective action not addressed.
+227,14,2023-03-09,Follow-up,51,Major Issues,Expired Ingredient Usage,Critical,Completed,Expired Ingredient Usage issue flagged — corrective action completed.
+228,14,2023-04-08,Complaint-Triggered,45,Major Issues,Food Storage Temperature,Low,Completed,Food Storage Temperature issue flagged — corrective action completed.
+229,14,2023-05-08,Surprise,39,Non-Compliant,Pest Control,High,Pending,Pest Control issue flagged — corrective action pending.
+230,14,2023-06-07,Follow-up,50,Major Issues,Expired Ingredient Usage,High,In Progress,Expired Ingredient Usage issue flagged — corrective action in progress.
+231,14,2023-07-07,Routine,71,Minor Issues,Pest Control,Low,In Progress,Pest Control issue flagged — corrective action in progress.
+232,14,2023-08-06,Routine,60,Major Issues,Pest Control,Medium,Completed,Pest Control issue flagged — corrective action completed.
+233,14,2023-09-05,Surprise,6,Non-Compliant,Pest Control,Critical,Completed,Pest Control issue flagged — corrective action completed.
+234,14,2023-10-05,Complaint-Triggered,59,Major Issues,Documentation Lapse,Low,Completed,Documentation Lapse issue flagged — corrective action completed.
+235,14,2023-11-04,Follow-up,67,Minor Issues,Kitchen Cleanliness,High,Completed,Kitchen Cleanliness issue flagged — corrective action completed.
+236,14,2023-12-04,Follow-up,61,Major Issues,Pest Control,Medium,Pending,Pest Control issue flagged — corrective action pending.
+237,14,2024-01-03,Follow-up,50,Major Issues,Kitchen Cleanliness,Medium,Completed,Kitchen Cleanliness issue flagged — corrective action completed.
+238,14,2024-02-02,Surprise,22,Non-Compliant,Food Storage Temperature,High,Completed,Food Storage Temperature issue flagged — corrective action completed.
+239,14,2024-03-03,Follow-up,84,Minor Issues,Expired Ingredient Usage,Medium,Pending,Expired Ingredient Usage issue flagged — corrective action pending.
+240,14,2024-04-02,Complaint-Triggered,77,Minor Issues,Waste Disposal,Low,In Progress,Waste Disposal issue flagged — corrective action in progress.
+241,14,2024-05-02,Routine,48,Major Issues,Staff Hygiene,High,Completed,Staff Hygiene issue flagged — corrective action completed.
+242,14,2024-06-01,Follow-up,84,Minor Issues,Staff Hygiene,Low,Not Addressed,Staff Hygiene issue flagged — corrective action not addressed.
+243,15,2022-12-09,Complaint-Triggered,79,Minor Issues,Food Storage Temperature,Low,In Progress,Food Storage Temperature issue flagged — corrective action in progress.
+244,15,2023-03-09,Complaint-Triggered,82,Minor Issues,Kitchen Cleanliness,Low,In Progress,Kitchen Cleanliness issue flagged — corrective action in progress.
+245,15,2023-06-07,Surprise,66,Minor Issues,Food Storage Temperature,Low,In Progress,Food Storage Temperature issue flagged — corrective action in progress.
+246,15,2023-09-05,Complaint-Triggered,92,Compliant,,,,
+247,15,2023-12-04,Follow-up,98,Compliant,,,,
+248,15,2024-03-03,Follow-up,95,Compliant,,,,
+249,15,2024-06-01,Surprise,88,Compliant,,,,
+250,15,2024-08-30,Complaint-Triggered,95,Compliant,,,,
+251,15,2024-11-28,Routine,81,Minor Issues,Staff Hygiene,Low,In Progress,Staff Hygiene issue flagged — corrective action in progress.
+252,15,2025-02-26,Routine,76,Minor Issues,Pest Control,High,Completed,Pest Control issue flagged — corrective action completed.
+253,15,2025-05-27,Routine,90,Compliant,,,,
+254,15,2025-08-25,Surprise,94,Compliant,,,,
+255,15,2025-11-23,Surprise,7,Non-Compliant,Food Storage Temperature,High,Completed,Food Storage Temperature issue flagged — corrective action completed.
+256,15,2026-02-21,Surprise,92,Compliant,,,,
+257,15,2026-05-22,Complaint-Triggered,0,Non-Compliant,Expired Ingredient Usage,High,Pending,Expired Ingredient Usage issue flagged — corrective action pending.
+258,15,2026-08-20,Routine,79,Minor Issues,Food Storage Temperature,Low,Completed,Food Storage Temperature issue flagged — corrective action completed.
+259,16,2022-12-09,Routine,91,Compliant,,,,
+260,16,2023-03-09,Follow-up,87,Compliant,,,,
+261,16,2023-06-07,Routine,92,Compliant,,,,
+262,16,2023-09-05,Surprise,94,Compliant,,,,
+263,16,2023-12-04,Complaint-Triggered,66,Minor Issues,Waste Disposal,Critical,Completed,Waste Disposal issue flagged — corrective action completed.
+264,16,2024-03-03,Complaint-Triggered,87,Compliant,,,,
+265,16,2024-06-01,Follow-up,89,Compliant,,,,
+266,16,2024-08-30,Complaint-Triggered,85,Compliant,,,,
+267,16,2024-11-28,Surprise,86,Compliant,,,,
+268,16,2025-02-26,Follow-up,96,Compliant,,,,
+269,16,2025-05-27,Routine,88,Compliant,,,,
+270,16,2025-08-25,Follow-up,81,Minor Issues,Expired Ingredient Usage,Medium,Not Addressed,Expired Ingredient Usage issue flagged — corrective action not addressed.
+271,16,2025-11-23,Follow-up,94,Compliant,,,,
+272,16,2026-02-21,Complaint-Triggered,90,Compliant,,,,
+273,16,2026-05-22,Complaint-Triggered,42,Major Issues,Kitchen Cleanliness,Medium,Pending,Kitchen Cleanliness issue flagged — corrective action pending.
+274,16,2026-08-20,Surprise,100,Compliant,,,,
+275,17,2022-12-09,Complaint-Triggered,93,Compliant,,,,
+276,17,2023-03-09,Routine,90,Compliant,,,,
+277,17,2023-06-07,Routine,99,Compliant,,,,
+278,17,2023-09-05,Surprise,85,Compliant,,,,
+279,17,2023-12-04,Complaint-Triggered,66,Minor Issues,Food Storage Temperature,Critical,Completed,Food Storage Temperature issue flagged — corrective action completed.
+280,17,2024-03-03,Routine,93,Compliant,,,,
+281,17,2024-06-01,Complaint-Triggered,87,Compliant,,,,
+282,17,2024-08-30,Routine,93,Compliant,,,,
+283,17,2024-11-28,Surprise,58,Major Issues,Food Storage Temperature,Medium,Completed,Food Storage Temperature issue flagged — corrective action completed.
+284,17,2025-02-26,Complaint-Triggered,97,Compliant,,,,
+285,17,2025-05-27,Complaint-Triggered,78,Minor Issues,Waste Disposal,Low,Not Addressed,Waste Disposal issue flagged — corrective action not addressed.
+286,17,2025-08-25,Surprise,92,Compliant,,,,
+287,17,2025-11-23,Complaint-Triggered,83,Minor Issues,Food Storage Temperature,Medium,In Progress,Food Storage Temperature issue flagged — corrective action in progress.
+288,17,2026-02-21,Complaint-Triggered,80,Minor Issues,Cross Contamination,Low,In Progress,Cross Contamination issue flagged — corrective action in progress.
+289,17,2026-05-22,Routine,84,Minor Issues,Waste Disposal,Low,Not Addressed,Waste Disposal issue flagged — corrective action not addressed.
+290,17,2026-08-20,Complaint-Triggered,92,Compliant,,,,
+291,18,2023-07-04,Routine,96,Compliant,,,,
+292,18,2023-08-03,Routine,81,Minor Issues,Pest Control,Low,In Progress,Pest Control issue flagged — corrective action in progress.
+293,18,2023-09-02,Follow-up,72,Minor Issues,Kitchen Cleanliness,Low,Completed,Kitchen Cleanliness issue flagged — corrective action completed.
+294,18,2023-10-02,Complaint-Triggered,90,Compliant,,,,
+295,18,2023-11-01,Follow-up,82,Minor Issues,Staff Hygiene,Low,Pending,Staff Hygiene issue flagged — corrective action pending.
+296,18,2023-12-01,Routine,0,Non-Compliant,Documentation Lapse,Critical,Pending,Documentation Lapse issue flagged — corrective action pending.
+297,18,2023-12-31,Complaint-Triggered,68,Minor Issues,Expired Ingredient Usage,Low,In Progress,Expired Ingredient Usage issue flagged — corrective action in progress.
+298,18,2024-01-30,Follow-up,78,Minor Issues,Kitchen Cleanliness,High,In Progress,Kitchen Cleanliness issue flagged — corrective action in progress.
+299,18,2024-02-29,Complaint-Triggered,77,Minor Issues,Food Storage Temperature,Medium,Not Addressed,Food Storage Temperature issue flagged — corrective action not addressed.
+300,18,2024-03-30,Follow-up,19,Non-Compliant,Pest Control,High,Not Addressed,Pest Control issue flagged — corrective action not addressed.
+301,18,2024-04-29,Surprise,100,Compliant,,,,
+302,18,2024-05-29,Routine,6,Non-Compliant,Cross Contamination,Critical,In Progress,Cross Contamination issue flagged — corrective action in progress.
+303,18,2024-06-28,Routine,76,Minor Issues,Waste Disposal,Low,Pending,Waste Disposal issue flagged — corrective action pending.
+304,18,2024-07-28,Follow-up,28,Non-Compliant,Waste Disposal,Medium,In Progress,Waste Disposal issue flagged — corrective action in progress.
+305,18,2024-08-27,Complaint-Triggered,78,Minor Issues,Pest Control,Medium,In Progress,Pest Control issue flagged — corrective action in progress.
+306,18,2024-09-26,Routine,78,Minor Issues,Kitchen Cleanliness,High,Completed,Kitchen Cleanliness issue flagged — corrective action completed.
+307,18,2024-10-26,Follow-up,35,Non-Compliant,Pest Control,High,Completed,Pest Control issue flagged — corrective action completed.
+308,18,2024-11-25,Follow-up,95,Compliant,,,,
+309,18,2024-12-25,Routine,46,Major Issues,Documentation Lapse,Low,Completed,Documentation Lapse issue flagged — corrective action completed.
+310,18,2025-01-24,Complaint-Triggered,71,Minor Issues,Waste Disposal,High,Completed,Waste Disposal issue flagged — corrective action completed.
+311,18,2025-02-23,Routine,82,Minor Issues,Kitchen Cleanliness,Medium,Completed,Kitchen Cleanliness issue flagged — corrective action completed.
+312,18,2025-03-25,Surprise,63,Major Issues,Documentation Lapse,Low,Completed,Documentation Lapse issue flagged — corrective action completed.
+313,18,2025-04-24,Follow-up,67,Minor Issues,Cross Contamination,Low,Completed,Cross Contamination issue flagged — corrective action completed.
+314,18,2025-05-24,Surprise,21,Non-Compliant,Waste Disposal,High,Completed,Waste Disposal issue flagged — corrective action completed.
+315,18,2025-06-23,Follow-up,68,Minor Issues,Staff Hygiene,Medium,Completed,Staff Hygiene issue flagged — corrective action completed.
+316,19,2022-12-09,Follow-up,75,Minor Issues,Kitchen Cleanliness,Low,In Progress,Kitchen Cleanliness issue flagged — corrective action in progress.
+317,19,2023-03-09,Surprise,74,Minor Issues,Waste Disposal,Low,Completed,Waste Disposal issue flagged — corrective action completed.
+318,19,2023-06-07,Routine,85,Compliant,,,,
+319,19,2023-09-05,Follow-up,87,Compliant,,,,
+320,19,2023-12-04,Complaint-Triggered,91,Compliant,,,,
+321,19,2024-03-03,Complaint-Triggered,99,Compliant,,,,
+322,19,2024-06-01,Complaint-Triggered,99,Compliant,,,,
+323,19,2024-08-30,Complaint-Triggered,93,Compliant,,,,
+324,19,2024-11-28,Follow-up,97,Compliant,,,,
+325,19,2025-02-26,Complaint-Triggered,90,Compliant,,,,
+326,19,2025-05-27,Follow-up,92,Compliant,,,,
+327,19,2025-08-25,Surprise,91,Compliant,,,,
+328,19,2025-11-23,Follow-up,70,Minor Issues,Expired Ingredient Usage,Medium,Completed,Expired Ingredient Usage issue flagged — corrective action completed.
+329,19,2026-02-21,Follow-up,88,Compliant,,,,
+330,19,2026-05-22,Complaint-Triggered,71,Minor Issues,Expired Ingredient Usage,High,Pending,Expired Ingredient Usage issue flagged — corrective action pending.
+331,19,2026-08-20,Routine,150,Compliant,,,,
+332,20,2022-12-09,Follow-up,94,compliant,,,,
+333,20,2023-03-09,Routine,66,Minor Issues,Waste Disposal,Medium,Completed,Waste Disposal issue flagged — corrective action completed.
+334,20,2023-06-07,Surprise,92,Compliant,,,,
+335,20,2023-09-05,Follow-up,100,Compliant,,,,
+336,20,2023-12-04,Complaint-Triggered,100,Compliant,,,,
+337,20,2024-03-03,Surprise,65,Minor Issues,Pest Control,Low,In Progress,Pest Control issue flagged — corrective action in progress.
+338,20,2024-06-01,Follow-up,95,Compliant,,,,
+339,20,2024-08-30,Follow-up,70,Minor Issues,Kitchen Cleanliness,Medium,Not Addressed,Kitchen Cleanliness issue flagged — corrective action not addressed.
+340,20,2024-11-28,Follow-up,97,Compliant,,,,
+341,20,2025-02-26,Follow-up,99,Compliant,,,,
+342,20,2025-05-27,Routine,90,Compliant,,,,
+343,20,2025-08-25,Follow-up,64,Major Issues,Cross Contamination,Medium,Completed,Cross Contamination issue flagged — corrective action completed.
+344,20,2025-11-23,Complaint-Triggered,89,Compliant,,,,
+345,20,2026-02-21,Surprise,89,Compliant,,,,
+346,20,2026-05-22,Follow-up,85,Compliant,,,,
+347,20,2026-08-20,Surprise,98,Compliant,,,,

@@ -1,0 +1,71 @@
+ProductID,ProductName,Category,ProductType,CostPrice,SellingPrice,ProductStatus,LaunchDate
+1,Margherita Pizza,PIZZA,Veg,101.01,248.27,Active,2017-10-08
+2,Farmhouse Pizza,Pizza,Veg,48.83,122.34,Active,2026-07-09
+3,Peppy Paneer Pizza,Pizza,Veg,45.56,93.62,Active,2022-03-12
+4,Chicken Tikka Pizza,Pizza,Non-Veg,50.6,97.88,Discontinued,2017-07-08
+5,Pepperoni Pizza,Pizza,Non-Veg,70.2,182.17,Active,2017-06-22
+6,Veggie Supreme Pizza,Pizza,Veg,87.14,178.02,Active,2019-05-15
+7,Cheese Burst Pizza,Pizza,Veg,106.1,243.68,Active,2016-09-29
+8,Tandoori Paneer Pizza,Pizza,Veg,76.01,180.47,Active,2019-08-25
+9,Mexican Wave Pizza,Pizza,Veg,68.94,151.74,Active,2016-06-12
+10,Chicken Sausage Pizza,Pizza,Non-Veg,107.67,231.22,Active,2023-07-17
+11,Classic Veg Burger,Burger,Veg,102.58,211.28,Active,2022-08-13
+12,Aloo Tikki Burger,Burger,Veg,62.49,147.57,Active,2022-08-21
+13,Paneer Tikka Burger,Burger,Veg,73.4,160.7,Active,2017-03-14
+14,Chicken Zinger Burger,Burger,Non-Veg,69.86,172.14,Active,2024-02-10
+15,Grilled Chicken Burger,Burger,Non-Veg,62.35,154.26,Active,2016-01-26
+16,Double Patty Burger,Burger,Veg,53.11,110.35,Active,2022-08-02
+17,Spicy Chicken Burger,Burger,Non-Veg,79.3,144.83,Active,2017-10-22
+18,Mexican Bean Burger,Burger,Veg,77.47,140.88,Active,2022-08-06
+19,French Fries,Side,Veg,86.4,206.87,Discontinued,2022-11-02
+20,Peri Peri Fries,Side,Veg,95.31,238.82,Active,2025-06-19
+21,Cheesy Garlic Bread,Side,Veg,78.48,159.11,Active,2020-07-21
+22,Chicken Wings,Side,Non-Veg,52.75,136.34,Active,2023-01-15
+23,Veg Nuggets,Side,Veg,105.03,208.08,Active,2021-04-15
+24,Chicken Popcorn,Side,Non-Veg,90.18,205.36,Active,2025-02-27
+25,Onion Rings,Side,Veg,74.59,163.63,Active,2018-04-21
+26,Potato Wedges,Side,Veg,73.62,183.0,Active,2016-07-11
+27,Paneer Nuggets,Side,Veg,34.05,68.37,Active,2026-03-13
+28,Cola (Regular),Beverage,Beverage,28.16,96.03,Active,2024-11-18
+29,Cola (Diet),Beverage,Beverage,28.1,93.43,Active,2024-04-24
+30,Lemon Iced Tea,Beverage,Beverage,27.88,60.79,Active,2018-02-24
+31,Fresh Lime Soda,Beverage,Beverage,30.01,64.68,Active,2025-01-12
+32,Cold Coffee,Beverage,Beverage,30.03,79.0,Active,2021-04-07
+33,Masala Chaas,Beverage,Beverage,27.37,82.14,Active,2024-11-25
+34,Mango Shake,Beverage,Beverage,12.36,41.41,Active,2017-03-16
+35,Packaged Mineral Water,Beverage,Beverage,24.42,82.41,Discontinued,2024-09-15
+36,  Orange Juice  ,Beverage,Beverage,14.14,33.65,Active,2017-10-18
+37,Choco Lava Cake,Dessert,Dessert,22.59,63.47,Active,2025-02-03
+38,Butterscotch Sundae,Dessert,Dessert,25.69,52.51,Active,2022-08-15
+39,Brownie with Ice Cream,Dessert,Dessert,20.7,49.95,Active,2025-10-07
+40,Gulab Jamun Fusion,Dessert,Dessert,43.12,122.76,Active,2022-09-09
+41,Vanilla Ice Cream Cup,Dessert,Dessert,19.44,50.99,Active,2026-04-13
+42,Chocolate Chip Cookie,Dessert,Dessert,33.25,75.33,Active,2018-05-17
+43,Pizza Meal Combo,Combo,Non-Veg,140.76,277.53,Active,2019-11-07
+44,Burger Meal Combo,Combo,Veg,111.04,190.78,Active,2020-10-10
+45,Family Feast Combo,Combo,Veg,123.5,206.77,Active,2020-04-29
+46,Kids Meal Combo,Combo,Veg,93.47,161.47,Active,2020-05-10
+47,Duo Pizza Combo,Combo,Veg,102.76,188.17,Active,2016-12-12
+48,Snack Box Combo,Combo,Non-Veg,179.2,367.71,Active,2021-07-22
+50,Duo Pizza Combo (Large),Combo,Veg,133.59,244.62,Active,2016-12-12
+51,Pepperoni Pizza (Large),Pizza,Non-Veg,91.26,236.82,Active,2017-06-22
+52,Chocolate Chip Cookie (Large),Dessert,Dessert,43.23,97.93,Active,2018-05-17
+53,Mexican Wave Pizza (Large),Pizza,Veg,89.62,197.26,Active,2016-06-12
+54,Grilled Chicken Burger (Large),Burger,Non-Veg,81.06,200.54,Active,2016-01-26
+55,Snack Box Combo (Large),Combo,Non-Veg,232.96,478.02,Active,2021-07-22
+56,Family Feast Combo (Large),Combo,Veg,160.55,268.8,Active,2020-04-29
+57,Packaged Mineral Water (Large),Beverage,Beverage,31.75,107.13,Discontinued,2024-09-15
+58,Mexican Bean Burger (Large),Burger,Veg,100.71,183.14,Active,2022-08-06
+59,Family Feast Combo (Large) (Large),Combo,Veg,208.72,349.44,Active,2020-04-29
+60,Onion Rings (Large),Side,Veg,96.97,212.72,Active,2018-04-21
+61,Tandoori Paneer Pizza (Large),Pizza,Veg,98.81,234.61,Active,2019-08-25
+62,Gulab Jamun Fusion (Large),Dessert,Dessert,56.06,159.59,Active,2022-09-09
+63,Grilled Chicken Burger (Large),Burger,Non-Veg,81.06,200.54,Active,2016-01-26
+64,Mexican Wave Pizza (Large) (Large),Pizza,Veg,116.51,256.44,Active,2016-06-12
+65,Chicken Sausage Pizza (Large),Pizza,Non-Veg,139.97,300.59,Active,2023-07-17
+66,Tandoori Paneer Pizza (Large),Pizza,Veg,98.81,234.61,Active,2019-08-25
+67,Peri Peri Fries (Large),Side,Veg,123.9,310.47,Active,2025-06-19
+68,Peri Peri Fries (Large),Side,Veg,123.9,310.47,Active,2025-06-19
+69,Chicken Wings (Large),Side,Non-Veg,68.58,177.24,Active,2023-01-15
+70,Duo Pizza Combo (Large) (Large),Combo,Veg,173.67,318.01,Active,2016-12-12
+71,Farmhouse Pizza (Large),Pizza,Veg,63.48,159.04,Active,2026-07-09
